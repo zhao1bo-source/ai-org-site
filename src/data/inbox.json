@@ -1,0 +1,302 @@
+{
+  "generated_at": "2026-07-09T07:24:49.487550+00:00",
+  "items": [
+    {
+      "pillar": "data",
+      "relevance_score": 75,
+      "tags": [
+        "拉丁美洲",
+        "所有企业规模",
+        "技能重塑"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡全球研究院发布关于AI在拉丁美洲重塑工作与技能的报告。",
+        "decision_action": "报告指出大多数技能仍将被需要，但人们使用技能的方式将因与智能机器协作而改变。",
+        "result": "待验证（报告为预测性分析，无具体企业结果）。",
+        "lesson": "高管应关注技能使用方式的转变，而非技能本身的淘汰，并投资于人机协作培训。"
+      },
+      "executive_takeaway": "技能需求不变，但使用方式剧变，需提前布局人机协作培训。",
+      "signal_strength": "low",
+      "id": "d6f044b6",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America",
+      "link": "https://www.mckinsey.com/mgi/our-research/agents-robots-and-us-how-ai-reshapes-work-and-skills-in-latin-america",
+      "published": "Thu, 09 Jul 2026",
+      "ingested_at": "2026-07-09T07:21:15.224289+00:00"
+    },
+    {
+      "pillar": "data",
+      "relevance_score": 75,
+      "tags": [
+        "跨行业",
+        "大型企业",
+        "AI转型",
+        "价值捕获"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡全球调研显示多数企业仍处于AI应用早期阶段。",
+        "decision_action": "调研企业如何从个人采用AI向企业级价值捕获推进。",
+        "result": "待验证（调研结果尚未公开具体数据）。",
+        "lesson": "高管应制定分阶段AI转型路线图，从试点到规模化，并建立组织能力以捕获全企业价值。"
+      },
+      "executive_takeaway": "AI转型需分三阶段推进，从个人应用到企业级价值捕获。",
+      "signal_strength": "low",
+      "id": "32687f3d",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "From adoption to impact: Three horizons of AI transformation",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/from-adoption-to-impact-three-horizons-of-ai-transformation",
+      "published": "Wed, 08 Jul 2026",
+      "ingested_at": "2026-07-09T07:21:18.695980+00:00"
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "跨行业",
+        "大型企业",
+        "运营模式",
+        "AI转型"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡发布报告，指出AI的真正优势不在于技术本身，而在于企业如何重新设计工作方式和决策流程。",
+        "decision_action": "建议企业将AI视为运营模式变革的催化剂，重新设计组织架构、流程和决策权分配，而非仅部署工具。",
+        "result": "待验证",
+        "lesson": "高管应优先投资于运营模式重塑，包括人员能力、流程再造和决策机制，而非单纯追求AI技术部署。"
+      },
+      "executive_takeaway": "AI优势源于运营模式重塑，而非技术本身。",
+      "signal_strength": "low",
+      "id": "4fc0a1dd",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "The operating model advantage: Why AI winners are rewiring their organizations",
+      "link": "https://www.mckinsey.com/industries/industrials/our-insights/the-operating-model-advantage-why-ai-winners-are-rewiring-their-organizations",
+      "published": "Tue, 07 Jul 2026",
+      "ingested_at": "2026-07-09T07:21:26.336395+00:00"
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "AI",
+        "所有企业",
+        "资源分配",
+        "适应性"
+      ],
+      "structured_summary": {
+        "background": "AI快速颠覆时代，企业面临不确定性加剧的环境。",
+        "decision_action": "麦肯锡提出，企业应加速资源重新分配，而非追求精准预测。",
+        "result": "待验证",
+        "lesson": "高管应将组织能力从预测转向快速学习和资源再配置，以适应性取胜。"
+      },
+      "executive_takeaway": "AI时代赢在快速学习与资源再分配，而非精准预测。",
+      "signal_strength": "low",
+      "id": "297dc894",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "Why accelerated resource allocation matters in the age of AI",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/why-accelerated-resource-allocation-matters-in-the-age-of-ai",
+      "published": "Mon, 06 Jul 2026",
+      "ingested_at": "2026-07-09T07:21:31.231900+00:00"
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "医疗",
+        "大型企业",
+        "人机协作",
+        "自动化"
+      ],
+      "structured_summary": {
+        "background": "医疗行业面临生产力危机，单纯增加招聘和技术投入无法解决。",
+        "decision_action": "提出通过人机协作工作流实现自动化，而非完全替代人力。",
+        "result": "待验证（文章为观点性内容，无具体数据）",
+        "lesson": "高管应推动人机协作流程设计，而非仅追求技术部署或增员。"
+      },
+      "executive_takeaway": "医疗行业需用AI重塑工作流，而非简单增员或上技术。",
+      "signal_strength": "low",
+      "id": "e47edd48",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "The real future of work in healthcare",
+      "link": "https://www.mckinsey.com/industries/healthcare/our-insights/the-real-future-of-work-in-healthcare",
+      "published": "Thu, 02 Jul 2026",
+      "ingested_at": "2026-07-09T07:21:39.346083+00:00"
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "生物制药",
+        "大型企业",
+        "AI驱动研发",
+        "决策循环"
+      ],
+      "structured_summary": {
+        "background": "生物制药研发当前采用线性、分段的工作流程，导致不确定性高、周期长。",
+        "decision_action": "提出用AI驱动的连接决策循环模型替代现有流程，实现实时学习和迭代。",
+        "result": "待验证",
+        "lesson": "高管应推动研发组织从线性门控转向学习循环，通过AI整合数据与决策，缩短药物上市时间。"
+      },
+      "executive_takeaway": "用AI决策循环替代线性流程，加速药物研发。",
+      "signal_strength": "medium",
+      "id": "faa25fa0",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "From linear gates to learning loops: Rewiring biopharma R&D with AI",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/from-linear-gates-to-learning-loops-rewiring-biopharma-r-and-d-with-ai",
+      "published": "Mon, 29 Jun 2026",
+      "ingested_at": "2026-07-09T07:22:15.359306+00:00"
+    },
+    {
+      "pillar": "memo",
+      "relevance_score": 85,
+      "tags": [
+        "AI驱动",
+        "大型企业",
+        "学习型组织"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡全球研究院（MGI）主席Sven Smit即将卸任，在访谈中分享对AI时代组织变革的见解。",
+        "decision_action": "Smit提出在AI驱动的世界中，组织成功的关键是成为“最快的学习者”，强调机构需要系统性地加速知识获取和应用。",
+        "result": "待验证",
+        "lesson": "高管应优先构建组织学习能力，而非仅关注AI工具部署；建立快速实验和知识共享机制是赢得竞争优势的核心。"
+      },
+      "executive_takeaway": "AI时代，组织学习速度决定竞争力，而非技术本身。",
+      "signal_strength": "medium",
+      "id": "335752a6",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "In an AI-driven world, the fastest learner will win: An interview with McKinsey’s Sven Smit",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/in-an-ai-driven-world-the-fastest-learner-will-win-an-interview-with-mckinseys-sven-smit",
+      "published": "Fri, 26 Jun 2026",
+      "ingested_at": "2026-07-09T07:22:25.769806+00:00"
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "科技",
+        "大型企业",
+        "AI重组",
+        "工程组织"
+      ],
+      "structured_summary": {
+        "background": "Meta（原Facebook）作为社交媒体巨头，其工程组织正在经历由AI驱动的剧烈变革。",
+        "decision_action": "领导层以AI为核心，对工程组织进行大规模重组，包括裁员、岗位调整和流程再造，具体细节待披露。",
+        "result": "待验证：目前仅观察到组织动荡，长期效果尚未显现。",
+        "lesson": "高管应警惕AI驱动的组织变革可能带来的短期混乱，需平衡创新速度与组织稳定性，并确保变革有明确战略目标而非盲目跟风。"
+      },
+      "executive_takeaway": "AI重组需战略清晰，避免盲目破坏组织效能。",
+      "signal_strength": "high",
+      "id": "043b6b9a",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "Why is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "published": "Tue, 16 Jun 2026 16:27:43 GMT",
+      "ingested_at": "2026-07-09T07:23:09.384752+00:00"
+    },
+    {
+      "pillar": "data",
+      "relevance_score": 85,
+      "tags": [
+        "科技行业",
+        "大型企业",
+        "AI人才竞争",
+        "组织扁平化"
+      ],
+      "structured_summary": {
+        "background": "2026年软件工程就业市场深度分析，基于独家数据，覆盖AI实验室与大型科技公司的人才吸引力对比、原生移动与前端岗位变化、管理层级扁平化趋势。",
+        "decision_action": "AI实验室通过更高薪酬、更前沿项目及更灵活的组织结构吸引顶尖人才，导致大型科技公司（Big Tech）人才流失；同时，企业普遍减少原生移动和前端岗位招聘，转向AI相关角色；管理层级出现“大扁平化”，中层管理岗位缩减。",
+        "result": "AI实验室成为人才首选，Big Tech招聘难度上升；原生移动与前端岗位需求下降；组织层级减少，管理幅度扩大。",
+        "lesson": "高管应加速组织扁平化，将资源向AI核心岗位倾斜，并重新评估非AI技术岗位的长期价值。"
+      },
+      "executive_takeaway": "AI实验室正吸走顶级人才，组织需扁平化并聚焦AI岗位。",
+      "signal_strength": "medium",
+      "id": "2dbd0b4b",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "State of the software engineering job market in 2026, part 2",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+      "published": "Tue, 09 Jun 2026 16:35:53 GMT",
+      "ingested_at": "2026-07-09T07:23:16.062787+00:00"
+    },
+    {
+      "pillar": "data",
+      "relevance_score": 75,
+      "tags": [
+        "软件工程",
+        "企业级",
+        "AI工具采纳"
+      ],
+      "structured_summary": {
+        "background": "《Pragmatic Engineer》发布2026年AI调查结果系列文章的第二部分，聚焦AI工具在软件工程中的权衡、企业级采纳的挑战以及两年来的变化。",
+        "decision_action": "调查覆盖数百名软件工程师，分析AI工具（如代码补全、自动化测试）的采用率、效果及组织层面的障碍。",
+        "result": "数据显示AI工具在个体层面效率提升明显，但企业级部署面临文化、流程和治理难题；与两年前相比，AI工具成熟度提高，但组织变革滞后。",
+        "lesson": "高管应优先解决组织流程和文化障碍，而非仅关注工具本身；需建立AI治理框架以规模化采纳。"
+      },
+      "executive_takeaway": "AI工具个体效率高，但企业级部署需先破组织障碍。",
+      "signal_strength": "medium",
+      "id": "617d300c",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "AI’s impact on software engineers in 2026: key trends, Part 2",
+      "link": "https://newsletter.pragmaticengineer.com/p/ai-impact-on-software-engineers-part-2",
+      "published": "Tue, 19 May 2026 16:43:10 GMT",
+      "ingested_at": "2026-07-09T07:23:31.015736+00:00"
+    },
+    {
+      "pillar": "data",
+      "relevance_score": 75,
+      "tags": [
+        "科技行业",
+        "大型企业",
+        "AI部署",
+        "工程组织",
+        "裁员"
+      ],
+      "structured_summary": {
+        "background": "科技行业工程组织正在经历新一轮变化，包括前部署工程升温、AI使用率上升、裁员持续以及工程方法融合。",
+        "decision_action": "企业开始要求员工自我报告100% AI使用情况，同时前部署工程岗位增加，vibe coding与agentic engineering方法融合。",
+        "result": "科技行业技术岗位裁员增加，但前部署工程岗位需求回暖。",
+        "lesson": "高管应关注AI使用透明化趋势，并重新评估工程团队结构，增加前部署工程角色以应对AI驱动的开发模式。"
+      },
+      "executive_takeaway": "AI使用透明化与工程角色分化，需调整组织架构。",
+      "signal_strength": "medium",
+      "id": "8c242fd3",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "The Pulse: Forward deployed engineering heats up again",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-forward-deployed-engineering",
+      "published": "Thu, 14 May 2026 16:09:57 GMT",
+      "ingested_at": "2026-07-09T07:23:35.095482+00:00"
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "AI部署",
+        "企业级",
+        "软件工厂"
+      ],
+      "structured_summary": {
+        "background": "Cursor公司通过其前向部署工程师团队，帮助企业实施AI代理，建立软件工厂。",
+        "decision_action": "Cursor部署前向部署工程师团队，直接在企业内部设置AI代理，构建自动化软件生产流程。",
+        "result": "待验证",
+        "lesson": "高管可考虑组建专门的前向部署团队，将AI代理作为软件工厂的核心，加速内部AI落地。"
+      },
+      "executive_takeaway": "组建前向部署团队，用AI代理构建内部软件工厂。",
+      "signal_strength": "medium",
+      "id": "f0b23761",
+      "feed": "latent-space",
+      "tier": "frontier",
+      "title": "How Cursor deploys AI inside the enterprise",
+      "link": "https://www.latent.space/p/cursor-forward-deployed-engineers",
+      "published": "Wed, 01 Jul 2026 19:03:44 GMT",
+      "ingested_at": "2026-07-09T07:24:25.908931+00:00"
+    }
+  ]
+}

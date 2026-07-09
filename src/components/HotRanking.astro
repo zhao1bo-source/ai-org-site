@@ -1,0 +1,24 @@
+---
+import type { InboxItem } from '../lib/data';
+import { hotRanking, TIER_LABELS } from '../lib/data';
+const { items, title = '组织变革信号榜', n = 5 } = Astro.props as {
+  items: InboxItem[];
+  title?: string;
+  n?: number;
+};
+const hot = hotRanking(items, n);
+---
+<div class="sidebar-block">
+  <h3 class="sidebar-title">{title}</h3>
+  {hot.map((item, i) => (
+    <a href={`/item/${item.id}`} class="hot-item">
+      <div>
+        <span class="hot-rank">{i + 1}</span>
+        <span class="hot-title">{item.title}</span>
+      </div>
+      <div class="hot-meta">
+        {item.feed} · {TIER_LABELS[item.tier]} · {item.signal_strength === 'high' ? '高信号' : item.signal_strength === 'medium' ? '中信号' : '低信号'}
+      </div>
+    </a>
+  ))}
+</div>

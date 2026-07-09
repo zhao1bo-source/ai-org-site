@@ -1,0 +1,22 @@
+services:
+  rsshub:
+    image: diygod/rsshub:latest
+    container_name: ai-org-rsshub
+    restart: always
+    ports:
+      - "1200:1200"
+    environment:
+      NODE_ENV: production
+      CACHE_TYPE: memory
+      CACHE_EXPIRE: "300"
+      # —— X / Twitter cookies（见 feeds/x-sources.md 获取方式）——
+      TWITTER_AUTH_TOKEN: ${TWITTER_AUTH_TOKEN}
+      TWITTER_CT0: ${TWITTER_CT0}
+      # 部分子路由需要（可选，先用 cookie 跑，报错再补）
+      # TWITTER_CONSUMER_KEY: ${TWITTER_CONSUMER_KEY}
+      # TWITTER_CONSUMER_SECRET: ${TWITTER_CONSUMER_SECRET}
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:1200/"]
+      interval: 60s
+      timeout: 10s
+      retries: 3

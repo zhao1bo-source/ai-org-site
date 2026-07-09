@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ItemCard from '../components/ItemCard.astro';
+import { byPillar, sortByDate } from '../lib/data';
+const list = byPillar('theory');
+---
+<Layout active="frameworks">
+  <div class="container">
+    <div class="list-header">
+      <h1>理论与框架</h1>
+      <p>可被复用的组织设计模型、原则、分类法</p>
+    </div>
+    {list.length === 0 ? (
+      <div class="empty">暂无框架。等 pipeline 跑通后这里会持续填充。</div>
+    ) : (
+      sortByDate(list).map(item => <ItemCard item={item} />)
+    )}
+  </div>
+</Layout>

@@ -1,0 +1,353 @@
+:root {
+  --bg: #fafaf9;
+  --surface: #ffffff;
+  --border: #e7e5e4;
+  --text: #1c1917;
+  --text-muted: #78716c;
+  --text-dim: #a8a29e;
+  --accent: #c2410c;
+  --accent-soft: #fed7aa;
+  --pillar-case: #0369a1;
+  --pillar-theory: #7c3aed;
+  --pillar-memo: #c2410c;
+  --pillar-data: #15803d;
+  --signal-high: #dc2626;
+  --signal-medium: #d97706;
+  --signal-low: #6b7280;
+  --max-w: 1100px;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0c0a09;
+    --surface: #1c1917;
+    --border: #292524;
+    --text: #fafaf9;
+    --text-muted: #a8a29e;
+    --text-dim: #78716c;
+    --accent: #fb923c;
+    --accent-soft: #7c2d12;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html { font-size: 16px; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
+    "Microsoft YaHei", "Helvetica Neue", sans-serif;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-decoration: none; }
+a:hover { color: var(--accent); }
+
+.container {
+  max-width: var(--max-w);
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* —— Header —— */
+.site-header {
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+.site-header .container {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  height: 56px;
+}
+.logo {
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -0.01em;
+  white-space: nowrap;
+}
+.logo .accent { color: var(--accent); }
+.nav {
+  display: flex;
+  gap: 18px;
+  font-size: 14px;
+  color: var(--text-muted);
+  flex-wrap: wrap;
+}
+.nav a.active { color: var(--text); font-weight: 600; }
+
+/* —— 布局 —— */
+.layout-main {
+  display: grid;
+  grid-template-columns: 1fr 280px;
+  gap: 32px;
+  padding: 28px 0 60px;
+}
+@media (max-width: 860px) {
+  .layout-main { grid-template-columns: 1fr; }
+  .sidebar { order: -1; }
+}
+
+/* —— Hero —— */
+.hero {
+  padding: 24px 0 16px;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 8px;
+}
+.hero h1 {
+  font-size: 20px;
+  margin: 0 0 4px;
+  font-weight: 700;
+}
+.hero .date {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+/* —— FilterBar —— */
+.filter-bar {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 20px;
+  position: sticky;
+  top: 56px;
+  background: var(--bg);
+  z-index: 5;
+}
+.filter-tab {
+  padding: 5px 12px;
+  border-radius: 999px;
+  font-size: 13px;
+  color: var(--text-muted);
+  border: 1px solid transparent;
+  cursor: pointer;
+  background: transparent;
+  font-family: inherit;
+  transition: all 0.12s;
+}
+.filter-tab:hover { background: var(--surface); border-color: var(--border); }
+.filter-tab.active {
+  background: var(--text);
+  color: var(--bg);
+  font-weight: 600;
+}
+.filter-group {
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+.filter-divider {
+  width: 1px;
+  height: 18px;
+  background: var(--border);
+  margin: 0 6px;
+}
+
+/* —— Timeline —— */
+.timeline { display: flex; flex-direction: column; gap: 4px; }
+.date-group { margin-bottom: 8px; }
+.date-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--text-muted);
+  padding: 14px 0 8px;
+  position: sticky;
+  top: 104px;
+  background: var(--bg);
+  z-index: 4;
+}
+
+/* —— ItemCard —— */
+.card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  margin-bottom: 10px;
+  transition: border-color 0.12s;
+  display: block;
+}
+.card:hover { border-color: var(--text-dim); }
+.card-meta {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  color: var(--text-dim);
+  margin-bottom: 8px;
+  flex-wrap: wrap;
+}
+.feed-name { font-weight: 600; color: var(--text-muted); }
+.tier-badge, .pillar-badge, .signal-badge {
+  font-size: 11px;
+  padding: 2px 7px;
+  border-radius: 4px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+.tier-badge { background: var(--accent-soft); color: var(--accent); }
+.tier-badge.authority { background: #dbeafe; color: #1e40af; }
+@media (prefers-color-scheme: dark) {
+  .tier-badge.authority { background: #1e3a5f; color: #93c5fd; }
+}
+.signal-high { background: #fee2e2; color: var(--signal-high); }
+.signal-medium { background: #fef3c7; color: var(--signal-medium); }
+.signal-low { background: #f3f4f6; color: var(--signal-low); }
+@media (prefers-color-scheme: dark) {
+  .signal-high { background: #450a0a; }
+  .signal-medium { background: #451a03; }
+  .signal-low { background: #1f2937; }
+}
+.card-title {
+  font-size: 16px;
+  font-weight: 600;
+  margin: 0 0 8px;
+  line-height: 1.4;
+  letter-spacing: -0.01em;
+}
+.card-summary {
+  font-size: 14px;
+  color: var(--text-muted);
+  margin: 0 0 12px;
+  line-height: 1.6;
+}
+.takeaway {
+  background: linear-gradient(180deg, var(--accent-soft) 0%, transparent 100%);
+  border-left: 3px solid var(--accent);
+  padding: 10px 12px;
+  border-radius: 0 6px 6px 0;
+  font-size: 14px;
+  font-weight: 600;
+  margin: 0 0 10px;
+  color: var(--text);
+}
+.takeaway::before {
+  content: "高管启示 ";
+  font-size: 11px;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: 0.05em;
+  display: block;
+  margin-bottom: 2px;
+}
+.tags { display: flex; gap: 5px; flex-wrap: wrap; }
+.tag {
+  font-size: 11px;
+  color: var(--text-dim);
+  background: var(--bg);
+  padding: 2px 7px;
+  border-radius: 3px;
+  border: 1px solid var(--border);
+}
+
+/* —— Sidebar / HotRanking —— */
+.sidebar-block {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px;
+  margin-bottom: 16px;
+}
+.sidebar-title {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--text-muted);
+  margin: 0 0 12px;
+  letter-spacing: 0.02em;
+}
+.hot-item {
+  display: block;
+  padding: 9px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 13px;
+}
+.hot-item:last-child { border-bottom: none; }
+.hot-rank {
+  display: inline-block;
+  width: 18px;
+  font-weight: 700;
+  color: var(--accent);
+  font-size: 13px;
+}
+.hot-title { color: var(--text); line-height: 1.4; }
+.hot-meta { font-size: 11px; color: var(--text-dim); margin-top: 2px; }
+
+/* —— Detail page —— */
+.detail { padding: 28px 0 60px; max-width: 760px; }
+.detail-back {
+  font-size: 13px;
+  color: var(--text-muted);
+  margin-bottom: 16px;
+  display: inline-block;
+}
+.detail h1 {
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.3;
+  margin: 0 0 16px;
+  letter-spacing: -0.015em;
+}
+.detail .card-meta { margin-bottom: 20px; }
+.detail-takeaway {
+  font-size: 18px;
+  font-weight: 700;
+  background: var(--accent-soft);
+  border-left: 4px solid var(--accent);
+  padding: 18px 20px;
+  border-radius: 0 8px 8px 0;
+  margin: 0 0 28px;
+  line-height: 1.5;
+}
+.detail-takeaway::before {
+  content: "高管启示";
+  display: block;
+  font-size: 12px;
+  font-weight: 700;
+  color: var(--accent);
+  margin-bottom: 6px;
+  letter-spacing: 0.05em;
+}
+.section { margin-bottom: 24px; }
+.section-label {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 0 0 6px;
+  letter-spacing: 0.02em;
+}
+.section p { margin: 0; font-size: 15px; color: var(--text); line-height: 1.7; }
+.source-link {
+  display: inline-block;
+  margin-top: 8px;
+  font-size: 13px;
+  color: var(--accent);
+  text-decoration: underline;
+}
+.related { margin-top: 40px; border-top: 1px solid var(--border); padding-top: 24px; }
+.related h2 { font-size: 16px; margin: 0 0 12px; }
+
+/* —— List pages —— */
+.list-header { padding: 24px 0 8px; border-bottom: 1px solid var(--border); margin-bottom: 16px; }
+.list-header h1 { font-size: 22px; margin: 0 0 6px; }
+.list-header p { color: var(--text-muted); font-size: 14px; margin: 0; }
+
+.empty { color: var(--text-dim); padding: 40px 0; text-align: center; font-size: 14px; }
+
+/* —— Footer —— */
+.site-footer {
+  border-top: 1px solid var(--border);
+  padding: 24px 0;
+  font-size: 12px;
+  color: var(--text-dim);
+}

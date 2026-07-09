@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ItemCard from '../components/ItemCard.astro';
+import { byPillar, sortByDate } from '../lib/data';
+const list = byPillar('memo');
+---
+<Layout active="memos">
+  <div class="container">
+    <div class="list-header">
+      <h1>高管备忘录</h1>
+      <p>CEO/CIO 内部信、财报表态、创始人一手观点</p>
+    </div>
+    {list.length === 0 ? (
+      <div class="empty">暂无备忘录。等 pipeline 跑通后这里会持续填充。</div>
+    ) : (
+      sortByDate(list).map(item => <ItemCard item={item} />)
+    )}
+  </div>
+</Layout>

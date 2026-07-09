@@ -1,0 +1,34 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Timeline from '../components/Timeline.astro';
+import FilterBar from '../components/FilterBar.astro';
+import HotRanking from '../components/HotRanking.astro';
+import { items, sortByDate } from '../lib/data';
+
+const sorted = sortByDate(items);
+const today = new Date().toLocaleDateString('zh-CN', { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' });
+---
+<Layout active="index">
+  <div class="container">
+    <div class="hero">
+      <h1>本周 AI 组织变革动态</h1>
+      <div class="date">{today}</div>
+    </div>
+    <div class="layout-main">
+      <div class="main-col">
+        <FilterBar />
+        <Timeline items={sorted} />
+      </div>
+      <aside class="sidebar">
+        <HotRanking items={items} title="组织变革信号榜" n={5} />
+        <div class="sidebar-block">
+          <h3 class="sidebar-title">关于本站</h3>
+          <p style="font-size:13px;color:var(--text-muted);margin:0;line-height:1.6;">
+            面向高管的 AI 组织变革情报站。聚合权威源（McKinsey/HBR/HAI）与前沿实践（Pragmatic Engineer/Mollick/X 创始人），
+            按四支柱分类，提炼可行动的高管启示。
+          </p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</Layout>

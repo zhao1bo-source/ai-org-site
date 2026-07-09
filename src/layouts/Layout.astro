@@ -1,0 +1,41 @@
+---
+const { title = 'AI 组织变革情报站', active = '' } = Astro.props;
+import '../styles/global.css';
+
+const navItems = [
+  { href: '/', label: '动态', key: 'index' },
+  { href: '/cases', label: '案例库', key: 'cases' },
+  { href: '/frameworks', label: '理论与框架', key: 'frameworks' },
+  { href: '/memos', label: '高管备忘录', key: 'memos' },
+  { href: '/weekly', label: '周报', key: 'weekly' },
+];
+---
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="面向高管的 AI 组织变革情报：实践案例、理论框架、高管备忘录、调研数据" />
+    <title>{title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <a href="/" class="logo">AI 组织变革<span class="accent">情报站</span></a>
+        <nav class="nav">
+          {navItems.map(n => (
+            <a href={n.href} class={active === n.key ? 'active' : ''}>{n.label}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main>
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        AI 组织变革情报站 · 权威源 + 前沿实践 · 面向高管决策
+      </div>
+    </footer>
+  </body>
+</html>

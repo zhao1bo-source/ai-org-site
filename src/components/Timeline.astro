@@ -1,0 +1,15 @@
+---
+import type { InboxItem } from '../lib/data';
+import { groupByDate, weekdayLabel } from '../lib/data';
+import ItemCard from './ItemCard.astro';
+const { items } = Astro.props as { items: InboxItem[] };
+const groups = groupByDate(items);
+---
+<div class="timeline">
+  {groups.map(g => (
+    <div class="date-group">
+      <div class="date-label">{weekdayLabel(g.date) || g.date}</div>
+      {g.items.map(item => <ItemCard item={item} />)}
+    </div>
+  ))}
+</div>

@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+.venv/
+
+# 构建产物
+dist/
+.astro/
+
+# 密钥（绝不提交）
+.env
+
+# 日志
+logs/
+*.log
+
+# 系统
+.DS_Store

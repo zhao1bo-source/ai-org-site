@@ -1,0 +1,62 @@
+---
+// 客户端筛选 bar。通过 data-attribute 控制卡片显隐。
+---
+<div class="filter-bar" id="filter-bar">
+  <div class="filter-group">
+    <button class="filter-tab active" data-filter="pillar" data-value="all">全部</button>
+    <button class="filter-tab" data-filter="pillar" data-value="case">案例</button>
+    <button class="filter-tab" data-filter="pillar" data-value="theory">理论</button>
+    <button class="filter-tab" data-filter="pillar" data-value="memo">备忘录</button>
+    <button class="filter-tab" data-filter="pillar" data-value="data">数据</button>
+  </div>
+  <div class="filter-divider"></div>
+  <div class="filter-group">
+    <button class="filter-tab active" data-filter="tier" data-value="all">全部层级</button>
+    <button class="filter-tab" data-filter="tier" data-value="authority">权威</button>
+    <button class="filter-tab" data-filter="tier" data-value="frontier">前沿</button>
+  </div>
+</div>
+
+<script is:inline>
+  (function () {
+    function init() {
+      const bar = document.getElementById('filter-bar');
+      if (!bar) return;
+      const state = { pillar: 'all', tier: 'all' };
+
+      function applyFilters() {
+        const cards = Array.from(document.querySelectorAll('.card'));
+        cards.forEach(card => {
+          const p = card.dataset.pillar;
+          const t = card.dataset.tier;
+          const pOk = state.pillar === 'all' || p === state.pillar;
+          const tOk = state.tier === 'all' ||
+            (state.tier === 'frontier' && (t === 'frontier' || t === 'frontier-x')) ||
+            t === state.tier;
+          card.style.display = (pOk && tOk) ? '' : 'none';
+        });
+        document.querySelectorAll('.date-group').forEach(g => {
+          const visible = g.querySelectorAll('.card:not([style*="display: none"])').length;
+          g.style.display = visible ? '' : 'none';
+        });
+      }
+
+      bar.addEventListener('click', (e) => {
+        const btn = e.target.closest('.filter-tab');
+        if (!btn) return;
+        const filter = btn.dataset.filter;
+        const value = btn.dataset.value;
+        state[filter] = value;
+        bar.querySelectorAll(`.filter-tab[data-filter="${filter}"]`).forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        applyFilters();
+      });
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', init);
+    } else {
+      init();
+    }
+  })();
+</script>

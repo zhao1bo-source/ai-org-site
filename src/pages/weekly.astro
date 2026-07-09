@@ -1,0 +1,51 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ItemCard from '../components/ItemCard.astro';
+import { items, sortByDate, type InboxItem } from '../lib/data';
+
+// 按周分组（ISO 周一为起点）
+function weekKey(dateStr: string): string {
+  const d = new Date(dateStr);
+  if (isNaN(d.getTime())) return 'unknown';
+  const day = (d.getDay() + 6) % 7; // 0=周一
+  const monday = new Date(d);
+  monday.setDate(d.getDate() - day);
+  return monday.toISOString().slice(0, 10);
+}
+
+function weekLabel(key: string): string {
+  if (key === 'unknown') return '未分组';
+  const start = new Date(key);
+  const end = new Date(start);
+  end.setDate(start.getDate() + 6);
+  return `${start.getMonth() + 1}月${start.getDate()}日 — ${end.getMonth() + 1}月${end.getDate()}日`;
+}
+
+const sorted = sortByDate(items);
+const weeks: Record<string, InboxItem[]> = {};
+for (const it of sorted) {
+  const k = weekKey(it.published);
+  (weeks[k] = weeks[k] || []).push(it);
+}
+const weekList = Object.entries(weeks).sort((a, b) => (a[0] < b[0] ? 1 : -1));
+---
+<Layout active="weekly">
+  <div class="container">
+    <div class="list-header">
+      <h1>周报</h1>
+      <p>按周汇总的组织变革动态——高管最需要的形态</p>
+    </div>
+    {weekList.length === 0 ? (
+      <div class="empty">暂无内容。</div>
+    ) : (
+      weekList.map(([key, list]) => (
+        <div class="date-group" style="margin-bottom:24px;">
+          <div class="date-label" style="position:static;background:transparent;">
+            {weekLabel(key)} · {list.length} 条
+          </div>
+          {list.map(item => <ItemCard item={item} />)}
+        </div>
+      ))
+    )}
+  </div>
+</Layout>

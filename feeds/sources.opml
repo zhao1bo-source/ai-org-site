@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>AI 组织变革情报站 - 启动订阅集</title>
+    <dateCreated>Mon, 07 Jul 2026 00:00:00 GMT</dateCreated>
+  </head>
+  <body>
+    <!-- ============ 已核验可用 (verified) ============ -->
+    <outline text="✅ 已核验可用" title="✅ 已核验可用">
+      <outline text="McKinsey Insights" title="McKinsey Insights" type="rss" xmlUrl="https://www.mckinsey.com/insights/rss" htmlUrl="https://www.mckinsey.com/insights"/>
+      <outline text="a16z future" title="a16z future" type="rss" xmlUrl="https://future.com/rss/" htmlUrl="https://future.com"/>
+      <outline text="Stanford HAI AI Index (newsletter-非RSS)" title="Stanford HAI AI Index" type="rss" xmlUrl="" htmlUrl="https://hai.stanford.edu/ai-index"/>
+    </outline>
+
+    <!-- ============ 待本地核验 (服务器端被拦截, 本地阅读器大概率可用) ============ -->
+    <outline text="⚠️ 待本地核验" title="⚠️ 待本地核验">
+      <outline text="HBR - AI topic (候选feed)" title="HBR AI" type="rss" xmlUrl="https://hbr.org/the-latest/feed" htmlUrl="https://hbr.org/topic/subject/artificial-intelligence"/>
+      <outline text="MIT Sloan Management Review" title="MIT Sloan Review" type="rss" xmlUrl="https://sloanreview.mit.edu/feed/" htmlUrl="https://sloanreview.mit.edu/topic/artificial-intelligence/"/>
+      <outline text="BCG Insights" title="BCG Insights" type="rss" xmlUrl="https://www.bcg.com/insights/rss" htmlUrl="https://www.bcg.com/insights"/>
+      <outline text="Bain Insights (候选feed)" title="Bain Insights" type="rss" xmlUrl="https://www.bain.com/insights/rss" htmlUrl="https://www.bain.com/insights"/>
+    </outline>
+
+    <!-- ============ 前沿层 - 已核验 RSS (AI-native 创业公司一手实践) ============ -->
+    <outline text="🚀 前沿层 - 已核验RSS" title="🚀 前沿层 - 已核验RSS">
+      <outline text="The Pragmatic Engineer" title="Pragmatic Engineer" type="rss" xmlUrl="https://newsletter.pragmaticengineer.com/feed" htmlUrl="https://newsletter.pragmaticengineer.com"/>
+      <outline text="One Useful Thing (Ethan Mollick)" title="One Useful Thing" type="rss" xmlUrl="https://www.oneusefulthing.org/feed" htmlUrl="https://www.oneusefulthing.org"/>
+      <outline text="Latent Space" title="Latent Space" type="rss" xmlUrl="https://www.latent.space/feed" htmlUrl="https://www.latent.space"/>
+    </outline>
+
+    <!-- ============ 前沿层 - 无RSS需HTML抓取 ============ -->
+    <outline text="🔧 前沿层 - 无RSS需抓取" title="🔧 前沿层 - 无RSS需抓取">
+      <outline text="Cognition (Devin) Blog" title="Cognition Blog" type="rss" xmlUrl="" htmlUrl="https://cognition.com/blog"/>
+      <outline text="Mercor Blog" title="Mercor Blog" type="rss" xmlUrl="" htmlUrl="https://www.mercor.com/blog"/>
+      <outline text="Factory Blog" title="Factory Blog" type="rss" xmlUrl="" htmlUrl="https://factory.ai/blog"/>
+    </outline>
+
+    <!-- ============ 中文源 (需自建 RSSHub, 公共实例不可用) ============ -->
+    <outline text="🇨🇳 中文源 - 经自建RSSHub" title="🇨🇳 中文源 - 经自建RSSHub">
+      <outline text="晚点 LatePost (推荐)" title="晚点 LatePost" type="rss" xmlUrl="http://YOUR-RSSHUB-HOST/latepost/recommend" htmlUrl="https://www.latepost.com"/>
+      <outline text="36氪 快讯" title="36氪 快讯" type="rss" xmlUrl="http://YOUR-RSSHUB-HOST/36kr/newsflashes" htmlUrl="https://36kr.com"/>
+      <outline text="极客公园 资讯" title="极客公园" type="rss" xmlUrl="http://YOUR-RSSHUB-HOST/geekpark/breakingnews" htmlUrl="https://www.geekpark.net"/>
+      <outline text="阿里研究院" title="阿里研究院" type="rss" xmlUrl="" htmlUrl="https://www.aliresearch.com"/>
+      <outline text="腾讯研究院" title="腾讯研究院" type="rss" xmlUrl="" htmlUrl="https://www.tisi.org"/>
+    </outline>
+  </body>
+</opml>

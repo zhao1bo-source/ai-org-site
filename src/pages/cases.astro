@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/Layout.astro';
+import ItemCard from '../components/ItemCard.astro';
+import { byPillar, sortByDate } from '../lib/data';
+const list = byPillar('case');
+---
+<Layout active="cases">
+  <div class="container">
+    <div class="list-header">
+      <h1>实践案例库</h1>
+      <p>公司真实的组织/人力/流程决策 + 可观测结果</p>
+    </div>
+    {list.length === 0 ? (
+      <div class="empty">暂无案例。等 pipeline 跑通后这里会持续填充。</div>
+    ) : (
+      sortByDate(list).map(item => <ItemCard item={item} />)
+    )}
+  </div>
+</Layout>

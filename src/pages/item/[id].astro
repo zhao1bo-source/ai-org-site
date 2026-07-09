@@ -1,0 +1,67 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ItemCard from '../../components/ItemCard.astro';
+import { items, TIER_LABELS, PILLAR_FULL, relatedItems } from '../../lib/data';
+
+export function getStaticPaths() {
+  return items.map(item => ({
+    params: { id: item.id },
+    props: { item },
+  }));
+}
+
+const { item } = Astro.props;
+const related = relatedItems(item);
+---
+<Layout title={`${item.title} · AI 组织变革情报站`}>
+  <div class="container">
+    <div class="detail">
+      <a href="/" class="detail-back">← 返回动态</a>
+      <h1>{item.title}</h1>
+      <div class="card-meta">
+        <span class="feed-name">{item.feed}</span>
+        <span class={`tier-badge ${item.tier}`}>{TIER_LABELS[item.tier]}</span>
+        <span class="pillar-badge" style={`background:var(--accent-soft);color:var(--accent)`}>{PILLAR_FULL[item.pillar]}</span>
+        <span class={`signal-badge signal-${item.signal_strength}`}>
+          {item.signal_strength === 'high' ? '高信号' : item.signal_strength === 'medium' ? '中信号' : '低信号'}
+        </span>
+        <span>{(item.published || '').slice(0, 10)}</span>
+      </div>
+
+      <div class="detail-takeaway">{item.executive_takeaway}</div>
+
+      <div class="section">
+        <div class="section-label">背景</div>
+        <p>{item.structured_summary.background}</p>
+      </div>
+      <div class="section">
+        <div class="section-label">决策与动作</div>
+        <p>{item.structured_summary.decision_action}</p>
+      </div>
+      <div class="section">
+        <div class="section-label">可观测结果</div>
+        <p>{item.structured_summary.result}</p>
+      </div>
+      <div class="section">
+        <div class="section-label">启示</div>
+        <p>{item.structured_summary.lesson}</p>
+      </div>
+
+      <div class="section">
+        <div class="section-label">原文</div>
+        <a href={item.link} target="_blank" rel="noopener" class="source-link">{item.link}</a>
+      </div>
+
+      <div class="tags" style="margin-top:20px;">
+        {item.tags.map(t => <span class="tag">{t}</span>)}
+      </div>
+
+      {related.length > 0 && (
+        <div class="related">
+          <h2>相关情报</h2>
+          {related.map(r => <ItemCard item={r} />)}
+        </div>
+      )}
+    </div>
+  </div>
+</Layout>
