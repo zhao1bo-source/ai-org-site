@@ -34,6 +34,7 @@ import feedparser
 from dotenv import load_dotenv
 from openai import OpenAI
 
+from aihot_source import fetch_aihot
 from prompts import gate_prompt, classify_prompt
 
 # ---------------------------------------------------------------------------
@@ -147,6 +148,8 @@ def fetch_feed(name: str, url: str, tier: str, timeout: int = 12) -> list[dict]:
 
 def process_item(item: dict) -> dict | None:
     source = f"{item['feed']} ({item['tier']})"
+    # aihot 条目无 published，补当天
+    published = item.get("published") or datetime.now(timezone.utc).strftime("%Y-%m-%d")
     # 阶段 1：粗筛
     try:
         gate = call_json(
@@ -163,7 +166,7 @@ def process_item(item: dict) -> dict | None:
     try:
         result = call_json(
             classify_prompt(
-                item["title"], item["summary"][:2000], source, item["link"], item["published"]
+                item["title"], item["summary"][:2000], source, item["link"], published
             ),
             max_tokens=1200,
         )
@@ -181,7 +184,7 @@ def process_item(item: dict) -> dict | None:
             "tier": item["tier"],
             "title": item["title"],
             "link": item["link"],
-            "published": item["published"],
+            "published": published,
             "ingested_at": datetime.now(timezone.utc).isoformat(),
         }
     )
@@ -194,6 +197,8 @@ def main() -> None:
         return
     print(f"== pipeline 启动 @ {datetime.now(timezone.utc).isoformat()} ==")
     all_items: list[dict] = []
+
+    # —— RSS 直连源 ——
     for name, url, tier in FEEDS:
         print(f"[fetch] {name} ({tier})")
         items = fetch_feed(name, url, tier)
@@ -206,6 +211,22 @@ def main() -> None:
                 kept += 1
             time.sleep(0.3)
         print(f"  入库 {kept} 条")
+
+    # —— aihot 大池子（含 X 等多源，已人工粗筛）——
+    print(f"[fetch] aihot (frontier, 大池子)")
+    try:
+        aihot_items = fetch_aihot()
+        print(f"  拉到 {len(aihot_items)} 条")
+        kept = 0
+        for item in aihot_items:
+            result = process_item(item)
+            if result:
+                all_items.append(result)
+                kept += 1
+            time.sleep(0.3)
+        print(f"  入库 {kept} 条（aihot 多为模型发布，组织变革相关的命中率较低属正常）")
+    except Exception as exc:
+        print(f"  [warn] aihot 抓取失败: {exc}")
 
     # 去重
     seen, deduped = set(), []
