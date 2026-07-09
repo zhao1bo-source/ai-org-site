@@ -1,8 +1,11 @@
 import { defineConfig } from 'astro/config';
 
-// GitHub Pages 项目站部署在子路径 /ai-org-site/ 下，需配 base。
-// 若日后用自定义域名，把 base 改回 '/'。
+// base 通过环境变量切换：
+//   GitHub Pages 项目站 → /ai-org-site/
+//   Cloudflare Pages / 自定义域名 → /
+const base = process.env.ASTRO_BASE || '/';
+
 export default defineConfig({
   site: 'https://zhao1bo-source.github.io',
-  base: '/ai-org-site/',
+  base,
 });
