@@ -36,7 +36,7 @@ from openai import OpenAI
 
 from aihot_source import fetch_aihot
 from fulltext import fetch_fulltext
-from prompts import gate_prompt, classify_prompt, annotate_prompt
+from prompts import gate_prompt, classify_prompt, annotate_prompt, translate_prompt
 
 # ---------------------------------------------------------------------------
 # 配置
@@ -197,26 +197,53 @@ def process_item(item: dict) -> dict | None:
     return result
 
 
-def _fetch_and_annotate(link: str) -> tuple[str | None, list[dict]]:
-    """抓原文全文，翻译成中文并做关键标注。失败返回 (None, [])。
+def _split_chunks(text: str, size: int = 4000) -> list[str]:
+    """按字符数分段，尽量在换行处切分。"""
+    chunks: list[str] = []
+    i = 0
+    while i < len(text):
+        end = i + size
+        if end < len(text):
+            # 在 size 附近找换行，避免切断句子
+            nl = text.find("\n", end - 300)
+            if nl != -1 and nl < end + 300:
+                end = nl + 1
+        chunks.append(text[i:end])
+        i = end
+    return chunks
 
-    返回的 content 是中文译文（或已是中文的原文），annotations 的 quote 从中文 content 截取。
-    """
+
+def _fetch_and_annotate(link: str) -> tuple[str | None, list[dict]]:
+    """抓原文全文，分段翻译成中文，再在完整译文上做关键标注。失败返回 (None, [])。"""
     raw = fetch_fulltext(link)
     if not raw:
         return None, []
-    # truncate 控成本与 token
-    truncated = raw[:8000]
-    try:
-        r = call_json(annotate_prompt(truncated), max_tokens=8000)
-        content = r.get("content") or ""
-        annotations = r.get("annotations", [])
-        # quote 必须是中文 content 的子串（用于高亮定位）
-        valid = [a for a in annotations if a.get("quote") and a["quote"] in content]
-        return content or None, valid
-    except Exception as exc:
-        print(f"  [warn] annotate/translate 失败: {exc}")
+
+    # 分段翻译，避免单次输出 token 上限导致截断
+    chunks = _split_chunks(raw, 4000)
+    translated_parts: list[str] = []
+    for idx, chunk in enumerate(chunks):
+        try:
+            r = call_json(translate_prompt(chunk), max_tokens=6000)
+            part = r.get("content", "")
+            if part:
+                translated_parts.append(part)
+        except Exception as exc:
+            print(f"  [warn] 翻译第{idx+1}段失败: {exc}")
+        time.sleep(0.2)
+    content = "\n\n".join(translated_parts)
+    if not content or len(content) < 100:
         return None, []
+
+    # 在完整中文译文上做标注
+    try:
+        r = call_json(annotate_prompt(content[:12000]), max_tokens=2000)
+        annotations = r.get("annotations", [])
+        valid = [a for a in annotations if a.get("quote") and a["quote"] in content]
+    except Exception as exc:
+        print(f"  [warn] annotate 失败: {exc}")
+        valid = []
+    return content, valid
 
 
 def main() -> None:
