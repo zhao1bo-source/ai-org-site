@@ -198,21 +198,25 @@ def process_item(item: dict) -> dict | None:
 
 
 def _fetch_and_annotate(link: str) -> tuple[str | None, list[dict]]:
-    """抓原文全文并做关键标注。失败返回 (None, [])。"""
-    fulltext = fetch_fulltext(link)
-    if not fulltext:
+    """抓原文全文，翻译成中文并做关键标注。失败返回 (None, [])。
+
+    返回的 content 是中文译文（或已是中文的原文），annotations 的 quote 从中文 content 截取。
+    """
+    raw = fetch_fulltext(link)
+    if not raw:
         return None, []
-    # truncate 控成本
-    truncated = fulltext[:8000]
+    # truncate 控成本与 token
+    truncated = raw[:8000]
     try:
-        r = call_json(annotate_prompt(truncated), max_tokens=1500)
+        r = call_json(annotate_prompt(truncated), max_tokens=8000)
+        content = r.get("content") or ""
         annotations = r.get("annotations", [])
-        # 只保留 quote 是原文子串的标注（用于高亮定位可靠）
-        valid = [a for a in annotations if a.get("quote") and a["quote"] in fulltext]
-        return fulltext, valid
+        # quote 必须是中文 content 的子串（用于高亮定位）
+        valid = [a for a in annotations if a.get("quote") and a["quote"] in content]
+        return content or None, valid
     except Exception as exc:
-        print(f"  [warn] annotate 失败: {exc}")
-        return fulltext, []
+        print(f"  [warn] annotate/translate 失败: {exc}")
+        return None, []
 
 
 def main() -> None:
