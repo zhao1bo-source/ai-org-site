@@ -344,6 +344,96 @@ a:hover { color: var(--accent); }
 
 .empty { color: var(--text-dim); padding: 40px 0; text-align: center; font-size: 14px; }
 
+/* —— 关键标注区块 —— */
+.annotations-block {
+  margin: 0 0 28px;
+  padding: 20px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.block-title {
+  font-size: 15px;
+  font-weight: 700;
+  margin: 0 0 14px;
+  color: var(--text);
+}
+.annot-group { margin-bottom: 16px; }
+.annot-group:last-child { margin-bottom: 0; }
+.annot-group-label {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 2px 9px;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  letter-spacing: 0.02em;
+}
+.annot-group-label.annot-data { background: #dbeafe; color: #1e40af; }
+.annot-group-label.annot-decision { background: #fed7aa; color: #9a3412; }
+.annot-group-label.annot-insight { background: #ede9fe; color: #5b21b6; }
+@media (prefers-color-scheme: dark) {
+  .annot-group-label.annot-data { background: #1e3a5f; color: #93c5fd; }
+  .annot-group-label.annot-decision { background: #7c2d12; color: #fdba74; }
+  .annot-group-label.annot-insight { background: #4c1d95; color: #c4b5fd; }
+}
+.annot-item { margin-bottom: 10px; padding-left: 12px; border-left: 2px solid var(--border); }
+.annot-item:last-child { margin-bottom: 0; }
+.annot-quote {
+  margin: 0 0 4px;
+  padding: 6px 10px;
+  font-size: 14px;
+  font-style: normal;
+  border-radius: 4px;
+  background: var(--bg);
+}
+.annot-quote.annot-data { border-left: 3px solid #3b82f6; }
+.annot-quote.annot-decision { border-left: 3px solid #f97316; }
+.annot-quote.annot-insight { border-left: 3px solid #8b5cf6; }
+.annot-note { font-size: 13px; color: var(--text-muted); line-height: 1.5; }
+
+/* —— 原文全文 —— */
+.section-hint { font-size: 11px; color: var(--text-dim); font-weight: 400; }
+.fulltext {
+  font-size: 15px;
+  line-height: 1.85;
+  color: var(--text);
+  white-space: pre-wrap;
+  word-break: break-word;
+  max-height: 2400px;
+  overflow: hidden;
+  position: relative;
+}
+.fulltext::after {
+  content: "";
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 80px;
+  background: linear-gradient(transparent, var(--surface));
+  pointer-events: none;
+}
+.fulltext.expanded { max-height: none; }
+.fulltext.expanded::after { display: none; }
+.fulltext-toggle {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 13px;
+  color: var(--accent);
+  cursor: pointer;
+  border: none;
+  background: none;
+  font-family: inherit;
+  padding: 4px 0;
+}
+mark.annot-data { background: #dbeafe; color: inherit; padding: 1px 2px; border-radius: 2px; }
+mark.annot-decision { background: #fed7aa; color: inherit; padding: 1px 2px; border-radius: 2px; }
+mark.annot-insight { background: #ede9fe; color: inherit; padding: 1px 2px; border-radius: 2px; }
+@media (prefers-color-scheme: dark) {
+  mark.annot-data { background: #1e3a5f; }
+  mark.annot-decision { background: #7c2d12; }
+  mark.annot-insight { background: #4c1d95; }
+}
+
 /* —— Footer —— */
 .site-footer {
   border-top: 1px solid var(--border);

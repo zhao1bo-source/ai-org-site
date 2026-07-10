@@ -47,7 +47,8 @@ def fetch_aihot(mode: str = "all", timeout: int = 20) -> list[dict]:
                 "tier": "frontier",
                 "title": title,
                 "summary": summary,
-                "link": r.get("permalink") or r.get("url") or "",
+                # link 用原文 url（全文抓取需要），permalink 备用
+                "link": r.get("url") or r.get("permalink") or "",
                 "published": (r.get("publishedAt") or "")[:10],  # YYYY-MM-DD
                 "tags_hint": [r.get("category", "")] if r.get("category") else [],
                 "source_hint": source,

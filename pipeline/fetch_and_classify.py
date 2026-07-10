@@ -35,7 +35,8 @@ from dotenv import load_dotenv
 from openai import OpenAI
 
 from aihot_source import fetch_aihot
-from prompts import gate_prompt, classify_prompt
+from fulltext import fetch_fulltext
+from prompts import gate_prompt, classify_prompt, annotate_prompt
 
 # ---------------------------------------------------------------------------
 # 配置
@@ -177,6 +178,9 @@ def process_item(item: dict) -> dict | None:
     if result.get("relevance_score", 0) < RELEVANCE_THRESHOLD:
         return None
 
+    # 阶段 3：抓原文全文 + 关键标注（抓不到则留空，详情页走 fallback）
+    content, annotations = _fetch_and_annotate(item["link"])
+
     result.update(
         {
             "id": item_id(item["link"], item["title"]),
@@ -186,9 +190,29 @@ def process_item(item: dict) -> dict | None:
             "link": item["link"],
             "published": published,
             "ingested_at": datetime.now(timezone.utc).isoformat(),
+            "content": content,
+            "annotations": annotations,
         }
     )
     return result
+
+
+def _fetch_and_annotate(link: str) -> tuple[str | None, list[dict]]:
+    """抓原文全文并做关键标注。失败返回 (None, [])。"""
+    fulltext = fetch_fulltext(link)
+    if not fulltext:
+        return None, []
+    # truncate 控成本
+    truncated = fulltext[:8000]
+    try:
+        r = call_json(annotate_prompt(truncated), max_tokens=1500)
+        annotations = r.get("annotations", [])
+        # 只保留 quote 是原文子串的标注（用于高亮定位可靠）
+        valid = [a for a in annotations if a.get("quote") and a["quote"] in fulltext]
+        return fulltext, valid
+    except Exception as exc:
+        print(f"  [warn] annotate 失败: {exc}")
+        return fulltext, []
 
 
 def main() -> None:

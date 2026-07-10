@@ -1,7 +1,7 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import ItemCard from '../../components/ItemCard.astro';
-import { items, TIER_LABELS, PILLAR_FULL, relatedItems } from '../../lib/data';
+import { items, TIER_LABELS, PILLAR_FULL, relatedItems, type Annotation } from '../../lib/data';
 
 export function getStaticPaths() {
   return items.map(item => ({
@@ -12,6 +12,38 @@ export function getStaticPaths() {
 
 const { item } = Astro.props;
 const related = relatedItems(item);
+
+const annotations: Annotation[] = item.annotations || [];
+const hasFulltext = !!item.content;
+const hasAnnotations = annotations.length > 0;
+
+const ANNOT_LABELS: Record<string, string> = {
+  data: '关键数据',
+  decision: '关键决策',
+  insight: '关键观点',
+};
+
+// 全文按标注分段：标注的 quote 用 <mark> 包裹，其余原样
+function renderAnnotated(content: string, anns: Annotation[]) {
+  const marks: { idx: number; len: number; type: string }[] = [];
+  for (const a of anns) {
+    const idx = content.indexOf(a.quote);
+    if (idx >= 0) marks.push({ idx, len: a.quote.length, type: a.type });
+  }
+  marks.sort((a, b) => a.idx - b.idx);
+  const segs: { text: string; type: string | null }[] = [];
+  let pos = 0;
+  for (const m of marks) {
+    if (m.idx < pos) continue; // 重叠跳过
+    if (m.idx > pos) segs.push({ text: content.slice(pos, m.idx), type: null });
+    segs.push({ text: content.slice(m.idx, m.idx + m.len), type: m.type });
+    pos = m.idx + m.len;
+  }
+  if (pos < content.length) segs.push({ text: content.slice(pos), type: null });
+  return segs;
+}
+
+const fulltextSegs = hasFulltext ? renderAnnotated(item.content!, annotations) : [];
 ---
 <Layout title={`${item.title} · AI 组织变革情报站`}>
   <div class="container">
@@ -30,22 +62,53 @@ const related = relatedItems(item);
 
       <div class="detail-takeaway">{item.executive_takeaway}</div>
 
-      <div class="section">
-        <div class="section-label">背景</div>
-        <p>{item.structured_summary.background}</p>
-      </div>
-      <div class="section">
-        <div class="section-label">决策与动作</div>
-        <p>{item.structured_summary.decision_action}</p>
-      </div>
-      <div class="section">
-        <div class="section-label">可观测结果</div>
-        <p>{item.structured_summary.result}</p>
-      </div>
-      <div class="section">
-        <div class="section-label">启示</div>
-        <p>{item.structured_summary.lesson}</p>
-      </div>
+      {hasAnnotations && (
+        <div class="annotations-block">
+          <h2 class="block-title">关键标注</h2>
+          {(['data', 'decision', 'insight'] as const).map(type => {
+            const anns = annotations.filter(a => a.type === type);
+            return anns.length > 0 && (
+              <div class="annot-group">
+                <div class={`annot-group-label annot-${type}`}>{ANNOT_LABELS[type]}</div>
+                {anns.map(a => (
+                  <div class="annot-item">
+                    <blockquote class={`annot-quote annot-${type}`}>{a.quote}</blockquote>
+                    <div class="annot-note">{a.note}</div>
+                  </div>
+                ))}
+              </div>
+            );
+          })}
+        </div>
+      )}
+
+      {hasFulltext ? (
+        <div class="section">
+          <div class="section-label">原文全文 <span class="section-hint">（高亮 = 关键标注）</span></div>
+          <div class="fulltext">
+            {fulltextSegs.map(s => s.type ? <mark class={`annot-${s.type}`}>{s.text}</mark> : s.text)}
+          </div>
+        </div>
+      ) : (
+        <>
+          <div class="section">
+            <div class="section-label">背景</div>
+            <p>{item.structured_summary.background}</p>
+          </div>
+          <div class="section">
+            <div class="section-label">决策与动作</div>
+            <p>{item.structured_summary.decision_action}</p>
+          </div>
+          <div class="section">
+            <div class="section-label">可观测结果</div>
+            <p>{item.structured_summary.result}</p>
+          </div>
+          <div class="section">
+            <div class="section-label">启示</div>
+            <p>{item.structured_summary.lesson}</p>
+          </div>
+        </>
+      )}
 
       <div class="section">
         <div class="section-label">原文</div>

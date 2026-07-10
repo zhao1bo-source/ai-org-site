@@ -4,6 +4,12 @@ export type Pillar = 'case' | 'theory' | 'memo' | 'data';
 export type Tier = 'authority' | 'frontier' | 'frontier-x' | 'cn';
 export type Signal = 'high' | 'medium' | 'low';
 
+export interface Annotation {
+  type: 'data' | 'decision' | 'insight';
+  quote: string;
+  note: string;
+}
+
 export interface InboxItem {
   id: string;
   feed: string;
@@ -23,6 +29,8 @@ export interface InboxItem {
   link: string;
   published: string;
   ingested_at: string;
+  content?: string | null;
+  annotations?: Annotation[];
 }
 
 export const items: InboxItem[] = (inbox as { items: InboxItem[] }).items;
