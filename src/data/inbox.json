@@ -1,30 +1,58 @@
 {
-  "generated_at": "2026-07-29T01:41:45.279092+00:00",
+  "generated_at": "2026-08-02T02:01:52.766755+00:00",
   "items": [
     {
-      "pillar": "case",
+      "pillar": "theory",
       "relevance_score": 85,
       "tags": [
-        "生命科学",
-        "大型企业",
-        "AI驱动研发",
-        "生产力提升"
+        "AI",
+        "生产率",
+        "J曲线",
+        "高管"
       ],
       "structured_summary": {
-        "background": "拜耳作为全球生命科学巨头，面临研发效率提升的迫切需求，Sai Jasti 负责推动数据科学与AI在研发中的应用。",
-        "decision_action": "拜耳系统性将数据科学和AI嵌入研发工作流，优化流程并设定雄心勃勃的生产力目标。",
-        "result": "待验证（具体量化结果未在摘要中披露，但目标明确指向生产力提升）。",
-        "lesson": "高管应推动AI与核心研发流程深度整合，而非孤立试点，并设定可衡量的生产力目标以驱动变革。"
+        "background": "斯坦福经济学家Erik Brynjolfsson在麦肯锡访谈中讨论AI生产率现状，提出J曲线概念。",
+        "decision_action": "Brynjolfsson阐述J曲线：AI投资初期生产率下降，随后上升，并给出加速进展的建议。",
+        "result": "待验证",
+        "lesson": "高管应预期AI转型的短期阵痛，并采取长期视角，投资于互补性创新以加速J曲线回升。"
       },
-      "executive_takeaway": "将AI嵌入核心研发流程，设定明确生产力目标，而非孤立试点。",
-      "signal_strength": "medium",
-      "id": "38e94e0b",
+      "executive_takeaway": "AI转型需经历J曲线低谷，高管应着眼长期价值，投资互补创新。",
+      "signal_strength": "low",
+      "id": "26a4c14b",
       "feed": "mckinsey",
       "tier": "authority",
-      "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
-      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
-      "published": "Tue, 28 Jul 2026",
-      "ingested_at": "2026-07-29T01:27:58.500457+00:00",
+      "title": "Is the AI productivity story at a turning point?",
+      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/is-the-ai-productivity-story-at-a-turning-point",
+      "published": "Fri, 31 Jul 2026",
+      "ingested_at": "2026-08-02T01:45:15.961568+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "memo",
+      "relevance_score": 85,
+      "tags": [
+        "科技",
+        "大型企业",
+        "AI转型",
+        "组织变革",
+        "高管观点"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡邀请AMD、戴尔、Liquid AI和梅赛德斯-奔驰的高管，讨论以AI为核心重构流程及企业级转型中人的因素。",
+        "decision_action": "高管们分享了将AI融入流程设计的经验，强调转型不仅是技术部署，更涉及组织文化、人才和领导力。",
+        "result": "待验证",
+        "lesson": "高管应优先关注人的因素，包括文化、技能和领导力，而不仅仅是技术本身；流程设计需以AI为出发点，而非事后附加。"
+      },
+      "executive_takeaway": "AI转型成败在人不在技术，流程需以AI为先。",
+      "signal_strength": "medium",
+      "id": "74889136",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "AI transformations: Views from AMD, Dell, Liquid AI, and Mercedes-Benz",
+      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/ai-transformations-views-from-amd-dell-liquid-ai-and-mercedes-benz",
+      "published": "Thu, 30 Jul 2026",
+      "ingested_at": "2026-08-02T01:45:37.649393+00:00",
       "content": null,
       "annotations": []
     },
@@ -38,12 +66,12 @@
         "商业团队"
       ],
       "structured_summary": {
-        "background": "科思创首席商务官Monique Buch在麦肯锡访谈中分享观点，背景是AI在商业领域的应用日益广泛，企业面临AI替代人力的担忧。",
-        "decision_action": "Buch将AI视为商业战略而非技术升级，主张通过AI增强而非替代商业团队，具体行动包括将AI融入销售、营销等流程，提升团队效能。",
-        "result": "待验证：科思创尚未公开具体量化结果，但Buch认为AI将提升商业团队的生产力和决策质量。",
-        "lesson": "高管应将AI定位为战略杠杆，用于赋能团队而非削减成本，重点在于重新设计流程和技能组合。"
+        "background": "科思创首席商务官Monique Buch在麦肯锡访谈中提出，AI应被视为业务战略而非技术升级，背景是商业团队面临效率提升和角色转型的压力。",
+        "decision_action": "Buch主张将AI嵌入商业流程，强调AI增强而非替代人类角色，并推动组织文化变革以支持AI采纳。",
+        "result": "待验证",
+        "lesson": "高管应将AI定位为战略杠杆，投资于人员技能升级和流程重塑，而非单纯技术部署。"
       },
-      "executive_takeaway": "AI是战略赋能工具，不是替代方案，应聚焦流程重塑。",
+      "executive_takeaway": "AI是战略杠杆，需重塑流程与技能，而非简单替代人力。",
       "signal_strength": "medium",
       "id": "7cb52fcd",
       "feed": "mckinsey",
@@ -51,34 +79,117 @@
       "title": "Why AI will elevate instead of replace commercial teams",
       "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/why-ai-will-elevate-instead-of-replace-commercial-teams",
       "published": "Tue, 28 Jul 2026",
-      "ingested_at": "2026-07-29T01:28:16.179274+00:00",
+      "ingested_at": "2026-08-02T01:46:00.683180+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "生命科学",
+        "大型企业",
+        "AI",
+        "研发",
+        "数据科学"
+      ],
+      "structured_summary": {
+        "background": "拜耳作为全球生命科学巨头，面临提升研发生产力的迫切需求，希望通过数据科学和AI转型研发流程。",
+        "decision_action": "拜耳高级副总裁兼数据科学与AI负责人Sai Jasti主导推动AI嵌入研发工作流，包括流程变革和工具采纳，以达成激进的生产力目标。",
+        "result": "待验证（具体量化结果未在摘要中提及）",
+        "lesson": "高管应明确AI转型需由高层主导，并聚焦于流程重构而非单纯工具部署，同时设定可衡量的生产力目标。"
+      },
+      "executive_takeaway": "AI转型需高层主导，聚焦流程重构，设定明确生产力目标。",
+      "signal_strength": "medium",
+      "id": "38e94e0b",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "Bayer’s Sai Jasti on driving productivity in R&D with data science and AI",
+      "link": "https://www.mckinsey.com/industries/life-sciences/our-insights/bayers-sai-jasti-on-driving-productivity-in-r-and-d-with-data-science-and-ai",
+      "published": "Tue, 28 Jul 2026",
+      "ingested_at": "2026-08-02T01:46:17.677567+00:00",
       "content": null,
       "annotations": []
     },
     {
       "pillar": "theory",
-      "relevance_score": 75,
+      "relevance_score": 85,
       "tags": [
-        "跨行业",
-        "大型企业",
-        "AI管理",
-        "组织变革"
+        "AI",
+        "组织变革",
+        "管理者角色",
+        "创造力"
       ],
       "structured_summary": {
-        "background": "麦肯锡发布关于AI如何改变工作方式、团队结构和管理角色的理论文章，面向企业高管。",
-        "decision_action": "提出AI正在解锁创造力，并催生‘代理型管理者’（agent manager）这一新角色，强调企业需重新评估工作方式、团队结构和管理定义。",
+        "background": "麦肯锡发布关于AI如何改变工作方式、团队结构和管理者角色的洞察文章，面向企业高管。",
+        "decision_action": "文章提出AI正在解锁创造力，并预示着'代理管理者'（agent manager）的崛起，即管理者需要适应AI代理参与工作的新环境。",
         "result": "待验证",
-        "lesson": "高管应主动设计AI增强的管理角色，将管理者从监督者转变为协调AI与人类团队的代理，并重新定义团队协作模式。"
+        "lesson": "高管应重新审视管理者的职责和技能要求，准备迎接AI代理作为团队成员的新常态，并利用AI提升组织创造力。"
       },
-      "executive_takeaway": "AI将管理者推向‘代理型’角色，需重新设计管理岗位。",
-      "signal_strength": "low",
+      "executive_takeaway": "AI将重塑管理者角色，需提前布局代理管理能力。",
+      "signal_strength": "medium",
       "id": "408c1a03",
       "feed": "mckinsey",
       "tier": "authority",
       "title": "Rewired takes: How AI is unlocking creativity and heralding the rise of the agent manager",
       "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-how-ai-is-unlocking-creativity-and-heralding-the-rise-of-the-agent-manager",
       "published": "Mon, 27 Jul 2026",
-      "ingested_at": "2026-07-29T01:28:34.283054+00:00",
+      "ingested_at": "2026-08-02T01:46:36.680438+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "化工",
+        "大型国企",
+        "工业AI",
+        "数字化转型",
+        "劳动力升级"
+      ],
+      "structured_summary": {
+        "background": "阿塞拜疆国家能源公司对其战略资产之一——SOCAR Carbamide化肥厂进行数字化转型，面临传统工业流程和技能差距的挑战。",
+        "decision_action": "高层领导强力推动，大规模提升员工技能，重新设计数字化与运营流程，部署工业AI解决方案。",
+        "result": "绩效显著提升，获得世界经济论坛‘数字灯塔’全球认可。具体量化数据未提供，待验证。",
+        "lesson": "高管应认识到，工业AI转型不仅是技术部署，更是领导力、组织能力和人才升级的系统工程；成功的关键在于将数字化与运营深度融合，并投资于员工技能重塑。"
+      },
+      "executive_takeaway": "工业AI转型需领导力、技能重塑与运营重构三管齐下。",
+      "signal_strength": "medium",
+      "id": "d5a53d32",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "How SOCAR transformed a fertilizer leader in Azerbaijan with industrial AI",
+      "link": "https://www.mckinsey.com/industries/chemicals/how-we-help-clients/how-socar-transformed-a-fertilizer-leader-in-azerbaijan-with-industrial-ai",
+      "published": "Fri, 24 Jul 2026",
+      "ingested_at": "2026-08-02T01:46:57.935846+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "保险",
+        "大型企业",
+        "AI战略",
+        "竞争格局"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡发布报告，指出AI将颠覆保险业长期以来的结构和动态，对CEO提出战略指导。",
+        "decision_action": "报告建议保险公司、分销商和技术提供商应提前布局AI，以获取竞争优势。",
+        "result": "待验证",
+        "lesson": "高管应评估AI对自身业务模式的影响，并制定相应的战略投资和转型计划。"
+      },
+      "executive_takeaway": "AI将重塑保险业，提前布局者将获竞争优势。",
+      "signal_strength": "low",
+      "id": "5882202a",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "How AI will reshape the economics of insurance: A CEO’s guide to strategy",
+      "link": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-will-reshape-the-economics-of-insurance-a-ceos-guide-to-strategy",
+      "published": "Thu, 23 Jul 2026",
+      "ingested_at": "2026-08-02T01:47:17.616414+00:00",
       "content": null,
       "annotations": []
     },
@@ -88,17 +199,17 @@
       "tags": [
         "电信",
         "大型企业",
-        "AI原生",
+        "AI转型",
         "组织变革",
-        "合并整合"
+        "并购整合"
       ],
       "structured_summary": {
-        "background": "印尼第二大电信运营商Indosat Ooredoo Hutchison在完成复杂合并后，寻求通过AI重塑企业决策、员工工作方式及价值创造模式。",
-        "decision_action": "将合并视为增长平台，全面推动AI原生转型，包括重构决策流程、赋能员工、以及将AI嵌入核心业务以创造可衡量价值。",
-        "result": "待验证（原文未提供具体量化结果，但强调AI已产生可衡量价值）。",
-        "lesson": "高管应将重大组织变革（如合并）视为AI转型的契机，而非仅关注整合本身；需从决策、员工、价值三个维度系统推进AI原生。"
+        "background": "印尼第二大电信运营商Indosat Ooredoo Hutchison在完成复杂合并后，面临如何将合并转化为增长平台的挑战，决定以AI为核心重塑企业决策、员工工作方式和价值创造。",
+        "decision_action": "公司启动AI原生转型，将AI嵌入决策流程、员工日常工具和业务流程，推动组织从传统电信运营向AI驱动模式转变。",
+        "result": "具体数据未披露，但根据麦肯锡案例描述，AI已在企业内创造可衡量的价值，转型初显成效。",
+        "lesson": "高管应将AI视为组织变革的杠杆，而非单纯技术工具；在并购整合期引入AI可加速融合并创造新增长点。"
       },
-      "executive_takeaway": "合并是AI转型的催化剂，需系统重构决策、员工与价值创造。",
+      "executive_takeaway": "AI原生转型是并购后整合的加速器，可重塑决策与工作方式。",
       "signal_strength": "medium",
       "id": "e5fd777f",
       "feed": "mckinsey",
@@ -106,7 +217,7 @@
       "title": "Becoming an AI-native telco: Indosat Ooredoo Hutchison reimagines the telecom of the future",
       "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/how-we-help-clients/becoming-an-ai-native-telco-indosat-ooredoo-hutchison-reimagines-the-telecom-of-the-future",
       "published": "Wed, 22 Jul 2026",
-      "ingested_at": "2026-07-29T01:29:05.806479+00:00",
+      "ingested_at": "2026-08-02T01:47:42.044231+00:00",
       "content": null,
       "annotations": []
     },
@@ -116,15 +227,16 @@
       "tags": [
         "银行业",
         "大型企业",
-        "模型风险管理"
+        "模型风险管理",
+        "AI治理"
       ],
       "structured_summary": {
-        "background": "银行业在快速采纳和增长AI模型的同时，需要确保风险敏感的价值创造。",
-        "decision_action": "麦肯锡提出银行应演进其模型风险管理框架，以支持AI模型的快速采纳和增长，同时确保风险敏感的价值创造。",
+        "background": "银行业在快速采纳AI模型的同时，面临模型风险管理框架的更新需求。",
+        "decision_action": "麦肯锡提出银行应演进其模型风险管理框架，以支持AI模型的快速采用和增长，同时确保风险敏感的价值创造。",
         "result": "待验证",
-        "lesson": "高管应主动更新模型风险管理框架，平衡AI创新与风险控制，避免因风险滞后而阻碍AI应用或引发监管问题。"
+        "lesson": "高管应主动将AI模型纳入现有风险管理框架，平衡创新与风险控制，确保价值创造不以牺牲风险为代价。"
       },
-      "executive_takeaway": "更新模型风控框架，平衡AI创新与风险。",
+      "executive_takeaway": "AI模型需纳入风险管理框架，平衡创新与风险控制。",
       "signal_strength": "medium",
       "id": "ff28f353",
       "feed": "mckinsey",
@@ -132,34 +244,7 @@
       "title": "Evolving model risk management in the age of AI",
       "link": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/evolving-model-risk-management-in-the-age-of-ai",
       "published": "Wed, 22 Jul 2026",
-      "ingested_at": "2026-07-29T01:29:22.324997+00:00",
-      "content": null,
-      "annotations": []
-    },
-    {
-      "pillar": "theory",
-      "relevance_score": 75,
-      "tags": [
-        "供应链",
-        "大型企业",
-        "代理式AI",
-        "组织变革"
-      ],
-      "structured_summary": {
-        "background": "麦肯锡发布报告，探讨代理式AI（Agentic AI）在供应链运营中的潜力与实施路径。",
-        "decision_action": "建议企业超越孤立的用例，协调人员、流程和技术，实现端到端的代理式AI部署。",
-        "result": "待验证",
-        "lesson": "高管应推动跨职能协作，将代理式AI嵌入供应链核心流程，而非仅试点单一场景。"
-      },
-      "executive_takeaway": "代理式AI需系统性整合，而非单点试验。",
-      "signal_strength": "low",
-      "id": "d2b6a358",
-      "feed": "mckinsey",
-      "tier": "authority",
-      "title": "Powering supply chain with agentic AI",
-      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
-      "published": "Wed, 22 Jul 2026",
-      "ingested_at": "2026-07-29T01:29:38.437360+00:00",
+      "ingested_at": "2026-08-02T01:47:58.766941+00:00",
       "content": null,
       "annotations": []
     },
@@ -167,25 +252,26 @@
       "pillar": "theory",
       "relevance_score": 85,
       "tags": [
-        "机器人",
-        "人机协作",
+        "供应链",
+        "大型企业",
+        "Agentic AI",
         "组织变革"
       ],
       "structured_summary": {
-        "background": "新一代机器人技术正在加速发展，企业面临如何利用其创造价值并确保人机协作成功的挑战。",
-        "decision_action": "麦肯锡提出领导者需要制定战略，以捕获机器人带来的价值，同时设计有效的人机协作模式。",
+        "background": "麦肯锡发布关于Agentic AI在供应链中应用的前瞻性分析，指出其可能根本性地改变供应链运营。",
+        "decision_action": "文章提出企业需超越孤立用例，系统性地协调人员、流程和技术，以充分发挥Agentic AI的潜力。",
         "result": "待验证",
-        "lesson": "高管应主动规划机器人部署，平衡自动化与员工赋能，建立信任和培训机制。"
+        "lesson": "高管应将Agentic AI视为组织级转型机会，而非局部优化工具，需从全局视角设计人机协作模式。"
       },
-      "executive_takeaway": "主动规划人机协作，平衡效率与员工信任。",
+      "executive_takeaway": "Agentic AI是供应链组织重构的杠杆，需系统性布局而非单点试验。",
       "signal_strength": "medium",
-      "id": "957f5c09",
+      "id": "d2b6a358",
       "feed": "mckinsey",
       "tier": "authority",
-      "title": "Robot reboot",
-      "link": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-robot-reboot",
-      "published": "Mon, 20 Jul 2026",
-      "ingested_at": "2026-07-29T01:29:57.701285+00:00",
+      "title": "Powering supply chain with agentic AI",
+      "link": "https://www.mckinsey.com/capabilities/operations/our-insights/powering-supply-chain-with-agentic-ai",
+      "published": "Wed, 22 Jul 2026",
+      "ingested_at": "2026-08-02T01:48:15.490822+00:00",
       "content": null,
       "annotations": []
     },
@@ -196,15 +282,16 @@
         "钢铁",
         "大型企业",
         "生成式AI",
-        "销售转型"
+        "销售转型",
+        "人机协作"
       ],
       "structured_summary": {
-        "background": "安赛乐米塔尔巴西公司与麦肯锡合作，旨在通过AI重塑其销售流程，将销售从依赖直觉转向实时洞察。",
-        "decision_action": "部署基于生成式AI的工具，自动化日常销售任务（如报价、客户查询），使销售团队专注于客户价值创造。",
-        "result": "待验证（原文未提供具体量化结果，但暗示销售效率提升和客户价值增加）。",
-        "lesson": "高管应优先识别销售流程中的高频低价值环节，用生成式AI替代，释放人力转向高附加值活动；需与外部咨询或技术伙伴合作加速落地。"
+        "background": "ArcelorMittal Brazil（安赛乐米塔尔巴西公司）与麦肯锡合作，旨在重新设计其销售流程，以提升销售效率和客户价值创造。",
+        "decision_action": "引入生成式AI工具，自动化销售日常事务性工作，使销售人员能专注于高价值的客户互动和价值创造。",
+        "result": "具体数据未披露，但据称销售流程摩擦减少，销售人员时间被释放，聚焦于客户价值创造。",
+        "lesson": "高管可借鉴：AI不是替代销售，而是解放销售；通过消除低价值事务，让人才专注于高价值活动，是组织变革的可行路径。"
       },
-      "executive_takeaway": "用生成式AI剥离销售杂务，释放团队聚焦客户价值。",
+      "executive_takeaway": "AI解放销售，聚焦高价值，组织变革应重设计流程而非简单裁员。",
       "signal_strength": "medium",
       "id": "d77189be",
       "feed": "mckinsey",
@@ -212,7 +299,118 @@
       "title": "From instinct to real-time insight: Transforming steel sales with AI",
       "link": "https://www.mckinsey.com/capabilities/mckinsey-technology/overview/from-instinct-to-real-time-insight-transforming-steel-sales-with-ai",
       "published": "Mon, 20 Jul 2026",
-      "ingested_at": "2026-07-29T01:30:15.665607+00:00",
+      "ingested_at": "2026-08-02T01:48:39.811429+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "零售",
+        "大型企业",
+        "AI定价",
+        "全渠道",
+        "金融科技",
+        "数字化转型"
+      ],
+      "structured_summary": {
+        "background": "埃及电子零售商 B.TECH 面临电商冲击，与麦肯锡合作，寻求通过技术驱动转型。",
+        "decision_action": "实施 AI 驱动的定价、履约和金融科技解决方案，重塑客户购物体验，并开发新的数字收入流。",
+        "result": "实现快速增长，数字收入成为新增长引擎（具体数据待验证）。",
+        "lesson": "传统零售商可通过 AI 在定价、履约和金融科技领域创造新价值，但需系统性整合技术能力。"
+      },
+      "executive_takeaway": "AI 重塑零售需从定价、履约、金融科技切入，可快速见效。",
+      "signal_strength": "medium",
+      "id": "8fe0e9a3",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "How B.TECH transformed into a technology-powered retailer",
+      "link": "https://www.mckinsey.com/industries/consumer-packaged-goods/how-we-help-clients/how-b-tech-transformed-into-a-technology-powered-retailer",
+      "published": "Thu, 16 Jul 2026",
+      "ingested_at": "2026-08-02T01:49:09.596228+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 75,
+      "tags": [
+        "公共部门",
+        "大型组织",
+        "AI转型",
+        "服务交付"
+      ],
+      "structured_summary": {
+        "background": "公共部门面临利用AI改善居民服务并提高 taxpayer 资金效率的压力，但多数机构仍停留在试点阶段。",
+        "decision_action": "麦肯锡提出公共部门需超越实验，重新设计服务交付方式，实现AI的规模化应用。",
+        "result": "待验证",
+        "lesson": "高管应推动从试点到全面转型的跨越，聚焦服务流程重构而非单点工具部署。"
+      },
+      "executive_takeaway": "AI转型需从试点转向全面重构，否则无法兑现效率承诺。",
+      "signal_strength": "low",
+      "id": "a047c8a1",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "How can the public sector meet the AI moment?",
+      "link": "https://www.mckinsey.com/industries/public-sector/our-insights/rewiring-public-sector",
+      "published": "Wed, 15 Jul 2026",
+      "ingested_at": "2026-08-02T01:49:25.918987+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "memo",
+      "relevance_score": 85,
+      "tags": [
+        "CEO",
+        "组织变革",
+        "转型",
+        "集体行动"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡专家讨论CEO在组织转型中的关键作用，指出转型常因内部动态失败。",
+        "decision_action": "CEO需解决激励错位、部门孤岛和风险规避等根本问题，统一组织于宏大愿景。",
+        "result": "待验证",
+        "lesson": "高管应主动打破内部壁垒，通过调整激励机制和推动协作来确保转型成功。"
+      },
+      "executive_takeaway": "CEO必须亲自解决内部协作障碍，否则AI转型难以成功。",
+      "signal_strength": "medium",
+      "id": "5362af4c",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "The CEO’s role in transformation",
+      "link": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-transformation",
+      "published": "Wed, 15 Jul 2026",
+      "ingested_at": "2026-08-02T01:49:42.198685+00:00",
+      "content": null,
+      "annotations": []
+    },
+    {
+      "pillar": "theory",
+      "relevance_score": 85,
+      "tags": [
+        "AEC行业",
+        "大型企业",
+        "AI转型",
+        "工作流重塑",
+        "数据利用"
+      ],
+      "structured_summary": {
+        "background": "麦肯锡发布关于AI在建筑、工程和施工（AEC）行业应用前景的分析，指出该行业长期面临生产力低下、数据碎片化等问题。",
+        "decision_action": "文章提出AI将重塑AEC行业，建议企业主动重新设计工作流程、提升数据利用效率、实现工地自动化，并强调快速行动的企业将获得竞争优势。",
+        "result": "待验证（文章为前瞻性分析，未提供具体企业案例数据）",
+        "lesson": "高管应评估自身企业的数据基础和工作流瓶颈，优先在数据密集、重复性高的环节引入AI，并建立跨部门协作机制以推动流程再造。"
+      },
+      "executive_takeaway": "AEC企业应主动用AI重构流程，否则将被快速转型的竞争者超越。",
+      "signal_strength": "medium",
+      "id": "52e12768",
+      "feed": "mckinsey",
+      "tier": "authority",
+      "title": "How AI is reshaping the future of the AEC industry",
+      "link": "https://www.mckinsey.com/industries/engineering-construction-and-building-materials/our-insights/how-ai-is-reshaping-the-future-of-the-aec-industry",
+      "published": "Wed, 15 Jul 2026",
+      "ingested_at": "2026-08-02T01:49:59.571407+00:00",
       "content": null,
       "annotations": []
     },
@@ -225,12 +423,12 @@
         "组织变革"
       ],
       "structured_summary": {
-        "background": "麦肯锡发布观点文章，指出AI正在重塑每个业务，但最大挑战是围绕AI重新设计公司组织。",
-        "decision_action": "建议企业将AI视为赋能优秀员工的工具，而非削减成本的手段；避免将AI转型视为单纯的人员优化问题。",
+        "background": "麦肯锡发布观点文章，指出AI正在重塑每个企业，但最难的挑战是围绕AI重新设计公司组织。",
+        "decision_action": "文章建议企业应投资于为优秀员工配备卓越技术，而非将AI视为裁员问题。",
         "result": "待验证",
-        "lesson": "高管应优先投资于提升员工能力的AI工具，而非简单裁员；组织设计需围绕AI能力进行重构。"
+        "lesson": "高管应将AI视为组织升级的机遇，而非成本削减手段，重点在于赋能人才而非减少人力。"
       },
-      "executive_takeaway": "AI转型核心是赋能员工，而非裁员；组织需围绕AI重构。",
+      "executive_takeaway": "AI转型应赋能人才，而非精简人力，否则企业将萎缩。",
       "signal_strength": "medium",
       "id": "2bfd0b9a",
       "feed": "mckinsey",
@@ -238,118 +436,7 @@
       "title": "AI’s next big mission is rewiring your workplace",
       "link": "https://www.mckinsey.com/about-us/media/ais-next-big-mission-is-rewiring-your-workplace",
       "published": "Wed, 15 Jul 2026",
-      "ingested_at": "2026-07-29T01:30:50.179618+00:00",
-      "content": null,
-      "annotations": []
-    },
-    {
-      "pillar": "theory",
-      "relevance_score": 85,
-      "tags": [
-        "全行业",
-        "大型企业",
-        "客户体验",
-        "AI代理",
-        "跨渠道编排"
-      ],
-      "structured_summary": {
-        "background": "AI代理正在接管实时决策，领先企业开始重新设计客户体验，从预设旅程转向动态跨渠道编排。",
-        "decision_action": "麦肯锡提出企业应放弃传统的线性客户旅程，采用AI代理驱动的动态跨渠道编排模式。",
-        "result": "待验证",
-        "lesson": "高管应评估现有客户旅程的僵化程度，优先在决策点引入AI代理，并建立跨渠道数据与决策中枢。"
-      },
-      "executive_takeaway": "用AI代理替代预设旅程，实现动态跨渠道客户体验。",
-      "signal_strength": "medium",
-      "id": "069e76fe",
-      "feed": "mckinsey",
-      "tier": "authority",
-      "title": "Rewiring customer experience for the agentic era",
-      "link": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rewiring-customer-experience-for-the-agentic-era",
-      "published": "Tue, 14 Jul 2026",
-      "ingested_at": "2026-07-29T01:31:17.939034+00:00",
-      "content": null,
-      "annotations": []
-    },
-    {
-      "pillar": "theory",
-      "relevance_score": 85,
-      "tags": [
-        "跨行业",
-        "大型企业",
-        "AI重塑入门级工作",
-        "知识管理",
-        "人才培养"
-      ],
-      "structured_summary": {
-        "background": "AI正在重塑入门级工作，传统依靠重复性任务积累经验的人才培养模式面临挑战。",
-        "decision_action": "建议企业将知识管理、岗位设计、学习与辅导整合为统一系统，以系统化方式培养下一代专家。",
-        "result": "待验证",
-        "lesson": "高管应主动设计AI时代的人才培养体系，而非被动等待员工自然成长；需将知识沉淀、角色调整、学习路径和导师制联动，形成闭环。"
-      },
-      "executive_takeaway": "AI时代需系统化设计人才培养，整合知识管理、角色、学习与辅导。",
-      "signal_strength": "medium",
-      "id": "db0623b3",
-      "feed": "mckinsey",
-      "tier": "authority",
-      "title": "Building expertise in the age of AI: Who trains the next generation?",
-      "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/building-expertise-in-the-age-of-ai-who-trains-the-next-generation",
-      "published": "Tue, 14 Jul 2026",
-      "ingested_at": "2026-07-29T01:31:34.522886+00:00",
-      "content": null,
-      "annotations": []
-    },
-    {
-      "pillar": "theory",
-      "relevance_score": 75,
-      "tags": [
-        "跨行业",
-        "大型企业",
-        "AI规模化",
-        "人才策略"
-      ],
-      "structured_summary": {
-        "background": "麦肯锡高级合伙人Brooke Weddle基于咨询实践，探讨企业规模化AI应用时面临的人才与组织挑战。",
-        "decision_action": "提出规模化AI的关键在于人才策略，包括重新定义角色、技能提升与组织文化变革。",
-        "result": "待验证（文章未提供具体数据，但基于麦肯锡项目经验总结）",
-        "lesson": "高管应优先投资于人才转型，而非仅关注技术；需建立持续学习机制和跨职能协作文化。"
-      },
-      "executive_takeaway": "AI规模化成败在人，技术是其次。",
-      "signal_strength": "low",
-      "id": "27c3178d",
-      "feed": "mckinsey",
-      "tier": "authority",
-      "title": "Rewired takes: Practical people lessons for scaling AI adoption",
-      "link": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/rewired-takes-practical-people-lessons-for-scaling-ai-adoption",
-      "published": "Mon, 13 Jul 2026",
-      "ingested_at": "2026-07-29T01:31:51.142072+00:00",
-      "content": null,
-      "annotations": []
-    },
-    {
-      "pillar": "theory",
-      "relevance_score": 85,
-      "tags": [
-        "跨行业",
-        "大型企业",
-        "AI代理",
-        "成本管理",
-        "运营模式"
-      ],
-      "structured_summary": {
-        "background": "企业关注AI成本飙升，但可能忽视AI代理带来的更大价值。",
-        "decision_action": "麦肯锡提出“代理经济学”框架，建议企业从整体运营模式评估AI代理的投资回报，而非仅关注成本。",
-        "result": "待验证",
-        "lesson": "高管应建立以价值为导向的AI投资评估体系，将AI代理视为运营模式转型的杠杆，而非单纯的成本项。"
-      },
-      "executive_takeaway": "AI代理的价值在于重塑运营模式，而非成本控制。",
-      "signal_strength": "low",
-      "id": "b699f1a8",
-      "feed": "mckinsey",
-      "tier": "authority",
-      "title": "Is that AI agent worth it? Agentic economics and the modern operating model",
-      "link": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/is-that-ai-agent-worth-it-agentic-economics-and-the-modern-operating-model",
-      "published": "Mon, 13 Jul 2026",
-      "ingested_at": "2026-07-29T01:32:08.686554+00:00",
+      "ingested_at": "2026-08-02T01:50:18.357373+00:00",
       "content": null,
       "annotations": []
     },
@@ -357,45 +444,76 @@
       "pillar": "memo",
       "relevance_score": 85,
       "tags": [
-        "媒体",
-        "大型企业",
-        "AI转型",
-        "编辑独立性"
+        "AI",
+        "高管观点",
+        "组织变革"
       ],
       "structured_summary": {
-        "background": "拥有180年历史的美联社面临AI技术冲击，CEO Daisy Veerasingham在麦肯锡访谈中阐述转型思路。",
-        "decision_action": "美联社积极采用AI辅助新闻生产，但坚持编辑独立性优先于任何商业模式；强调可信内容的经济价值，并探索新的收入结构。",
-        "result": "待验证：AI工具已用于自动化财报报道等，但整体转型效果尚未有量化数据。",
-        "lesson": "高管应优先保护核心价值（如信任、独立性），再灵活调整业务结构；AI是工具而非目的，转型需以原则为锚。"
+        "background": "斯坦福大学经济学家 Erik Brynjolfsson 在播客中讨论 AI 对经济和社会的影响，背景是当前对 AI 的普遍担忧。",
+        "decision_action": "他提出一个观点：不要问 AI 会对我们做什么，而要问我们用 AI 做什么。强调技术不是主要障碍，人、组织和制度才是。",
+        "result": "待验证",
+        "lesson": "高管应关注如何主动利用 AI 创造共享繁荣，而非被动应对。组织需要调整结构、流程和技能，以充分发挥 AI 的潜力。"
       },
-      "executive_takeaway": "AI转型中，保护核心价值比保护现有业务结构更重要。",
-      "signal_strength": "medium",
-      "id": "daa00a3d",
-      "feed": "mckinsey",
+      "executive_takeaway": "AI 的瓶颈在人不在技术，高管应主动重塑组织以利用 AI。",
+      "signal_strength": "low",
+      "id": "40679714",
+      "feed": "mit-sloan",
       "tier": "authority",
-      "title": "How a 180-year-old news institution prepares for its next reinvention",
-      "link": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-a-180-year-old-news-institution-prepares-for-its-next-reinvention",
-      "published": "Fri, 10 Jul 2026",
-      "ingested_at": "2026-07-29T01:32:25.541293+00:00",
-      "content": null,
-      "annotations": []
+      "title": "Creating Shared Prosperity With AI: Stanford Digital Economy Lab’s Erik Brynjolfsson",
+      "link": "https://sloanreview.mit.edu/audio/creating-shared-prosperity-with-ai-stanford-digital-economy-labs-erik-brynjolfsson/",
+      "published": "Tue, 21 Jul 2026 11:00:41 +0000",
+      "ingested_at": "2026-08-02T01:52:14.702910+00:00",
+      "content": "埃里克·布林约尔松向任何担心人工智能的人提出了一个挑战：不要再问人工智能会给我们带来什么，而开始问我们将用人工智能做什么。在本期《我，我自己，与人工智能》节目中，这位斯坦福大学经济学家解释了为什么技术不是进步的最大障碍——人、组织和制度才是。基于对人工智能对就业、生产力和经济增长影响的新研究，他认为未来并非预先注定：它将由我们今天做出的选择塑造。这是一场关于人类能动性、共同繁荣以及为什么最重要的人工智能突破可能与技术关系不大，而更多与我们如何使用它有关的及时对话。\n\n在Apple Podcasts或Spotify上订阅《我，我自己，与人工智能》。\n\n文字记录\n\n艾莉森·莱德：今天的嘉宾提出了一个大胆的挑衅：人工智能并非被技术所阻碍，而是被我们所阻碍。想知道为什么吗？现在就来了解。\n\n埃里克·布林约尔松：我是斯坦福大学的埃里克·布林约尔松，你正在收听《我，我自己，与人工智能》。\n\n萨姆·兰斯博瑟姆：欢迎收听《我，我自己，与人工智能》，这是来自麻省理工学院斯隆管理评论的一档播客，探索人工智能的未来。我是萨姆·兰斯博瑟姆，波士顿学院分析学教授。自2014年以来，我一直在麻省理工学院斯隆管理评论研究数据、分析和人工智能，包括研究文章、年度行业报告、案例研究，以及现在的13季播客节目。在每一集中，企业领袖、前沿研究人员和人工智能政策制定者都会加入我们，剖析什么将人工智能的炒作与成功区分开来。\n\n今天，我将与埃里克·布林约尔松对话，他负责斯坦福数字经济实验室，研究人们如何普遍使用技术，特别是现在的人工智能。他试图思考技术如何影响经济和工作。他的著作《第二次机器时代》塑造了许多此类辩论。他的团队最近发表了《煤矿中的金丝雀？》一文，这是一篇关于入门级员工状况的研究论文。我和埃里克每年在国家经济研究局会碰面几次，他总是会提出一些我未曾考虑过的问题。埃里克，不要有压力，但我今天同样期待如此。\n\n埃里克·布林约尔松：很高兴来到这里，萨姆。\n\n萨姆·兰斯博瑟姆：欢迎来到节目。让我们从斯坦福数字经济实验室开始。你能简要介绍一下实验室的工作吗？\n\n埃里克·布林约尔松：当然。我们研究数字经济。……我很喜欢在麻省理工学院的时光。我在那里待了超过25年，但现在我来到了硅谷，这里是人工智能革命的中心。我们专注于研究人工智能和其他数字技术如何改变经济。实验室以及我的工作、职业生涯的前提是，技术正在飞速发展，能力令人惊叹。与此同时，我们的经济理解并没有以足够快的速度进步。我们的经济制度、技能、组织并没有跟上。我的工作就是努力缩小这一差距。\n\n萨姆·兰斯博瑟姆：就是那些讨厌的人。技术发展迅速，而组织和人拖慢了我们的步伐，我想这就是总结。\n\n埃里克·布林约尔松：没错。你的很多工作也强调了这一点，我们正在尽我们所能跟上。\n\n萨姆·兰斯博瑟姆：我在想《与机器赛跑》这本书和今天的“金丝雀”。它们之间有什么联系？\n\n埃里克·布林约尔松：“与机器赛跑”……是标题。结论是我们应该与机器赛跑，而不是与机器对抗。这就是我一直强调的——人类和机器有机会合作。这不是自动发生的。我们需要做出很多选择，但技术正在开启各种新的可能性。尝试发明和发现这些可能性是我们人类需要做的重要部分。\n\n萨姆·兰斯博瑟姆：我喜欢“选择”这个词，因为我觉得我们很容易滑入一种俗语，说“AI做了这个，技术做了那个”。我知道你一直反对这种说法。\n埃里克·布林约尔松：完全正确。这可能是人们问我最多的问题之一：“AI会对我们做什么？AI接下来会让什么发生？”我说：“等等，你问题的前提是错的。应该是‘我们打算用AI做什么？’”\n这是一个极其强大的工具，可以说是人类有史以来最强大的工具。几乎从定义上讲，这意味着我们比以往任何时候都更有能力改变世界。所以让我们想想我们想如何使用它。事实证明，我们的价值观和选择现在比过去更重要，因为我们确实有能力在宇宙中留下巨大的印记，无论好坏。\n萨姆·兰斯博瑟姆：是的，无论好坏。我想在我们接下来的谈话中，这一点可能会多次出现。\n我在想，你在早期的《与机器赛跑》一书中，有多少内容是对的。但作为学者，这并不有趣。你认为你哪些地方错了？你对什么感到惊讶？与16年前或15年前相比，有什么变化与你预想的不同？\n埃里克·布林约尔松：嗯，首先，既然我们在谈论我们哪里错了，我应该强调这本书是和安迪·麦卡菲合著的，还有《第二次机器时代》。他是我许多项目的合作伙伴。\n我们哪里错了？我们当时在关注一些进展——我特别想提《第二次机器时代》，我们以乘坐谷歌的自动驾驶汽车开始那本书。实际上，那是2012年，就在我们写完《与机器赛跑》之后，我们从山景城一路开到旧金山。我得说，我当时想：“哇，自动驾驶汽车就要来了，”打个比方，我以为它会很快实现。显然，它花了更长时间。我确实在旧金山湾区经常乘坐自动驾驶汽车，在城里。它们已经有一段时间了，现在也来到了帕洛阿尔托，你可以一路在高速公路上乘坐它们。但那是15年后了。\n这花了一段时间，我想我当时过于乐观了。话虽如此，我想我低估了技术在其他方面进步的速度。就像你和我可以和[大型语言模型]对话，无论是ChatGPT、Gemini还是Claude，并让它们工作，我想我没想到这会这么快发生。我的意思是，如果你在2012年或2015年问我，我基本上会认为这是[通用人工智能]。所以能从它们那里得到真正好的建议，这真的很酷。我们都知道它们仍然会幻觉和犯错，但我们人类也会。平均而言，它们真的相当不错。所以那发生得更快。我们那方面有点错了。\n然后最令人失望的部分是，看，我知道我们刚才在谈论人类制度比技术变化得更慢。但天哪，我没想到会慢这么多。有时几乎像是在倒退。所以那相当令人失望，我们的政治制度、我们的企业、组织，它们没有跟上。生产力并没有比AI革命开始时增长得更快，也许如果你眯着眼睛看，可能有一点点。但我们并没有真正将这些能力转化为更好的商业表现或我们都希望的那种好处。\n萨姆·兰斯博瑟姆：我在上次见到你的会议上，在帕洛阿尔托乘坐了一辆自动驾驶汽车。它很快就变得无聊了。我先是着迷了几秒钟，然后很快就无聊了。你提到那在几年前会被认为是AGI，或者LLM的东西在几年前会被认为是AGI，但现在不是了。这在多大程度上是一种温水煮青蛙，我们正在习惯这些技术，需要更多才能让我们印象深刻？这是其中的一部分吗？是测量的一部分吗？是J曲线吗，我们稍后会回到这一点？以上都是？以上都不是？\n\n埃里克·布林约尔松：以上所有情况都有。部分原因，就像你说的，在自动驾驶汽车里感到无聊；最初的几分钟有点吓人又刺激，然后变得令人兴奋。不到半小时你就会想，“好吧，我有点明白了。”这些车开起来有点像我的祖母，非常小心和缓慢，我想这是正确的做法。\n萨姆·兰斯博瑟姆：这也许就是你离开波士顿的原因。\n埃里克·布林约尔松：没错。它们的事故率比人类低90%。我期待有一天所有的车都这样。目前它们点对点的速度稍慢一些。有时我赶时间，我会叫优步，因为我知道司机更愿意抄近路，可以这么说。但部分原因是我们对最初令人瞠目结舌的事情习以为常了。\n我想我们的大脑天生就会适应事物。但你说到的另外两点，我认为更重要也更有趣。一是衡量问题。我们的经济指标并没有设计来捕捉人工智能带来的许多好处，尤其是免费数字商品的好处。所以我们有一套完整的方法来解决这个问题。也许我们稍后可以谈谈这个。\n另一部分是J曲线。这就是我们开始对话时提到的——在将能力转化为实际的业务变革方面确实存在差距和困难。这是因为需要投入许多互补性资产和投资。其中许多必须被发明出来，而我们不知道它们是什么，这些互补的共同发明包括新的业务流程、新技能、全新的商业模式和工作方式。它们很难，我们有企业家、管理者、商学院教授和顾问都在努力弄清楚它们。\n在早前与（宾夕法尼亚大学的）洛林·希特和普拉桑纳（索尼）·塔姆贝等人的合作中，我们发现，对这些无形资产的投入比直接投入计算机技术的资金大约多10倍。但由于它们大多是无形的，几乎看不见，我们往往不太重视它们，也不去衡量它们，人们甚至没有意识到它们的存在。但我们正努力在我们的研究中让它们更加可见，并让人们认识到你也必须进行这些投资。\n萨姆·兰斯博瑟姆：实际上，衡量问题既重大又困难。我记得你和（卡内基梅隆大学的）阿维纳什·科利斯在讨论如何衡量维基百科、脸书和其他这些技术的价值。这些东西都超级难衡量。当我们不衡量事物时，我认为我们做得不好。\n让我们也许转向衡量问题，因为我认为你的“煤矿中的金丝雀”研究中有个很酷的故事……我想你的头条发现是22到25岁的人受影响最大，就业率下降了约16%。但你是用ADP的工资单数据发现的。那是一个非常有趣的信号信息。给我们讲讲那项研究吧。\n埃里克·布林约尔松：和所有人一样，我们看到所有关于人工智能消除就业或人工智能创造就业的头条新闻。在任何一个月里，都有数十万人获得或失去工作。一个还算不错的记者很容易找到其中任何一种例子，并围绕它构建一个故事，或者随便找个路人聊聊。至少对我来说，我真的不知道如何汇总这些。真实的故事是什么？所以我们想获得大规模数据。\n当我们查看当前人口调查时，我们并没有看到太多东西，当我们查看ADP（全球最大的工资处理机构）的顶层数据时，他们在数字经济实验室与我们分享了这些数据。实际上我们在顶层数据中也没有看到太多。我几乎在想，“好吧，我们就写个故事说这一切都是炒作。”但随后我们更深入地挖掘，一些受到非常大影响的子群体，就像你刚才提到的，22到25岁的人，职业生涯早期的工人，他们的就业率明显下降，但当你按他们对人工智能的暴露程度细分时，情况就变得非常显著了。\n\nOpenAI的Tyna Eloundou、宾夕法尼亚大学的Daniel Rock等人创建了一个分类体系，他们对经济中的所有任务（共18,000个不同的任务）进行了排名，依据是它们受大语言模型影响的程度。大语言模型能帮你写备忘录吗？当然可以。大语言模型能帮你搬箱子吗？不太可能。如果你对每个任务都这样排名，然后将它们汇总到职业层面，你基本上就能得到一个分数，表明该职业是否会受到大语言模型的影响。\n\n我们研究了大约750个职业，并将它们分为五等份。在受影响最大的五分之一职业中，这个最年轻年龄组里有超过一百个职业，最初就业率下降了约12%到13%。现在，相对于其他职业，这些职业的就业率下降了约16%到17%。所以这确实非常显著。我们没有看到老年工人的就业率下降，即使在受影响最大的职业中也是如此。你真的必须这样细分来看。\n\n即使我们控制了其他因素，比如我们控制了利率，控制了科技行业——如果你愿意，你可以把整个科技行业排除在外，或者控制科技行业的过度招聘——你可以控制远程工作，控制教育水平，这些因素都没有推翻核心结果。我们仍然看到了这种非常明显的下降。\n\n我还可以说另一件事，那就是，正如我提到的，老年工人表现良好。还有其他几个群体也表现良好。一个是未受影响的职业群体。所以如果你看看光谱的另一端，比如家庭健康助理，人工智能对他们的影响远没有那么严重，他们的就业实际上在增长，即使是年轻工人也是如此。\n\n然后，最有趣的结果，也是我最兴奋的结果是，如果你将他们使用人工智能的方式主要分为自动化和消除工作，以及增强和创造新技能、新机会、做以前从未做过的新事情，那么自动化组的就业率在下降，而增强组，即那些学习新技能的人，就业率在增长。所以这有点像双重胜利：更高的生产率和增长的就业。出于某种原因，当媒体写我们的研究时，这一点没有被充分提及，但我认为我们发现人工智能可能与某些类型工人的更高就业率相关，这非常重要。\n\nSam Ransbotham：我认为这又回到了你如何使用它，你的决策，以及我们所有人在这方面做出的选择。这并不让我惊讶，因为如果我考虑一个任务，回到你提到的任务汇总，我敢肯定，没有哪个工作会百分之百地由可自动化任务组成，也没有哪个工作会百分之百地由不可自动化任务组成。任务的构成会使得这些工作的某些部分更有价值。这会让这些部分更有价值。\n\nErik Brynjolfsson：没错。这是另一个非常重要的观点：你可以拿每个职业来看；每个职业都有一组任务。在O*Net中，一个典型的职业有20到30个任务。放射科医生有26个不同的任务。计算机科学家Geoffrey Hinton曾有名言：“阅读医学图像，这就是放射科医生的工作。这将被人工智能取代。”他没有考虑到的是，放射科医生还有25个其他任务，而其中大多数不受人工智能影响。\n\n净效应是，随着人工智能使图像阅读变得更便宜、更好，这实际上增加了放射科医生从事其他任务的价值，放射科医生的净就业增长了。我并不是说这种情况总是发生，但确实存在一些案例——有些人称之为杰文斯悖论——即让某物变得更便宜会增加对其的需求，最终你会得到更多的就业而不是更少，即使它变得更高效。\n\nSam Ransbotham：我认为这是令人沮丧的事情。我想每个人都希望得到一个答案，即“这是明确的答案”，而你在这里遇到的只是一个巨大的“视情况而定”，而且它取决于一系列越来越复杂的事情。\n\nErik Brynjolfsson：好吧，让我试着把它简化一点。这比简单的故事要复杂一些，即你总是消除工作岗位，或者就此而言，它总是创造工作岗位。但作为一名经济学家，对我来说一个非常有用的工具——我会为你的读者讲得有点专业，但这会是有用的时间——你可以想到需求曲线。当价格下降时，数量增加。需求曲线是向下倾斜的。我们大多数人都直觉地知道，当你让某样东西更便宜时，人们会买更多。\n\n但真正重要的是那条需求曲线有多陡峭。对于某些产品，比如苹果，即使你把它们便宜10倍，你也不会买10倍的苹果。也许你会多买一些苹果。但需求曲线相当陡峭。所以随着价格下降，你最终会花得更少。这很直观。大多数人认为所有商品都是这样的。\n\n事实证明，并非所有商品都是这样的。有很多商品，当价格下降时，即使只是一点点，数量也会大幅增加，比如航空旅行。过去很少有人会乘飞机穿越全国，但现在更便宜了，我们很多人飞往全国各地太多了。所以有像这样的商品和服务。这被称为弹性需求或平坦的需求曲线。\n\n每当你遇到这样的情况，你实际上对某物有增长的需求，你最终会有更多的支出。经济中至少一半的商品和服务处于曲线的这一侧。这真是好消息。这意味着随着我们变得更高效、更有效率，一些东西会缩小，但其他东西会增长。我认为在公众对话中对缩小的一侧有太多偏见。我想通过你的播客做的事情之一是让更多人思考增长的那一侧。\n\n我教一门大师课，基本上我们向人们展示如何识别和发现这些创造财富的新机会，如何使用AI做新的事情来创建创业企业。我们做得越多，我认为人们就会过得越好。他们将帮助自己，也将通过发明新事物来帮助经济的其他部分。\n\nSam Ransbotham：苹果是一个很好的例子。就像你说的，当我们得到更多苹果时，我们不会消费它们，但我不认识任何一家公司说，“几乎所有我们能想到的IT项目，我们都在做。”你明白我的意思吗？\n\nErik Brynjolfsson：是的，完全正确。似乎对解决各种IT问题的需求几乎是无限的。当我环顾世界时，我没有看到问题的短缺。贫困、环境、尤其是医疗保健，这些都是我们可以使用更多资源的地方，我没有看到我们解决这些问题的机会会耗尽。\n\nSam Ransbotham：我们会耗尽这些类型问题的幻想，那很好，但我认为在接下来的几年里，接下来的几个世纪里，这不会发生。让我们回到这个J曲线概念。首先解释一下什么是J曲线，人们应该怎么看待它？\n\nErik Brynjolfsson：这是另一个我认为人们觉得非常有用的概念，那就是每当有一种重要的强大技术时，我们经济学家称之为通用目的技术。我们过去常说GPT，但我的AI朋友偷走了那个缩写。但AI两者都是。它是一个生成式预训练变换器，比如GPT-5，但它也是一种通用目的技术，就像蒸汽机、电力、内燃机和汽车一样。那些是真正推动大多数经济增长、大多数生产力的东西。它们是我们比几百年前甚至50年前的祖先拥有更高生活水平的原因。\n\n人工智能是我们这个时代最重要的通用技术，也许是有史以来最重要的。但关于这些通用技术，关键在于价值真正来自互补性资产。有了电力，它催生了灯泡、电动机、空调，最终还有计算机和许多其他东西。有了人工智能，它正在催生各种新的业务流程，而且不仅仅是物理技术。还有我们之前谈到的那些无形资产。这很好。问题是这些无形资产需要时间来创造。它们很昂贵。你必须投资于它们。无论你是聘请顾问还是自己做，你都必须重新发明工作是如何完成的。\n\n在那个昂贵的时期，你在重新设计业务流程时花费更多，但产出并不会立即增加。从数学上讲，这意味着投入更多，产出没有增加，而生产率，至少按照传统衡量方式，会下降。这就是J曲线的下降部分。然后你开始收获成果。你开始利用这些新的业务流程来创造更多的产出。现在产出在上升。这就是J曲线的上升部分。\n\n我们在大多数通用技术中看到的是，最初有一段平静期，生产率很低甚至为负，然后才起飞。现在很难确切看到我们在人工智能方面处于什么位置。我们正处于其中。但如果你回顾更早的历史，比如说电力——我在博士论文中写过一些相关内容——信不信由你，公司尝试重新设计工厂组织方式花了大约20到30年的时间。\n\n他们安装了电动机。起初他们并没有获得多少生产率提升。经济学家保罗·戴维和其他人非常仔细地记录了这一点。在电气化过程中，工厂的生产率实际上有长达30年几乎没有增长，这真是令人瞩目，但最终，他们完全重新设计了工厂的组织方式。不再是围绕中央发动机（如蒸汽机）聚集，而是每台设备都有单独的电动机，他们分散了工作，并根据物料流动来布置安排。\n\n当他们这样做时，生产率开始飙升，比如生产率翻倍或三倍。但就像我说的，这花了30年。我不认为人工智能会花30年。我很确定它已经开始发生了。但同时，它比我的一些技术朋友、一些人工智能朋友预期的要长。他们认为一旦你发明了人工智能，你就完成了。\n\n现实是，正如你所知，山姆，在你的工作和我的工作中，有很多业务流程重新设计必须发生。我们正处于其中，我正在尽我们所能试图加速这一过程。我的公司Workhelix非常致力于向公司展示如何识别创造价值的机会。如果我们能加速这一过程，那就太好了，但我们仍然会有一点J曲线。\n\n山姆·兰斯博瑟姆：我在回想电力时代。我猜他们没有季度股票报告的压力，也没有人们现在可能面临的即时结果的需求。\n\n埃里克·布林约尔松：老实说，最大的事情是他们并没有真正拥有我们所有的制度。不是要自夸，但商学院并不存在。咨询书籍以及整个工业工程和管理科学都不存在。我回去读了一些书。我去了哈佛商学院的贝克图书馆，那里有这些旧书，他们思考问题的方式相当原始。\n\n现在，帮助公司重新设计业务流程的生态系统要大得多。这仍然需要时间和重新设计，以及重新培训员工。但我的感觉是，管理者们现在对此更加清醒，他们更加积极地投入，并且分享最佳实践。\n在Workhelix，我们有一个工具，可以扫描所有机会并与员工分享，看看谁是真正表现出色的超级用户，然后将他们与普通员工进行比较。因此，与人们在没有这类工具之前可能做的事情相比，它只是将学习速度提高了大约10倍。\nSam Ransbotham：我真的很喜欢这一点，因为它再次将测量和其他一些事情联系起来。年度绩效评估真的不再有用了。能够更好地衡量你在做什么以及你做得如何的想法是有帮助的。\n让我稍微唱点反调。我之前在《麻省理工学院斯隆管理评论》上写过关于重新思考AI目标的文章。你写过关于“图灵陷阱”的文章。我认为人们的第一反应是让机器通过图灵测试，让机器做人类能做的事情。这导致我们对现有流程进行渐进式改进。如果我们没有衡量正确的事情，测量似乎也可能无意中助长这一点。你对这个有什么看法，短期与长期？\nErik Brynjolfsson：嗯，肯定有短期和长期之分；那些是你的目标。几个月前我和一位首席财务官交谈，她告诉我，“嘿，我们真的需要衡量AI的好处，投资回报率。”我说，“那太好了。你应该衡量它。跟我说说。”她说，“所以这就是为什么我要求每个部门告诉我他们从AI中减少了多少人数。”我心想，“等一下。我很高兴你在衡量，但这是不是有点头脑简单，因为，是的，削减成本没有错，但它确实错过了做新事物的更大机会，让你的员工创造新的价值。”\n有一位年薪数百万美元的首席财务官，他们赚大钱的原因是他们必须更有创造性地思考价值创造，而不仅仅是让机器做人类已经在做的事情并取代他们。那是经典的图灵测试：你能让机器完美地模仿人类吗？\n这是一种非常狭隘的思考方式。我认为艾伦·图灵是个聪明人，但我认为这种心态对我们如何使用AI造成了很大的损害。我称之为“图灵陷阱”，因为我认为只关注使用AI来取代或模仿工人是一个陷阱。我们还应该考虑AI如何增强我们的能力，让我们做新的事情。但这需要新的衡量标准，比如，你如何创造新的产品和服务？你如何提高客户满意度？你如何提高质量，无论是产品的质量，还是工作者的工作生活质量？\n这些都是不会出现在你狭隘的替代思维中的东西，所以这也是需要更长时间的事情，就像你说的。短期主义往往只关注削减成本和你已经在做的事情。但那些拥有最大竞争优势、最持久利益的公司，是那些考虑超越这些并做新事情、新业务流程、新产品和服务的公司。这不会在几周内发生，但当你实现它时，你拥有的是持续多年的东西。\nSam Ransbotham：有很多地方机器比我们表现更好。判断这是机器还是人并通过图灵测试的最简单方法是，我不能很快地做数学。我们的目标并不是完全正确的标准，我想。你提到在电气化初期，人们没有围绕它的制度。Neil \n\n汤普森[和]麻省理工学院数字经济计划，[你]在搬到斯坦福之前显然参与其中，他们有一篇科学文章说，大约90%的最重要新AI模型来自工业界。我们已经经历了从学术界和公共资金[产生]技术利益到大部分来自科技公司和初创企业的巨大转变。你提到了帕洛阿尔托和那里的中心。好吧，我担心。那是这些东西的正确位置吗？\n埃里克·布林约尔松：部分原因是这些模型来自工业界，因为构建这些非常大的模型已经变得极其昂贵。对于LLM，存在这些缩放定律，当你使模型更大时，如果[它有]更多数据、更多计算、更多参数，你会得到可预测的性能提升。所以他们从花费数百万到数千万、数亿、数十亿，现在训练这些模型花费数百亿甚至数千亿美元。没有大学能负担得起。没有非营利组织能负担得起。所以公司正在筹集大量资金，就在我们说话的时候。Anthropic和OpenAI正在申请上市。谷歌有一个很好的现金引擎，可以投入其中，Meta也是如此。\n所以这就是推动这一点的原因。与此同时，我告诉我的学术同事，你们的比较优势不在于在计算机上花更多钱。而在于创造性思考。有一些绝妙的想法仅仅来自坐在办公室里深思。这仍然是一个好策略。\n不久前我和杰弗里·辛顿有过一次对话，我问他用什么硬件来获得他的见解和发现。他指着他的笔记本电脑，轻拍它说：“这就是我使用的硬件。”对于那种根本性的突破，并不总是需要数千个GPU的问题。\n我认为学者们需要发挥他们的比较优势。话虽如此，公平地说，越来越多的前沿研究正在通过一种非常昂贵的方法进行。在某种程度上，这证明了AI的价值有多大。工业界以前不这样做的原因之一不仅仅是成本高，而且回报也没有那么大。\n我来分享一个故事。我创办的第一家AI公司，信不信由你，是在1980年代末。这就是我的年龄。我和托德·卢夫伯罗创办了一家专家系统公司。专家系统是这些基于规则的系统。我们为一些银行和人力资源组织创造了一点价值，但归根结底，这与今天公司创造的价值完全不同。老实说，那种AI品牌并不那么有价值。只有现在我们有了这些非常强大的神经网络，你才真正拥有前所未有的商业激励。所以在某种程度上，工业界如此大规模投资证明了该领域的成功。\n萨姆·兰斯博瑟姆：我喜欢这一点。我认为美国政府去年在非国防研究支出上投入了大约15亿美元，这大致相当于谷歌的投入。你知道，[国立卫生研究院]和[国家科学基金会]的预算很小。正如你指出的，我们无法在支出上超过它们。\n埃里克·布林约尔松：但在这一点上，我认为这是公平的。你想要两者兼有。我的意思是，在商业上可行之前，投资是学术界和联邦政府的工作。研发的长期利益中有太多是不明显的，而且没有商业激励去投资。互联网、早期太空旅行、许多延长我们寿命的生物学根本性突破，它们发生在大学和政府实验室，因为它们在商业上不可行，但后来人们在此基础上发展。你不可能总是提前知道哪些会得到回报。但如果你做基础研究，记录表明最终其中一些将对我们的生活水平产生真正的影响。\n\nSam Ransbotham：这是基本的应用层面。我们不必资助应用层面的东西，因为市场会处理这些。而对于基础层面的东西，看不见的手在这些方面不太起作用，或者它的作用速度比大家期望的要慢。\n我想你会有很多学者听这个，因为他们好奇你会说什么。人们应该关注什么？哪些类型的事情属于那个类别？也许一个批评是，我在学术界看到的很多研究，可以说是为公司的咨询项目。人们应该追求的基础类型想法是什么？\nErik Brynjolfsson：嗯，在很多不同的领域有很多这样的想法，我想我不想规定它们，因为我认为在某种程度上，魔力的一部分是让人们追求自己的想法，即使外部没有人看到它们的价值。\n话虽如此，我会给你我自己的清单。我专注于经济方面。我认为目前最大的差距是，我们对AI将如何转变经济没有很好的理解。我们正在创造极其强大的信息处理实体。作为经济学家，你可以把市场看作一个信息处理实体。你可以把公司和组织看作信息处理实体。如果AI有一千倍或一百万倍的改进，如果公司和市场不随之转变，我们不发展新的组织来管理工作，那将是一个奇迹。但我们还没有弄清楚这些。所以我的工作的很大一部分是试图理解，经济会是什么样子？随着AI变得更强大，随着它聚合信息、处理信息，公司、市场，也许还有一些新型实体是什么？然后我们将如何管理可能导致的财富和权力集中？\n我对技术提高生产力的潜力非常乐观。我和（西北大学的）Robert Gordon有一个长期的赌注，我写过我期望生产力如何增长。同时，我很担心如果我们不妥善管理，它可能导致财富的更大集中，而这往往导致权力的集中。如果我们不找出一个不仅平衡财富创造，而且平衡共享繁荣的经济体系，那可能会伤害我们的自由。\nSam Ransbotham：在谈话之前，我查阅了你的一些背景，以刷新记忆，我看到了“有意识乐观主义者”这个短语，它让我印象深刻。那么，要让我们走向未来的积极版本而不是消极版本，需要什么？\nErik Brynjolfsson：让我花一分钟来定义“有意识乐观主义者”，因为我对这个词有非常具体的含义。硅谷有很多人是乐观主义者，但我认为他们中太多人是盲目的乐观主义者。他们就像，“嘿，Erik，别担心。过去都解决了。未来也会解决的。放松点。”也有很多我称之为盲目悲观主义者的人。他们就像，“哦，天哪，我们完了。我们无能为力。”我认为这两组人都犯了同样的错误。\n这是我们节目开头讨论过的那个错误，他们以为AI会对我们做什么，而不是我们有能力控制未来。一个有意识的乐观主义者是看到未来然后努力去实现它的人，是有意识地创造它，而不是假设它会自动发生。\n他们不像圣诞节的孩子，期望礼物第二天早上神奇地出现，而是更像看到一棵树和一些木板的孩子，他们想，“嘿，我们可以在那里建一个树屋。”然后他们想，“嗯，它不会自己发生。让我们想办法实现它。”然后他们通过努力工作和想象力使那个乐观的现实成为现实。这就是我希望看到的那种乐观。我看到的不够多。我看到太多被动。\n\n\n上周五，我在斯坦福大学给班级上了最后一课，我告诉他们的一件事是，每次听到“AI”，他们应该想到增强的意图，AI是有史以来最伟大的意图放大器。无论他们想实现什么，AI都能放大它，但如果没有那种能动性，没有那种意图，就不会发生。\n所以，这是我想对更广阔世界传达的信息：“让我们思考我们的价值观是什么，我们想要塑造什么样的经济，我们想要创造什么样的共同繁荣。”我指的是每个人，不仅仅是技术专家，向他们传达这一信息，也包括政策制定者、公民、工人和管理者。让我们积极思考如何使用这一点。\n在未来10年里，我预计世界将发生根本性变化。但没有一个不可避免的未来。[当]你跨越比如美国和墨西哥或其他国家的边界时，你可以看到不同的制度导致非常不同的结果，不同的财富和民主水平，未来也是如此。我们可以生活在许多不同的可能未来中。我在数字经济实验室做的一件事就是进行大量研究，以了解哪些路径更有可能带来那些有益的结果。\nSam Ransbotham：我认为这是一个很好的结束方式。我们[没有]简单的答案，无论哪个方向。收益是真实的，伤害也是真实的，哪个占上风是我们现在正在做出的选择，也是我们可以控制的。\nErik Brynjolfsson：比以往任何时候都更是如此。有趣的一点是，现在是哲学家、人文学者、经济学家以及思考我们想在世界中体现什么价值观的人的时代。随着更大的力量而来的是更大的责任和更多的改变世界的潜力。所以，我们真的需要有意识地思考我们想要塑造什么样的未来世界。我认为对此的关注还不够，但数字经济实验室部分专注于这一点。\nSam Ransbotham：感谢你带来了数据和细节。我们今年夏天在波士顿见。\nErik Brynjolfsson：当然。期待它，Sam。很高兴和你交谈。\nAllison Ryder：感谢大家今天的收听。我们放暑假了，秋天会带着来自Instacart、GoFundMe、Dropbox和Honeywell的精彩演讲者阵容回来。届时请加入我们。\n与此同时，如果你给我们留下Apple Podcasts评论或Spotify评分，对我们的节目帮助很大。如果我们的节目真的影响了你的生活和工作，请给我们写信。你可以通过smr-podcast@mit.edu联系我们。我们很乐意听到你的消息。\nME, MYSELF, AND AI®是麻省理工学院的联邦注册商标。保留所有权利。",
+      "annotations": [
+        {
+          "type": "data",
+          "quote": "22到25岁的人受影响最大，就业率下降了约16%。",
+          "note": "关键数据：年轻员工就业率显著下降，凸显AI对入门级岗位的冲击。"
+        },
+        {
+          "type": "data",
+          "quote": "对这些无形资产的投入比直接投入计算机技术的资金大约多10倍。",
+          "note": "关键数据：无形资产投资远超技术投资，强调组织变革的重要性。"
+        },
+        {
+          "type": "decision",
+          "quote": "我的公司Workhelix非常致力于向公司展示如何识别创造价值的机会。",
+          "note": "关键决策：通过工具加速AI价值实现，体现主动管理变革。"
+        },
+        {
+          "type": "decision",
+          "quote": "我们专注于研究人工智能和其他数字技术如何改变经济。",
+          "note": "关键决策：斯坦福数字经济实验室的研究方向，聚焦技术经济影响。"
+        },
+        {
+          "type": "insight",
+          "quote": "不要再问人工智能会给我们带来什么，而开始问我们将用人工智能做什么。",
+          "note": "核心观点：强调人类能动性，AI是工具而非决定因素。"
+        },
+        {
+          "type": "insight",
+          "quote": "未来并非预先注定：它将由我们今天做出的选择塑造。",
+          "note": "关键启示：未来可塑，需主动选择以塑造积极结果。"
+        }
+      ]
     },
     {
       "pillar": "case",
-      "relevance_score": 75,
+      "relevance_score": 85,
       "tags": [
         "高等教育",
-        "大型机构",
-        "AI采纳",
-        "效率指标"
+        "大型组织",
+        "生成式AI",
+        "效率指标",
+        "行政工作"
       ],
       "structured_summary": {
-        "background": "美国一所大型公立高等教育机构在2026年引入生成式AI工具，面向高管、运营负责人和一线员工，并进行了为期四年的固定窗口观察。",
-        "decision_action": "组织全面引入GenAI工具，但保持人员编制和工作时长稳定，未因AI而裁员或缩减工时。",
-        "result": "员工人数和工作时长在研究期间保持稳定，AI并未直接减少工作量。",
-        "lesson": "高管不应仅以工作量减少作为AI成功的唯一指标；AI可能带来其他价值（如质量提升、决策加速），需建立多元评估体系。"
+        "background": "美国一所大型公立高等教育机构，在2026年向高管、运营负责人及面向学生的专业人员推广生成式AI工具，并进行了为期四年的固定窗口观察研究。",
+        "decision_action": "该机构在保持人员编制和工作时间稳定的前提下，引入生成式AI工具，并观察其对行政工作的影响。",
+        "result": "待验证（原文未提供具体数据，但暗示AI并未显著减少工作量，而是可能改变了工作性质或提升了质量）",
+        "lesson": "高管不应仅以工作量减少作为AI成功的唯一指标，而应关注工作质量、员工体验和战略价值等更广泛的成果。"
       },
-      "executive_takeaway": "AI成功指标应超越减负，关注质量与决策提升。",
+      "executive_takeaway": "AI成功指标应超越减负，关注质量与战略价值。",
       "signal_strength": "medium",
       "id": "e234b92e",
       "feed": "mit-sloan",
@@ -403,38 +521,33 @@
       "title": "GenAI Success Metrics: Look Beyond Reduced Workload",
       "link": "https://sloanreview.mit.edu/article/genai-success-metrics-look-beyond-reduced-workload/",
       "published": "Wed, 08 Jul 2026 11:00:17 +0000",
-      "ingested_at": "2026-07-29T01:33:08.941926+00:00",
-      "content": "话题\n在费城社区学院，生成式AI工具并没有神奇地解放人们的时间，或全面大幅提升某一生产力指标。一项分析发现，GenAI为关键角色带来了不同的工作流程收益：高管决策更果断，运营领导者速度更快，面向学生的专业人员问题解决效率更高。在评判GenAI的成功时，要审视你的组织工作形态发生了怎样的变化。\n当领导者谈论生成式AI工具时，一个承诺反复出现：这些工具将节省时间。\n更少的邮件。更少的会议。更少的行政负担。\n这种期望塑造了许多组织判断GenAI是否“有效”的方式——也解释了为什么当人们的日程表没有突然空出来时，他们常常感到失望。\n但对于我们的组织来说，节省时间恰恰是找错了方向。\n我们在费城社区学院这所大型公立高等教育机构内部看到的，不是工作减少，而是工作形态的改变。当生成式AI在2026年进入我们组织的日常工作时，协调并未消失。它从会议转向了写作，从澄清转向了更清晰的首稿，从反复商议转向了更快的决策收尾。\n为了了解真正发生了什么变化，我们观察了一个行政单位内三种专业角色——高管、运营领导者和面向学生的专业人员——在四年间同一六周内的工作情况。结果呈现的不是自动化取代人的故事，而是工作如何被塑造、完成和传递的故事。\n这种区别很重要。仅以节省的小时数来评判AI的组织，可能会错失真正的收益，并感到AI不过如此，即使它正在默默地做它该做的事。\n三个群体的GenAI收益\nGenAI工具于2026年进入我们学院的日常工作。为了了解GenAI对这三个专业群体的影响，我们每年考察同一六周窗口期（2月1日至3月15日），将2026年的工作与前三年模式进行比较。\n我们没有问：“人们工作有多快？”\n我们问：“他们产出了什么样的工作？”\n因为四年间人员编制和工作时间基本保持不变，我们观察到的任何差异都反映了工作方式的变化，而非工作能力的变化。",
+      "ingested_at": "2026-08-02T01:52:36.929525+00:00",
+      "content": "主题\n在费城社区学院，生成式人工智能工具并没有神奇地释放人们的时间，也没有全面推动某一生产力指标。一项分析发现，生成式人工智能对不同关键角色的工作流程产生了不同的增益：对高管而言是决断力，对运营领导者而言是速度，对面向学生的专业人员而言是解决效率。在评判生成式人工智能的成功时，要审视你的组织的工作形态发生了怎样的变化。\n当领导者谈论生成式人工智能工具时，有一个承诺反复出现：这些工具将节省时间。\n更少的电子邮件。更少的会议。更少的行政负担。\n这种期望塑造了许多组织决定生成式人工智能是否“有效”的方式——以及为什么当人们的日程表没有突然空出来时，他们常常感到失望。\n但对我们组织而言，节省时间结果证明是找错了关注点。\n我们在费城社区学院这所大型公立高等教育机构内部看到的，不是工作减少，而是工作形态的改变。当生成式人工智能在2026年进入我们组织的日常 workflows 时，协调并没有消失。它从会议转向了写作，从澄清转向了更清晰的首稿，从反复商议转向了更快的决策收尾。\n为了理解真正发生了什么变化，我们考察了同一行政单位内三种专业角色——高管、运营领导者和面向学生的专业人员——在四年中同一六周期间的工作情况。结果呈现的不是自动化取代人的故事，而是关于工作如何被塑造、完成和传递的故事。\n这种区别很重要。仅以节省的小时数来评判人工智能的组织，可能会错失真正的收益，并感到对人工智能失望，即使它正在悄悄地做它应该做的事情。\n三组人员的生成式人工智能收益\n生成式人工智能工具于2026年在我们学院的日常工作中出现。为了了解生成式人工智能对这三组专业人员的影响，我们每年检查了相同的六周窗口（2月1日至3月15日），将2026年的工作与前三年的模式进行了比较。\n我们没有问：“人们工作有多快？”\n我们问：“他们生产的是什么样的工作？”\n因为人员配备水平和工作时间在四年中基本保持不变，我们观察到的任何差异都反映了工作方式的变化，而不是能力的变化。",
       "annotations": [
         {
           "type": "data",
-          "quote": "GenAI工具于2026年进入我们学院的日常工作。为了了解GenAI对这三个专业群体的影响，我们每年考察同一六周窗口期（2月1日至3月15日），将2026年的工作与前三年模式进行比较。",
-          "note": "关键数据：明确GenAI引入时间和评估周期，为后续工作形态变化提供基准。"
+          "quote": "我们考察了同一行政单位内三种专业角色——高管、运营领导者和面向学生的专业人员——在四年中同一六周期间的工作情况。",
+          "note": "关键数据：研究设计，对比四年同期数据，确保结论的可靠性。"
         },
         {
           "type": "data",
-          "quote": "四年间人员编制和工作时间基本保持不变，我们观察到的任何差异都反映了工作方式的变化，而非工作能力的变化。",
-          "note": "关键数据：控制变量，确保观察到的变化归因于GenAI而非资源增减。"
+          "quote": "人员配备水平和工作时间在四年中基本保持不变",
+          "note": "关键数据：控制变量，说明变化源于工作方式而非资源增减。"
         },
         {
           "type": "decision",
-          "quote": "我们在费城社区学院这所大型公立高等教育机构内部看到的，不是工作减少，而是工作形态的改变。",
-          "note": "关键决策：组织选择关注工作形态变化而非单纯节省时间，重新定义AI成功标准。"
-        },
-        {
-          "type": "decision",
-          "quote": "我们问：“他们产出了什么样的工作？”",
-          "note": "关键决策：用产出质量而非速度衡量AI效果，体现评估策略的根本转变。"
+          "quote": "生成式人工智能工具于2026年在我们学院的日常工作中出现。",
+          "note": "关键决策：明确AI引入的时间点，为对比分析提供基准。"
         },
         {
           "type": "insight",
-          "quote": "当生成式AI在2026年进入我们组织的日常工作时，协调并未消失。它从会议转向了写作，从澄清转向了更清晰的首稿，从反复商议转向了更快的决策收尾。",
-          "note": "关键观点：AI改变工作形态而非消除工作，协调从会议等显性活动转向写作等隐性活动。"
+          "quote": "节省时间结果证明是找错了关注点。",
+          "note": "关键观点：高管应重新思考AI成功的衡量标准，时间节省不是核心。"
         },
         {
           "type": "insight",
-          "quote": "仅以节省的小时数来评判AI的组织，可能会错失真正的收益，并感到AI不过如此，即使它正在默默地做它该做的事。",
-          "note": "关键观点：警告高管不要用错误指标衡量AI，否则会低估其实际价值。"
+          "quote": "仅以节省的小时数来评判人工智能的组织，可能会错失真正的收益，并感到对人工智能失望，即使它正在悄悄地做它应该做的事情。",
+          "note": "关键观点：警示高管避免短视，应关注工作形态的积极变化。"
         }
       ]
     },
@@ -442,18 +555,17 @@
       "pillar": "memo",
       "relevance_score": 85,
       "tags": [
-        "跨行业",
-        "大型企业",
         "AI治理",
-        "问责制"
+        "大型企业",
+        "责任归属"
       ],
       "structured_summary": {
-        "background": "MIT Sloan Management Review 文章指出，几乎所有财富500强企业都宣称自己在治理AI，但多数领导者无法回答谁负责关闭有害AI模型。",
-        "decision_action": "文章呼吁企业明确AI治理中的具体问责人，尤其是关停有害模型的决策权归属。",
-        "result": "待验证：若企业采纳此建议，将建立清晰的AI治理问责机制。",
-        "lesson": "高管应指定具体负责人（如首席AI官或风险官）拥有关停有害AI模型的最终权力，并建立明确的升级流程。"
+        "background": "MIT Sloan Management Review 发表观点文章，指出几乎所有财富500强企业都声称在治理AI，但多数无法回答谁负责关闭有害AI模型的问题。",
+        "decision_action": "文章提出关键问题，强调明确AI治理责任归属的重要性，但未提及具体企业案例。",
+        "result": "待验证",
+        "lesson": "高管应确保AI治理有明确的责任人，特别是关停有害模型的决策权，避免治理流于形式。"
       },
-      "executive_takeaway": "AI治理的关键不是宣称，而是明确谁有权关停有害模型。",
+      "executive_takeaway": "AI治理必须明确关停责任人，否则形同虚设。",
       "signal_strength": "medium",
       "id": "1b75e56e",
       "feed": "mit-sloan",
@@ -461,57 +573,57 @@
       "title": "The Real Question to Ask About AI Governance",
       "link": "https://sloanreview.mit.edu/article/the-real-question-to-ask-about-ai-governance/",
       "published": "Tue, 30 Jun 2026 11:00:22 +0000",
-      "ingested_at": "2026-07-29T01:33:32.082447+00:00",
-      "content": "主题\n\n在人工智能治理风险方面，最能应对AI监管和公众审视挑战的公司，并非那些拥有最佳工具的公司，而是那些以明智方式让人类承担责任的公司。你的组织是否知道谁能阻止行为不当的AI模型或代理？那个人是否拥有真正的权力？他们向谁汇报？不妨借鉴Adobe AI治理负责人的经验。\n\n几乎每家财富500强公司的领导者都会告诉你，他们正在治理自己的AI——每一家都是如此。现在问问这些领导者，谁负责关闭造成危害的AI模型？大多数人无法回答这个问题。\n\n这种沉默是当前企业技术领域最重要的问题，而且很少被提及。\n\n在过去几年中，一个围绕人工智能的治理行业悄然兴起。公司建立了注册表来编目其AI模型。他们实施了分类系统来标记数据。他们搭建了仪表板来监控模型行为，并成立了风险委员会来审查新的部署。他们制定了政策，聘请了合规官，并向董事会展示了幻灯片。治理的基础设施已经 proliferated。\n\n缺少的是治理者。\n\n谁能关闭AI模型\n\n我在Adobe负责AI和数据治理。我的工作正是构建每家公司现在都声称拥有的那种项目。而我亲自动手从内部学到的是，困难的部分从来不是技术。困难的部分是一个听起来几乎简单得侮辱人的问题：当AI模型做了不该做的事时，谁有权阻止它？\n\n问题不在于谁得到通知。不在于谁写事故报告。而在于谁有权力、组织地位，坦率地说，还有工作保障，能走进会议室说：“我们关闭这个。”\n\n在大多数公司，这个人要么不存在，要么是一个与开发团队组织上分离的纸老虎。首席AI伦理官等角色以及数据治理委员会和负责任的AI团队等团体是完全必要的，但仅仅是咨询性质的。他们可以标记。他们可以建议。他们可以升级。他们通常不能做的是按下停止按钮。实际的决策权在别处。在大多数财富500强公司内部，它通常掌握在某个人手中，这个人的主要工作是交付产品和达到收入目标，并且有充分的理由将治理标记视为事后考虑而非强制要求。\n\n这不是对个人的批评；这是对结构性问题的描述，而治理行业在很大程度上选择忽视这个问题，因为治理行业销售的是工具，而不是问责制。\n\n这些工具确实有用，对法规遵从和有效治理至关重要。模型注册表告诉你存在哪些AI系统以及它们在做什么。风险分类框架告诉你哪些系统最值得关注。数据血缘系统告诉你输入来自哪里以及是否干净。所有这些都是真实且重要的基础设施。但这是用于可见性的基础设施，而不是用于行动的基础设施。\n\n你可以对问题有完美的可见性，却没有解决它的机制。你必须看到某件事才能做某事，但你也必须拿起水管来灭火。\n\n这样想：火警不是消防队。你可以给家里的每个房间布线，每年忠实地更换每个烟雾探测器的电池，并将每个警报路由到漂亮的仪表板——但仍然可能因为没人拿起水管而让房子烧毁。是的，知道房子在燃烧至关重要——否则你不会知道你需要水管。但你需要有人告诉消防队采取行动。\n\n治理行业在销售工具，而不是问责制。\n在Adobe，我们通过创建联邦治理模型来解决这个问题，该模型为每个AI系统指定了负责人，并设立了一个中央指导委员会，拥有升级权限，向信任与安全组织报告，而不是产品团队。这是我们做出的关键设计选择：让治理拥有独立于交付AI产品的团队的汇报线。这一点至关重要，以便能够对AI决策说“不”的人，不向那些因同意交付产品而受益的人汇报。\n为什么需要紧迫性\n这里的风险正在迅速上升。欧盟的《人工智能法案》现已生效，它不要求公司证明他们拥有仪表板。它要求他们证明他们拥有有意义的治理。它要求有记录的决策过程、清晰的问责线，以及事后能够展示谁对AI系统做出了重大选择以及为什么的能力。当监管机构提出这些问题时，一份政策文件和风险登记册不足以作为答案。监管机构想要一个名字。\n对治理的迫切需求因AI部署的速度而加剧。大多数大型企业现在在其组织中运行着数百个AI系统，甚至存在于领导者可能不知道的地方。你会发现AI工具被用于客户服务、招聘、内容审核、定价、欺诈检测，以及任何善意员工试图让生活更轻松的领域。其中许多系统是在压力下快速部署的，治理被视为未来要解决的问题。未来的时刻已经到来。\n答案不是减缓AI的采用。而是像对待技术问题一样认真对待组织设计问题。每个AI治理项目都应该能够回答三个问题：谁有权停止一个模型？他们知道这是他们的工作吗？当这个权力与别人的路线图冲突时，他们是否有地位行使该权力？\n对治理的迫切需求因AI部署的速度而加剧。\n如果你的公司无法回答这些问题，那么你并没有治理项目。你只有一堆文件。\n能够在未来五年应对AI监管和公众审视的公司，不一定是那些拥有最复杂工具的公司。它们是那些完成了更艰难、更不引人注目的工作，即在技术之下建立人类问责结构的组织。\n这些组织任命了一位AI治理官，赋予他们真正的权力，并明确其工作不是让AI部署更容易，而是让其可辩护。这些组织拥有一个联邦团队，负责识别、补救和升级，并且他们知道升级需要一个目的地。这意味着一个治理职能，直接向高级领导层汇报，独立于交付AI的产品团队，并拥有明确的权力来停止AI部署。\n每家公司都说自己治理AI。将治理与作秀区分开来的真正问题比任何框架都简单。问问自己：在我的组织中，谁能说“不”，并且有权力让这个“不”真正有效？",
+      "ingested_at": "2026-08-02T01:53:01.104898+00:00",
+      "content": "主题\n在AI治理风险方面，最能应对即将到来的AI监管和公众审视挑战的公司，并不是那些拥有最佳工具的公司，而是那些以明智方式让人类承担责任的公司。您的组织是否知道谁能阻止行为不当的AI模型或代理？那个人有真正的权力吗？他们向谁汇报？考虑一下Adobe AI治理负责人的经验教训。\n实际上，财富500强中每家公司的领导者都会告诉您，他们正在治理他们的AI——他们中的每一个人都会这么说。现在问这些同样的领导者，谁负责关闭一个造成伤害的AI模型？大多数人无法回答这个问题。\n这种沉默是企业技术领域目前最重要的故事，而且很少（如果有的话）被提及。\n在过去的几年里，一个围绕人工智能的治理行业悄然兴起。公司建立了注册表来编目他们的AI模型。他们实施了分类系统来标记他们的数据。他们建立了仪表板来监控模型行为，并成立了风险委员会来审查新的部署。他们制定了政策，聘请了合规官，并向董事会展示了幻灯片。治理的基础设施已经激增。\n缺少的是治理者。\n谁能关闭AI模型\n我在Adobe负责AI和数据治理。我的工作是构建那种每家公司现在都声称拥有的项目。而我从内部，在亲自动手的过程中学到的是，困难的部分从来不是技术。困难的部分是一个听起来几乎侮辱性地简单的问题：当AI模型做了它不应该做的事情时，谁有权停止它？\n这个问题不是谁收到通知。不是谁写事件报告。而是谁有权力、组织地位，并且坦率地说，有工作保障，走进会议室说：“我们要关闭这个。”\n在大多数公司，这个人要么不存在，要么是一个在组织上与发展团队分离的纸老虎。像首席AI伦理官这样的角色和数据治理委员会、负责任AI团队这样的团体是完全必要的，但仅仅是咨询性质的。他们可以标记。他们可以建议。他们可以升级。他们通常不能做的是按下停止按钮。实际的决策权在别处。在大多数财富500强公司中，它通常掌握在那些主要工作是交付产品和达到收入目标的人手中，他们有充分的理由将治理标记视为事后考虑而不是命令。\n这不是对个人的批评；这是对治理行业在很大程度上选择忽视的结构性问题的描述，因为治理行业销售的是工具，而不是责任。\n这些工具对于法规遵从和有效治理确实有用且至关重要。模型注册表告诉您存在哪些AI系统以及它们在做什么。风险分类框架告诉您哪些系统最需要审查。数据血缘系统告诉您输入来自哪里以及它们是否干净。所有这些都是真实且重要的基础设施。但这是可见性的基础设施，而不是行动的基础设施。\n您可以对问题有完美的可见性，但没有解决它的机制。您必须看到某些东西才能做某些事情，但您也必须拿起水管来灭火。\n这样想：火警不是消防部门。您可以给家里的每个房间布线，每年尽职尽责地更换每个烟雾探测器的电池，并将每个警报路由到漂亮的仪表板——但仍然让您的房子烧毁，因为没有人拿起水管。是的，知道房子在燃烧至关重要——否则，您不会知道您需要水管。但您需要有人告诉消防部门采取行动。\n\n治理行业卖的是工具，不是问责制。\n在Adobe，我们通过建立联邦治理模式来解决这个问题，为每个AI系统指定了负责人，并设立了一个中央指导委员会，拥有升级权限，直接向信任与安全组织汇报，而不是向产品团队汇报。这是我们做出的关键设计选择：让治理的汇报线独立于交付AI产品的团队。这一点至关重要，这样能够对AI决策说“不”的人，就不会向那些因说“是”而受益的人汇报。\n为什么需要紧迫性\n这里的风险正在迅速上升。欧盟的《人工智能法案》现已生效，它并不要求公司证明他们有仪表盘，而是要求他们证明他们有实质性的治理。它要求有文件化的决策过程、明确的问责线，以及事后能够展示谁对AI系统做出了重大选择以及为什么的能力。当监管机构提出这些问题时，政策文件和风险登记册不足以作为答案。监管机构要的是一个名字。\n治理的紧迫需求因AI部署的速度而加剧。大多数大型企业现在在其组织中运行着数百个AI系统，这些系统可能位于领导者甚至不知道的地方。你会发现AI工具被用于客户服务、招聘、内容审核、定价、欺诈检测，以及任何善意员工只是想让自己工作更轻松的地方。许多这些系统是在压力下快速部署的，治理被视为未来某个时候要处理的事情。未来那个时刻已经到来。\n答案不是放慢AI采用的步伐，而是像对待技术问题一样认真对待组织设计问题。每个AI治理项目都应该能够回答三个问题：谁有权停止一个模型？他们知道这是他们的工作吗？当这个权力与他人的路线图冲突时，他们是否有地位行使这个权力？\n治理的紧迫需求因AI部署的速度而加剧。\n如果你的公司不能回答这些问题，那么你有的不是治理项目，而是文件。\n能够驾驭未来五年AI监管和公众审视的公司，不一定是拥有最复杂工具的公司，而是那些做了更艰难、不那么光鲜的工作，在技术之下建立人类问责结构的企业。\n这些组织任命了AI治理负责人，赋予他们真正的权力，并明确表示这项工作不是让AI部署更容易，而是让它经得起辩护。这些组织有一个联邦团队被授权识别、修复和升级问题，并且他们知道升级需要一个目的地。这意味着治理职能直接向高级领导层汇报，独立于交付AI产品的团队，并拥有明确的权力来停止AI部署。\n每家公司都说自己治理AI。区分治理与作秀的真正问题比任何框架都简单。问问自己：在我的组织中，谁能说“不”，并且有权力让这个“不”真正有效？",
       "annotations": [
         {
           "type": "data",
-          "quote": "大多数大型企业现在在其组织中运行着数百个AI系统，甚至存在于领导者可能不知道的地方。",
-          "note": "揭示AI部署的广泛性和隐蔽性，强调治理的紧迫性"
+          "quote": "大多数大型企业现在在其组织中运行着数百个AI系统，这些系统可能位于领导者甚至不知道的地方。",
+          "note": "关键数据：揭示AI系统在企业中广泛部署且可能失控的现状，强调治理的紧迫性。"
         },
         {
           "type": "data",
-          "quote": "欧盟的《人工智能法案》现已生效，它不要求公司证明他们拥有仪表板。它要求他们证明他们拥有有意义的治理。",
-          "note": "关键监管要求转变，从工具到治理问责"
+          "quote": "欧盟的《人工智能法案》现已生效，它并不要求公司证明他们有仪表盘，而是要求他们证明他们有实质性的治理。",
+          "note": "关键数据：指出欧盟AI法案的具体要求，说明监管关注点从工具转向实质治理。"
         },
         {
           "type": "decision",
-          "quote": "在Adobe，我们通过创建联邦治理模型来解决这个问题，该模型为每个AI系统指定了负责人，并设立了一个中央指导委员会，拥有升级权限，向信任与安全组织报告，而不是产品团队。",
-          "note": "Adobe的治理决策：独立汇报线，确保权力不冲突"
+          "quote": "在Adobe，我们通过建立联邦治理模式来解决这个问题，为每个AI系统指定了负责人，并设立了一个中央指导委员会，拥有升级权限，直接向信任与安全组织汇报，而不是向产品团队汇报。",
+          "note": "关键决策：Adobe采用联邦治理模式，确保治理独立于产品团队，赋予中央委员会升级权限。"
         },
         {
           "type": "decision",
-          "quote": "让治理拥有独立于交付AI产品的团队的汇报线。",
-          "note": "关键设计选择：治理独立于产品团队，避免利益冲突"
+          "quote": "让治理的汇报线独立于交付AI产品的团队。",
+          "note": "关键决策：强调治理独立性的设计选择，确保说'不'的人不受业务压力影响。"
         },
         {
           "type": "insight",
-          "quote": "困难的部分从来不是技术。困难的部分是一个听起来几乎简单得侮辱人的问题：当AI模型做了不该做的事时，谁有权阻止它？",
-          "note": "核心洞察：治理的瓶颈在于权力分配而非技术"
+          "quote": "治理行业卖的是工具，不是问责制。",
+          "note": "关键观点：指出当前治理行业侧重提供工具而忽视建立问责机制，这是治理失效的根源。"
         },
         {
           "type": "insight",
-          "quote": "能够在未来五年应对AI监管和公众审视的公司，不一定是那些拥有最复杂工具的公司。它们是那些完成了更艰难、更不引人注目的工作，即在技术之下建立人类问责结构的组织。",
-          "note": "关键观点：成功取决于人类问责结构，而非工具复杂度"
+          "quote": "如果你的公司不能回答这些问题，那么你有的不是治理项目，而是文件。",
+          "note": "关键观点：强调治理的核心在于明确权力和问责，否则只是形式主义。"
         }
       ]
     },
     {
       "pillar": "case",
-      "relevance_score": 85,
+      "relevance_score": 90,
       "tags": [
         "金融",
         "大型企业",
-        "AI优先",
+        "AI转型",
         "投资管理"
       ],
       "structured_summary": {
-        "background": "Franklin Templeton作为全球资产管理公司，面临AI对投资行业变革的拐点，需要决定如何应对。",
-        "decision_action": "选择成为AI优先的早期倡导者，系统性地将AI整合到投资流程中，包括数据分析、决策支持和风险管理。",
+        "background": "富兰克林邓普顿（Franklin Templeton）作为全球资产管理巨头，面临AI对投资行业的颠覆性影响，处于转型关键节点。",
+        "decision_action": "公司决定成为AI-first的早期倡导者，而非快速跟随者，将AI深度整合到投资流程中，包括投资研究、组合管理和风险管理。",
         "result": "待验证",
-        "lesson": "高管应评估自身行业变革拐点，果断选择AI优先策略，而非快速跟随，以建立竞争优势。"
+        "lesson": "高管应评估自身行业是否处于AI转型拐点，若确认，应果断采取AI-first战略，而非观望等待，以获取先发优势。"
       },
-      "executive_takeaway": "在行业拐点，选择AI优先而非跟随，以抢占先机。",
+      "executive_takeaway": "AI转型拐点已至，应果断采取AI-first战略，而非快速跟随。",
       "signal_strength": "medium",
       "id": "ad9fba82",
       "feed": "mit-sloan",
@@ -519,38 +631,38 @@
       "title": "Transforming Investing With AI at Franklin Templeton",
       "link": "https://sloanreview.mit.edu/article/transforming-investing-with-ai-at-franklin-templeton/",
       "published": "Mon, 29 Jun 2026 11:00:37 +0000",
-      "ingested_at": "2026-07-29T01:33:59.865928+00:00",
-      "content": "话题\n\nAI 在行动\n\n投资和资产管理公司富兰克林邓普顿深知金融行业正处于 AI 驱动的转型初期，并立志走在最前沿。例如，其 AI 驱动的智能中心已经提升了销售洞察、区域管理和客户参与度。借助投资分析和研究等 AI 功能，以及语音智能等举措，该公司正在重新设计投资流程。\n\n如果你确信人工智能将改变你的行业，你会用它做什么？如果你觉得自己正处于这一变革的转折点，你会采取什么行动？你会尝试成为行业中 AI 优先的早期倡导者，还是快速追随者？\n\n这些都是富兰克林邓普顿（正式名称为 Franklin Resources Inc.）领导者面临的问题。这家大型投资和资产管理公司成立于 1947 年，管理资产约 1.7 万亿美元。\n\n在其 79 年的历史中，富兰克林邓普顿通过战略收购不断发展，增强了其能力和全球影响力，并扩展了其在资产类别、地域和投资理念方面的能力。\n\n然而，如今 AI 是未来增长和盈利的重要驱动力。顾问、学者和行业协会一致认为，该技术已经在投资领域推动研究、合规和客户关系，并将在未来进一步改变它们。\n\n富兰克林邓普顿的首席执行官 Jenny Johnson 是该公司的第三代领导者，她长期以来将投资领导力与深厚的技术素养相结合，职业生涯早期曾管理过技术组织。在 AI 成为董事会层面的任务之前，她已经关注 AI 多年。她亲自尝试生成式 AI，构建 AI 代理，并使用诸如 vibe coding（使用生成式 AI 提示编写代码）等技术创建计算机程序。\n\n但即使是 Johnson 也对 AI 在行业中的快速进步感到惊讶。“这比我想象的来得更快，”她在 2025 年 11 月的一次视频采访中说。“每家大型金融机构都在系统间对账和数据核对上花费大量资金。AI 可以帮助解决这个问题。”她指出，AI 还可以审查公司研究报告和卖方报告，例如分析关税如何影响美国制药公司与欧洲制药公司。“我不认为每个人都会拥有相同的模型，”她说。“训练模型将完全取决于你自己的数据。”她表示，未来将是公司全体人才使用 AI 作为工具。\n\n富兰克林邓普顿当前的 AI 能力\n\n富兰克林邓普顿正迅速迈向这一未来，拥有大量内部 AI 能力以及处于生产和试点状态的各种变革性平台。公司设有产品团队，与分销、运营和投资等业务部门合作。每个产品团队都采用 AI 优先模式，将产品管理、工程和数据科学整合为一个单元。还有一个共同的 AI 平台团队和一个研究团队。此外，还有一个采用和解决方案团队，负责推动员工实施 AI，并帮助将业务收益与产品对齐。\n\nAI 驱动的工作流程自动化了列表生成、会议准备和动态优先级排序。\n\n公司首席 AI 官 Deep Ratna Srivastav 负责 AI 产品管理、工程、研究和采用。他参与了富兰克林邓普顿目标优化引擎的概念化和推出，这是公司早期的投资组合选择和优化产品之一。他告诉我们，该引擎与全球金融科技生态系统集成——包括那些拥有记录保存者、管理账户提供商、托管人和数字财富平台的生态系统。\n\n平台——以提供与投资者财务目标相符的个性化投资策略。目前，它为超过4万名投资者生成建议，主要关注退休目标。该应用已被公司多家战略合作伙伴采用，并成为公司前瞻性AI路线图的一部分。Srivastav表示，下一阶段将应用强化学习来推进投资组合优化。\n\n富兰克林邓普顿为其销售和分销团队提供了Intelligence Hub，该平台整合了AI和数字能力，旨在增强洞察力、促进区域管理，并在与财务顾问的会议中加强客户互动。该中心将之前分散的数据源、研究和超过15个工作流工具整合到一个单一界面中，减少了手动搜索时间，加速了获取销售会议重要内容的流程。AI驱动的工作流自动化了列表生成、会议准备和动态优先级排序。富兰克林邓普顿的销售人员可以获得关于应重点关注的独立财务顾问、客户对话中应关注的内容、如何最佳地提高在顾问中的可见度，以及基于地理邻近性最合适的客户会面对象的建议。\n\n经过一年的试点，Intelligence Hub于2026年初向公司销售专业人员广泛开放。Srivastav表示，它带来了可衡量的效率提升，包括减少了客户会议前的每日准备时间。它还导致了增值客户互动的显著增加。\n\n公司还将AI应用于中后台的端到端流程。已投入生产的AI平台用于交易自动对账，以及与托管人、交易对手和核心交易操作创建可扩展的通信。\n\n投资分析也越来越得到AI的支持。目标不是自动化投资建议，而是通过更好的信息、更快的迭代以及人类无法单独获得的洞察来支持它。“副驾驶，而非自动驾驶”是总体目标。\n\n为此，一个名为MosaiQ的系统将投资组合构建、管理人研究和分析整合到一个单一平台中。名为Pixel的AI助手使用自然语言引导用户浏览MosaiQ，解释复杂的投资概念，并越来越多地代表用户执行端到端任务。已有一个新的投资组合经理“副驾驶”助手，可以提供市场冲击的早期预警，识别培训中的行为偏差，并提供投资组合创建方面的洞察。富兰克林邓普顿还构建了一个名为Gromit的智能投资分析师，它可以独立分析细微主题（例如，油价上涨对美国劳动力趋势的影响），对人工进行事实核查，并通过分析广泛的专有和第三方数据源提供反向观点。这些系统主要由生成式AI驱动。\n\n展望未来\n为适应不断变化的客户需求，富兰克林邓普顿的1030亿美元多资产集团——富兰克林邓普顿投资解决方案，任命前副首席投资官Max Gokhman领导新的AI与数字资产解决方案团队。该团队将专注于三个领域：进一步开发AI驱动的投资能力，推出包含数字资产和代币化产品的策略，以及就如何在其自身投资组合和组织中有效使用这些技术为客户提供建议。Gokhman作为AI公司创始人、数字资产投资者、机构资产配置者、多资产投资组合经理和首席投资官的经验，使他成为领导这一努力的独特人选。\n\n“坚韧的专注和愿意转向”现在对于希望保持相关性的资产管理公司来说是必需的。\n“在我的职业生涯中，我见过我们的行业多次变化，但从未以如此快的速度变化，”Gokhman说。“坚韧的专注和愿意转向是任何希望在五年后保持相关性的资产管理公司所必需的。”\n首席AI官Srivastav和他的同事正在许多其他端到端流程中工作。其中一个涉及为美国零售业务提供语音智能，以转变客户参与度。“投资组合评论”AI正处于规划阶段，它将提供及时的见解以增强客户体验。利用多智能体编排的投资管理副驾驶为投资团队服务，是投资流程端到端重新设计的又一步。营销部门正在简化其内容创作流程，使其能够制作更个性化、及时和高质量的内容。其他企业职能——包括法律、合规、人力资源和财务——也将通过AI进行类似的重新设计。\nSrivastav和CEO Johnson都不太担心富兰克林邓普顿的员工是否会接受AI转型。Srivastav表示，虽然AI教育的机会只在一定程度上受欢迎，但几乎所有提供给员工的AI工具都被迅速采用。在许多情况下，这些工具对客户和合作伙伴是可见的，这有助于说服员工使用它们。Srivastav指出，到目前为止，不遵守公司广泛的AI治理政策和程序并不是一个问题。\n富兰克林邓普顿的领导团队不确定其AI能力是否会带来“大银行”式的转型，还是会推动向更高效率和效能的缓慢演变。但他们知道，他们希望在客户和市场需求之前做好准备，并且需要成为行业领导者之一。",
+      "ingested_at": "2026-08-02T01:53:28.653701+00:00",
+      "content": "主题\nAI在行动\n投资和资产管理公司富兰克林邓普顿深知金融行业正处于AI驱动的转型初期，并打算走在最前沿。例如，其AI驱动的智能中心已经在增强销售洞察、区域管理和客户互动。凭借AI支持的能力，如投资分析和研究，以及语音智能等举措，该公司正在重新设计投资流程的道路上稳步前进。\n如果你确信人工智能将改变你的行业，你会用它做什么？如果你觉得自己正处于这一变革的拐点，你会采取什么行动？你会尝试成为行业中AI优先的早期倡导者，还是快速追随者？\n这些是富兰克林邓普顿（正式名称为富兰克林资源公司）的领导者面临的一些问题。这家大型投资和资产管理公司管理着约1.7万亿美元的资产，成立于1947年。\n在其79年的历史中，富兰克林邓普顿通过战略收购实现了增长，这些收购增强了其能力和全球影响力，并扩展了其在资产类别、地域和投资理念方面的能力。\n然而，如今，AI是未来增长和盈利能力的重要驱动力。顾问、学者和行业协会一致认为，这项技术已经在投资领域推动研究、合规和客户关系，并将在未来进一步改变它们。\n富兰克林邓普顿的首席执行官、公司第三代领导者珍妮·约翰逊长期以来将投资领导力与深厚的技术素养相结合，她在职业生涯早期曾管理过技术组织。在AI成为董事会层面的任务之前，她就已经关注AI多年。她亲自尝试生成式AI，构建AI代理，并使用诸如vibe编码（使用生成式AI提示编写代码）等技术来创建计算机程序。\n但即使是约翰逊也对AI在行业中的快速进步感到惊讶。“这比我预想的还要快，”她在2025年11月的一次视频采访中说。“每家大型金融机构都在系统之间的对账和数据核对上花费大量资金。AI可以帮助解决这个问题。”她指出，AI还可以审查公司研究报告和卖方报告，例如分析关税如何影响美国制药公司与欧洲制药公司。“我认为不会每个人都拥有相同的模型，”她说。“训练模型将完全取决于你自己的数据。”她说，未来将是让公司的全部人才使用AI作为工具。\n富兰克林邓普顿当前的AI能力\n富兰克林邓普顿正迅速迈向这一未来，拥有大量内部AI能力和处于生产及试点状态的变革性平台。公司设有产品团队，与分销、运营和投资等业务部门合作。每个产品团队在AI优先模式下运作，将产品管理、工程和数据科学整合为一个单元。有一个共同的AI平台团队和一个研究团队。还有一个采用和解决方案团队，推动员工实施AI，并帮助将业务收益与产品对齐。\nAI驱动的工作流程自动化了列表生成、会议准备和动态优先级排序。\n公司的首席AI官迪普·拉特纳·斯里瓦斯塔夫负责AI产品管理、工程、研究和采用。他参与了富兰克林邓普顿目标优化引擎的概念化和推出，这是公司早期的投资组合选择和优化产品之一。他告诉我们，该引擎与全球金融科技生态系统集成——包括与记录保管人、管理账户提供商、托管人和数字财富平台等。\n\n\n平台——以提供与投资者财务目标相符的个性化投资策略。目前，它为超过4万名投资者生成建议，主要关注退休目标。该应用程序已被公司的多家战略合作伙伴采用，并且是公司前瞻性人工智能路线图的一部分。Srivastav表示，下一阶段将应用强化学习来推进投资组合优化。\n\n富兰克林邓普顿为其销售和分销团队提供Intelligence Hub，该中心汇集了人工智能和数字能力，旨在增强洞察力、促进区域管理，并在与财务顾问的会议中加强客户互动。该中心将以前分散的数据源、研究和超过15种工作流工具集中到一个界面中，减少了手动搜索时间，加速了销售会议重要内容的获取。人工智能驱动的工作流自动化了名单生成、会议准备和动态优先级排序。富兰克林邓普顿的销售人员可以获得关于应重点关注的独立财务顾问、客户对话中应关注的内容、如何最好地获得顾问的可见性以及基于地理邻近性最合适的会面客户的建议。\n\n经过为期一年的试点，Intelligence Hub于2026年初向公司的销售专业人员广泛开放。Srivastav表示，它带来了可衡量的效率提升，包括减少了客户会议前的每日准备时间。它还导致了增值客户互动的显著增加。\n\n公司还将人工智能应用于组织中台和后台的端到端流程。已有AI支持的生产平台用于自动对账交易，并与托管人、交易对手和核心交易操作创建可扩展的通信。\n\n投资分析也越来越受到人工智能的支持。目标不是自动化投资建议，而是通过更好的信息、更快的迭代和人类无法独自得出的洞察来支持它。“副驾驶，而非自动驾驶”是总体目标。\n\n为此，一个名为MosaiQ的系统将投资组合构建、经理研究和分析整合到一个平台中。名为Pixel的AI助手通过自然语言引导用户使用MosaiQ，解释复杂的投资概念，并越来越多地代表用户执行端到端任务。已有一个新的投资组合经理“副驾驶”助手，可以提供市场冲击的早期预警，识别训练中的行为偏差，并提供关于投资组合创建的洞察。富兰克林邓普顿还构建了一个名为Gromit的智能投资分析师，它可以独立分析细微的主题（例如，油价上涨对美国劳动力趋势的影响），核实人类的事实，并通过分析广泛的自有和第三方数据源提供逆向观点。这些系统主要由生成式AI驱动。\n\n展望未来\n\n为了使公司适应不断变化的客户需求，富兰克林邓普顿的1030亿美元多资产集团——富兰克林邓普顿投资解决方案——委派前副首席投资官Max Gokhman领导新的人工智能与数字资产解决方案团队。该团队将专注于三个领域：进一步发展AI驱动的投资能力，推出包含数字资产和代币化产品的策略，以及就这些技术在其自身投资组合和组织中的有效使用向客户提供建议。Gokhman作为AI公司创始人、数字资产投资者、机构资产配置者、多资产投资组合经理和首席投资官的经验，使他非常适合领导这项工作。\n\n“坚韧专注和愿意转向”现在对于希望保持相关性的资产管理者来说是必需的。\n“在我的职业生涯中，我见过我们的行业多次变化，但从未有过如此迅速的变化，”Gokhman说。“对于任何希望在五年后仍然相关的资产管理者来说，坚韧专注和愿意转向是必需的。”\n首席人工智能官Srivastav和他的同事们正在跨许多其他端到端流程工作。其中一个涉及美国零售业务的语音智能，以转变客户参与。“投资组合评论”人工智能，将提供及时的见解以增强客户体验，目前正处于规划阶段。利用多代理编排的投资组合管理副驾驶为投资团队服务，是投资流程端到端重新设计的又一步。市场营销正在简化其内容创作流程，使其能够产生更个性化、及时和高质量的内容。其他公司职能——包括法律、合规、人力资源和财务——也将通过人工智能进行类似的重新设计。\n无论是Srivastav还是首席执行官Johnson，都不太担心富兰克林邓普顿的员工是否会接受人工智能转型。虽然人工智能教育的机会只是有些受欢迎，但员工对几乎所有可用的人工智能工具的采用速度都很快，Srivastav说。在许多情况下，这些工具对客户和合作伙伴可见，这有助于说服员工使用它们。Srivastav指出，迄今为止，不遵守公司广泛的人工智能治理政策和程序并不是一个问题。\n富兰克林邓普顿的领导团队不确定其人工智能能力是否会导致“大银行”式的转型，或者它们是否会推动向提高效率和有效性的更慢演变。然而，他们确实知道，他们希望在客户和市场需求之前做好准备，并且他们需要成为行业领导者之一。",
       "annotations": [
         {
           "type": "data",
-          "quote": "这家大型投资和资产管理公司成立于 1947 年，管理资产约 1.7 万亿美元。",
-          "note": "富兰克林邓普顿的资产管理规模，体现其行业地位和AI应用的规模基础。"
+          "quote": "这家大型投资和资产管理公司管理着约1.7万亿美元的资产",
+          "note": "富兰克林邓普顿管理的资产规模，体现其行业地位和AI应用的潜在影响范围。"
         },
         {
           "type": "data",
           "quote": "目前，它为超过4万名投资者生成建议，主要关注退休目标。",
-          "note": "AI驱动的目标优化引擎已服务大量投资者，显示AI应用的落地规模。"
+          "note": "AI平台已服务大量投资者，显示其实际应用规模和成熟度。"
         },
         {
           "type": "decision",
-          "quote": "富兰克林邓普顿为其销售和分销团队提供了Intelligence Hub，该平台整合了AI和数字能力，旨在增强洞察力、促进区域管理，并在与财务顾问的会议中加强客户互动。",
-          "note": "推出Intelligence Hub是关键的AI应用决策，直接提升销售效率和客户互动质量。"
+          "quote": "富兰克林邓普顿的1030亿美元多资产集团——富兰克林邓普顿投资解决方案——委派前副首席投资官Max Gokhman领导新的人工智能与数字资产解决方案团队。",
+          "note": "设立专门团队并任命高管负责AI和数字资产，表明公司战略级投入。"
         },
         {
           "type": "decision",
-          "quote": "富兰克林邓普顿的1030亿美元多资产集团——富兰克林邓普顿投资解决方案，任命前副首席投资官Max Gokhman领导新的AI与数字资产解决方案团队。",
-          "note": "设立专门的AI与数字资产团队，表明公司战略性地将AI和数字资产整合到投资管理中。"
+          "quote": "经过为期一年的试点，Intelligence Hub于2026年初向公司的销售专业人员广泛开放。",
+          "note": "从试点到全面推广，体现AI工具在实际业务中的成功验证和规模化应用。"
         },
         {
           "type": "insight",
-          "quote": "坚韧的专注和愿意转向是任何希望在五年后保持相关性的资产管理公司所必需的。",
-          "note": "高管应记住：在快速变化的行业中，既要坚持核心专注，也要灵活转向，才能保持竞争力。"
+          "quote": "“副驾驶，而非自动驾驶”是总体目标。",
+          "note": "强调AI辅助而非替代人类，为AI应用提供稳健的指导原则。"
         },
         {
           "type": "insight",
-          "quote": "训练模型将完全取决于你自己的数据。",
-          "note": "强调企业需利用自身独特数据训练AI模型，这是构建差异化优势的关键。"
+          "quote": "“对于任何希望在五年后仍然相关的资产管理者来说，坚韧专注和愿意转向是必需的。”",
+          "note": "高管对行业变革速度的警示，强调适应性和转型决心。"
         }
       ]
     },
@@ -558,18 +670,18 @@
       "pillar": "case",
       "relevance_score": 85,
       "tags": [
-        "金融",
+        "银行业",
         "大型企业",
         "创新KPI",
         "全员创新"
       ],
       "structured_summary": {
-        "background": "星展银行将创新视为生存关键，在组织内推动全员创新文化。",
-        "decision_action": "将创新纳入KPI，占每个团队和个人绩效评估的20%。",
-        "result": "待验证（具体效果未在摘要中提及）。",
-        "lesson": "高管可通过将创新指标量化并嵌入绩效考核，系统性驱动组织创新行为，而非仅依赖个别部门。"
+        "background": "星展银行（DBS）将创新视为生存关键，在数字化转型背景下，致力于推动全员创新文化。",
+        "decision_action": "将创新纳入绩效考核，占每个团队和个人绩效评估的20%。",
+        "result": "待验证（具体成效未在摘要中提及）",
+        "lesson": "将创新量化为KPI并赋予高权重，是驱动全员创新行为的有效机制，但需配套支持系统和激励机制。"
       },
-      "executive_takeaway": "将创新设为20%的KPI，可系统性驱动全员创新。",
+      "executive_takeaway": "将创新设为20%绩效权重，可有效驱动全员创新，但需配套支持。",
       "signal_strength": "medium",
       "id": "bd591f67",
       "feed": "mit-sloan",
@@ -577,23 +689,38 @@
       "title": "Leaders at All Levels: How DBS Bank Makes Everyone an Innovator",
       "link": "https://sloanreview.mit.edu/video/leaders-at-all-levels-how-dbs-bank-makes-everyone-an-innovator/",
       "published": "Thu, 18 Jun 2026 11:00:12 +0000",
-      "ingested_at": "2026-07-29T01:34:17.663386+00:00",
-      "content": "话题\n星展银行将创新作为每位员工的KPI。在本视频采访中，创新与未来工作集团主管Bidyut Dumra解释了该银行如何用旅程团队取代职能孤岛，以及为什么拥有动态季度资金的“迷你CEO”比传统的年度预算流程表现更佳。\n星展银行认为创新对其生存至关重要，为强化这一目标，它将创新作为KPI，占每个团队和个人绩效评估的20%。\n在本期《各级领导者》节目中，主持人Katherine W. Isaacs和Michele Zanini与星展银行创新与未来工作集团主管Bidyut Dumra对话，了解他如何帮助将创新从自上而下的指令转变为真正自下而上发展的动力。星展银行围绕跨职能的“客户旅程”团队重组了整个运营模式，由Dumra所称的“迷你CEO”领导，他们拥有满足客户需求的实际决策权和资金。\nDumra还解释了一位客户的信用卡丢失如何引发了一个改变一切的洞察：客户不是按流程思考，而是按意图思考。他说，那一刻启动了基于旅程的模式，如今该模式驱动着银行的组织和增长。\n星展银行手册：借鉴这些想法\n- 星展银行以科技领导者谷歌、亚马逊、Netflix、苹果、领英和Facebook为标杆，而非其他银行，目标是成为“数字核心”。\n- 星展银行的转型团队备有手册和培训，帮助团队实现KPI。“每位员工都能获得技能培训，”Dumra说。\n- 该银行的一些产品在无商业案例的情况下推出，案例是在发布一年后回顾性构建的。“如果我知道确切会发生什么，那我并没有真正推动变革，”Dumra说。\n主持人Isaacs和Zanini深入探讨了星展银行如何大规模实现分布式领导力——以及你可以从他们的手册中借鉴什么。\n视频致谢\nBidyut Dumra是星展银行创新与未来工作集团主管。\nKate W. Isaacs是麻省理工学院斯隆管理学院高级讲师。\nMichele Zanini是《华尔街日报》畅销书《Humanocracy》（哈佛商业评论出版社，2020年）的合著者。\nM. Shawn Read是麻省理工学院斯隆管理评论的多媒体编辑。",
+      "ingested_at": "2026-08-02T01:53:44.793688+00:00",
+      "content": "主题\n星展银行将创新作为每位员工的KPI。在这次视频采访中，创新与未来工作集团主管Bidyut Dumra解释了该银行如何用旅程团队取代职能孤岛，以及为什么拥有“迷你CEO”和动态季度资金优于传统的年度预算流程。\n星展银行认为创新对其生存至关重要，为了强化这一目标，它将创新作为KPI，占每个团队和个人绩效评估的20%。\n在本期《各级领导者》节目中，主持人Katherine W. Isaacs和Michele Zanini与星展银行创新与未来工作集团主管Bidyut Dumra进行了对话，了解他如何帮助将创新从自上而下的指令转变为真正自下而上生长的过程。星展银行围绕跨职能的“客户旅程”团队组织了其整个运营模式，由Dumra所称的“迷你CEO”领导，他们有权力和资金做出真正满足客户需求的决策。\nDumra还解释了一位客户丢失信用卡如何引发了一个改变一切的洞察：客户不是按流程思考，而是按意图思考。他说，那一刻开启了基于旅程的模式，现在驱动着银行的组织和增长。\n星展银行手册：借鉴这些想法\n- 星展银行以科技领导者谷歌、亚马逊、Netflix、苹果、LinkedIn和Facebook为基准，而不是其他银行，目标是“数字化到核心”。\n- 星展银行的转型团队有手册和培训，随时帮助团队实现KPI。“每位员工都可以获得技能培训，”Dumra说。\n- 该银行的一些产品在没有商业案例的情况下推出，案例是在推出一年后回顾性构建的。“如果我知道确切会发生什么，我就没有真正推动变革，”Dumra说。\n主持人Issacs和Zanini深入探讨了星展银行如何大规模实现分布式领导力——以及你可以从他们的手册中借鉴什么。\n视频致谢\nBidyut Dumra是星展银行创新与未来工作集团主管。\nKate W. Isaacs是麻省理工学院斯隆管理学院的高级讲师。\nMichele Zanini是《华尔街日报》畅销书《Humanocracy》（哈佛商业评论出版社，2020年）的合著者。\nM. Shawn Read是麻省理工学院斯隆管理评论的多媒体编辑。",
       "annotations": [
         {
           "type": "data",
-          "quote": "创新作为KPI，占每个团队和个人绩效评估的20%。",
-          "note": "创新被量化为KPI并占绩效评估20%，表明星展银行将创新视为核心考核指标，而非口号。"
+          "quote": "创新作为KPI，占每个团队和个人绩效评估的20%",
+          "note": "星展银行将创新纳入绩效考核，占比20%，表明创新是硬性指标而非口号。"
+        },
+        {
+          "type": "data",
+          "quote": "星展银行以科技领导者谷歌、亚马逊、Netflix、苹果、LinkedIn和Facebook为基准，而不是其他银行",
+          "note": "星展银行对标科技巨头而非同业，凸显其数字化转型的雄心。"
         },
         {
           "type": "decision",
-          "quote": "星展银行围绕跨职能的“客户旅程”团队重组了整个运营模式，由Dumra所称的“迷你CEO”领导，他们拥有满足客户需求的实际决策权和资金。",
-          "note": "用跨职能旅程团队取代职能孤岛，并赋予“迷你CEO”决策权和资金，是组织架构的重大变革。"
+          "quote": "星展银行围绕跨职能的“客户旅程”团队组织了其整个运营模式，由Dumra所称的“迷你CEO”领导",
+          "note": "以客户旅程团队取代职能孤岛，并赋予“迷你CEO”权力，是组织架构的重大变革。"
+        },
+        {
+          "type": "decision",
+          "quote": "该银行的一些产品在没有商业案例的情况下推出，案例是在推出一年后回顾性构建的",
+          "note": "打破传统预算流程，允许无商业案例推出产品，鼓励快速试错。"
         },
         {
           "type": "insight",
-          "quote": "客户不是按流程思考，而是按意图思考。",
-          "note": "这一洞察揭示了以客户为中心的本质，驱动了基于旅程的组织模式，对高管设计客户体验有根本性启示。"
+          "quote": "客户不是按流程思考，而是按意图思考",
+          "note": "这一洞察促使星展银行从流程导向转向客户意图导向，是旅程模式的核心。"
+        },
+        {
+          "type": "insight",
+          "quote": "如果我知道确切会发生什么，我就没有真正推动变革",
+          "note": "强调不确定性是创新的本质，高管应接受并拥抱变革中的未知。"
         }
       ]
     },
@@ -601,18 +728,19 @@
       "pillar": "case",
       "relevance_score": 85,
       "tags": [
-        "金融",
+        "银行业",
         "大型企业",
         "AI技能提升",
-        "人才重塑"
+        "人才发展",
+        "组织敏捷"
       ],
       "structured_summary": {
-        "background": "美国银行（Bank of America）作为全球大型金融机构，正在为大规模全球 workforce 准备 AI 未来。",
-        "decision_action": "通过其企业大学（Academy）实施大规模 AI 技能提升和再培训计划，聚焦 workforce 敏捷性。",
-        "result": "待验证（具体数据未在摘要中提供）",
-        "lesson": "高管应建立系统化的内部学习机制，将 AI 技能提升嵌入组织发展核心，而非依赖外部招聘。"
+        "background": "美国银行作为全球大型金融机构，正面临AI技术对劳动力技能要求的变革，需要为数万名员工提供AI相关培训以保持竞争力。",
+        "decision_action": "美国银行通过其学习与发展部门（Academy）实施大规模AI技能提升和再培训计划，重点关注员工队伍敏捷性，并可能采用分层培训、在线学习、实践项目等方式。",
+        "result": "待验证（具体数据未在摘要中提及）",
+        "lesson": "大型企业应建立系统化的AI技能提升机制，将学习与发展部门作为战略支柱，以应对技术变革带来的劳动力技能缺口。"
       },
-      "executive_takeaway": "大规模 AI 技能提升是组织转型的关键杠杆，需系统化投入。",
+      "executive_takeaway": "大规模AI技能提升需系统化布局，学习部门应成为战略支柱。",
       "signal_strength": "medium",
       "id": "6cd5fc72",
       "feed": "mit-sloan",
@@ -620,77 +748,53 @@
       "title": "AI Upskilling at Scale: Bank of America’s Bernard Hampton",
       "link": "https://sloanreview.mit.edu/audio/ai-upskilling-at-scale-bank-of-americas-bernard-hampton/",
       "published": "Tue, 16 Jun 2026 11:00:14 +0000",
-      "ingested_at": "2026-07-29T01:35:20.458289+00:00",
-      "content": "话题\n\n《我、自己和AI》播客本集是第13季的最后一集，探讨了美国银行如何通过技能提升和再培训，为庞大的全球 workforce 做好迎接AI未来的准备。该金融机构的学院负责人伯纳德·汉普顿解释了学习与发展组织如何专注于 workforce 的敏捷性，以及技术技能与软技能的结合培养。\n\n伯纳德概述了采用人工智能的三级方法，并分享了他认为需要人类保持参与的情境。\n\n在Apple Podcasts或Spotify上订阅《我、自己和AI》。\n\n文字记录\n\n艾莉森·赖德：从一家为数十万员工提供AI使用技能提升的组织中，我们可以学到哪些学习与发展的经验？请在今天的节目中寻找答案。\n\n伯纳德·汉普顿：我是美国银行的伯纳德·汉普顿，您正在收听《我、自己和AI》。\n\n萨姆·兰斯博瑟姆：欢迎收听《我、自己和AI》，这是来自麻省理工学院斯隆管理评论的一档播客，探讨人工智能的未来。我是波士顿学院分析学教授萨姆·兰斯博瑟姆。自2014年以来，我一直在麻省理工学院斯隆管理评论研究数据、分析和AI，包括研究文章、年度行业报告、案例研究，以及现在的12季播客节目。在每一集中，企业领袖、前沿研究人员和AI政策制定者都会与我们一同剖析AI炒作与成功之间的区别。\n\n欢迎回到《我、自己和AI》。今天，我们邀请到了美国银行学院负责人伯纳德·汉普顿。该学院是美国企业界最大的学习与入职组织之一，支持全球超过20万名员工。伯纳德在银行提升技能、再培训以及为AI应用培养人才方面发挥着核心作用。伯纳德，欢迎来到节目。\n\n伯纳德·汉普顿：嘿，萨姆，非常感谢。很高兴见到你。\n\n萨姆·兰斯博瑟姆：我猜大多数听众对美国银行相当熟悉。它非常庞大，是全球最大的金融机构之一。我查了一下：7000万客户，覆盖35个国家。规模巨大，但我猜大多数人可能不熟悉你领导的学院。那么，你能给我们介绍一下学院以及它与美国银行的关系吗？\n\n伯纳德·汉普顿：当然可以。学院自2017年成立，取代了我们原有的学习组织。它是美国银行屡获殊荣的入职教育及专业发展机构，致力于全公司员工的成长与成功。\n\n在学院，我们高度关注 workforce 的敏捷性。这意味着更快地在合适的岗位上培养合适的技能，我们持续改进流程，寻找运营卓越的机会，或引入新技术与模式，以实现这一目标。这实际上关乎移动性、技能提升以及AI赋能 workforce 的准备状态。\n\n萨姆·兰斯博瑟姆：你知道吗，我们其实差不多。我每年教几百名学生，而你有20万。这差不多，对吧？\n\n伯纳德·汉普顿：差不多。\n\n萨姆·兰斯博瑟姆：规模似乎相当惊人——规模加上一切变化的快速步伐。你如何同时应对这两点？\n\n伯纳德·汉普顿：我们的学院路径主要围绕技术技能、数据和AI素养、面向客户的卓越表现以及可扩展的领导能力。最终，当我们考虑整个组织中特定人群的优先事项变化时，我们会做几件事。第一，我们有一个内部传统学习技能组织，但同时，我们将其与业务领域的主题专业知识相匹配。在过去几年中，我所在的组织有大约750人从业务线转入学院，成为正式的学院成员，为组织贡献了现实世界的智慧。\n\nSam Ransbotham：听起来不错，我喜欢这个想法，但似乎很难实现。大约一年前，每个人都觉得需要学习提示工程。然后RAG（检索增强生成）成了最新热门。感觉这些主题来得太快了。实际上，我可以选今天的话题，但我们录制的时间比播出早一个月，所以到那时可能已经过时了。你怎么跟上这种节奏？如何设计一个能应对这种敏捷性的流程？\nBernard Hampton：AI确实为我们创造了大量机遇。它把学习重点转向了更快掌握核心角色技能；更好的批判性思维和决策能力；更强的沟通和人际关系技能；以及与日常工作相关的AI实用能力。\n当我们使用基于AI的学习模块时，不是简单地说“我们把AI工具放在某人面前来帮助学习”，而是从实际角度思考我们最终服务谁、要达成什么目标，然后反向推导，确定最佳解决方案，使我们能够大规模地做到实用、基于事实，帮助人们以心理安全且有趣的方式专注于发展核心技能。\nSam Ransbotham：你同时提到了沟通技能和AI技术技能。从软技能到技术技能的光谱来看，你的挑战在哪里？哪些方面更困难？或者这两类学习体验的挑战有何不同？\nBernard Hampton：最终，两者都保持高度关注至关重要。如今AI主导了大多数新闻周期，主导了你在线阅读的内容，是谈论的热点，但现实是它并非玩具——认真对待的公司会从领导层开始自上而下地发展相关技能，使其贯穿整个组织。而那些不太认真的公司则会把它当作玩物，玩一阵就丢到一边。\n同时，我们坚信人类应始终主导AI，因此同时谈论两者意味着人类技能仍然非常重要，并且在考虑同理心、倾听、判断和决策时成为关键差异因素。这些技能变得极其重要，同时AI技术能力也变得极其重要。\n另外两个贯穿两者的背景是：AI将继续以越来越快的速度改变我们的工作方式，如果我们拥抱技术能带来的最终价值；同时，我们必须继续考虑职业流动性以及员工在技能发展中的位置。\n随着工作变化，某些岗位可能需要更少的人，但归根结底，我们是一家客户业务公司。我们不仅希望更多人面对客户，还希望思考：如果人们花更少时间在行政或任务型职能上，他们能为客户带来什么？真正去支持和理解客户的需求、目标和目的，无论他们处于什么阶段？\nSam Ransbotham：我可能会记错这个数据，你可以纠正我，但我记得在某处读到你们大约40%的职位由内部填补。我猜这需要大量的技能提升和再培训。这是挑战所在吗？还是目标是更多使用内部还是外部资源？你们如何考虑这种组合？\n\n伯纳德·汉普顿：你非常接近了。去年我们雇佣了2万人，其中包括2000名校园招聘的学生——去年近45%的空缺职位由内部填补，这进一步说明了为什么技能提升和再培训在整个组织中如此重要。\n\n萨姆·兰斯博瑟姆：我曾在某处读到，你谈到希望重新部署人才而不是减少员工数量。我认为现在确实有一个热门话题。似乎每次我看新闻，都会看到“某公司因AI裁员数千人”。首先，我怀疑这真的是因为AI。但我觉得你公开表示要尝试一种不同于裁员的方法。你的想法是什么？\n\n伯纳德·汉普顿：我们的CEO已经说得很清楚，这实际上关乎我们的客户、我们的团队成员以及社区。所以当你想到我们这样规模和体量的雇主时，组织的知识和客户连接变得非常重要。对于我们的团队成员，是的，我们说过随着时间的推移，组织中的某些职能可能需要更少的人，但同时也有再投资的机会。\n\n因此，我们的机会在于认识到我们的员工为组织带来了巨大价值。他们有着承诺和忠诚度，那些愿意继续学习、充满好奇心、灵活应变的人，我们会继续为他们提供工具，使他们在职业生涯中拥有尽可能多的流动性。同时，他们带着一定水平的敏锐度和经验，这对我们的客户和组织都有益，无论是在风险领域工作还是在面向客户的岗位上。例如，我们希望他们能够继续发挥最佳水平并享受其中。我们的员工敬业度调查结果也证实了这一点。\n\n萨姆·兰斯博瑟姆：你的组织中有各种各样的人，从超级技术型到超级非技术型。你如何确定谁需要知道什么？这让我很困惑。\n\n伯纳德·汉普顿：简而言之，每个人都需要知道一些东西。我认为最简单的形式是，我们将AI分为三个层次。第一层涉及每个角色和职能。这关乎个人对工具的使用，关乎个人生产力。所以今天每个人都可以使用某种版本的AI，以增强他们当前的工作，并思考诸如需要撰写或分析信息、准备某些内容、任务导向或行政类功能等方面。我们希望他们感到自信和有能力，能够以创造性的方式使用AI，使他们的工作更简单。\n\n当然，在这一点上你可能会说：“哦，我节省了很多时间。我可以深呼吸放松一下。”但现实是，最好的衡量标准是你将这种增强的能力转化为什么？我们的思考方式是，如何衡量人们从自我提升到将时间用于对客户有益、对组织生产力有益或支持其他照顾客户的人等更具增值性的活动的转变？\n\n然后还有第二个层次的AI，这实际上关乎职能。我们会采用独特的系统。也许有一个群体最常使用某个系统，我们会策划使用代理来解读、整合、汇总信息，从而简化特定群体中的某个职能。\n\n然后是第三层，我们考虑大型工作流、多个数据源、多个代理参与，这通常是大规模的，横向贯穿整个组织。\n\n归根结底，每一项都为组织带来了巨大的收益，从而构建了一幅生产力图景。随着生产力的提升，这使我们能够逐渐开始决定哪些地方有重新部署的机会，或者哪些地方可能不需要替换某个岗位，但这并不意味着要像某些公司那样最终导致大规模裁员。\n\nSam Ransbotham：这些层次很有意思，我很高兴你提到了衡量，尤其是在第一个层次。我相信美国银行和其他地方一样，有大量的关键绩效指标来衡量进展情况、生产力和效率等。我在想，我担心这些衡量指标的普遍存在会导致我们过于关注你所说的第一层次，因为它更容易衡量，与现有的关键绩效指标更契合，而第三层次则更具交叉性，有可能改变组织内的平衡。\n\n你如何避免让一切都变成第一层次——“嘿，让我们提高效率和生产力”？\n\nBernard Hampton：从我们的角度来看，这意味着（1）你要同时进行所有层次，（2）另一方面，我们在学院所做的工作不仅包括帮助开发工具和资源，以提升整个组织的人工智能素养和使用这些工具的准备度，还包括我们的技能库，帮助不断为团队成员提供自我投资的机会。所以，你所衡量的内容需要平衡。有时，这种衡量可能涉及遗留系统，你希望用更先进的人工智能系统或能更好地与客户沟通的技术来取代它们。\n\n另一部分是衡量我们花在高价值工作上的时间？这不一定只是衡量生产力的功能。你有几个不同的触发因素。一个是人们会主动去做事情。另一个是，你将从事该工作的人数减少到与剩余工作量相匹配的适当水平。\n\nSam Ransbotham：有没有一些事情，你在纸面上看起来可能是使用人工智能的好地方，但你决定风险不值得？或者你如何灌输这些指导原则，我们应该在哪里使用工具，而不是可能在哪里使用工具？\n\nBernard Hampton：想想人工智能真正擅长什么。人工智能非常擅长研究，非常擅长写作、行政职能，擅长任务。人工智能不擅长需要人类参与判断的决策。\n\n当我们考虑培训过程中的内容和方式时，我们部署人工智能使学习（1）更实用，（2）更相关，（3）可扩展。这包括人工智能驱动的学习体验，如模拟、指导练习。学院利用人工智能对话模拟器，通过互动角色扮演和辅导，帮助团队成员建立和加强软技能，在此过程中不断强化。这是由人工智能引导的。然后，它旨在加速团队成员在各种角色中的准备度，支持职业流动性，并确保人类监督始终是学习体验的核心。\n\n通过这样做，我们开始能够说：“嘿，这是人工智能真正擅长做的事情。”我们希望让人们处于一种体验和提升技能的情境中。我特别提到的这个是一个互动平台，使团队成员能够练习真实场景。这是人工智能的一个很好的用途，思考如何让某人在安全、模拟的环境中沉浸于某种情境？最终，它建立了自豪感、熟练度和专业精神。\n\nSam Ransbotham: 哦，我真的很喜欢这个。几年前我们做过一项研究，将其框架定为“自决”。如果你觉得自己更有权威、更自信、与他人关系更好、对自己的工作感觉良好，你就更有可能使用这些工具，即使你可能认为它们是会“取代”人类的工具，但这根本不是我们的视角。而且我喜欢那种模拟的方面。\n你看过《善地》这部电视剧吗？我推荐它。我觉得它很搞笑。但《善地》中的一个场景是，他们让一个人经历与女友分手的模拟。你并没有那么多机会与女友分手，而你想做得对。对于恋爱中的人，我想说，他发现没有好的方式去做；无论如何都会很痛苦。\n但你在这里说的是让人们练习那些困难的事情，在安全的地方，那些我们不太有机会练习的事情。你在这个互动模拟环境中放了哪些类型的事情？我很好奇人们实际可以练习什么。\nBernard Hampton: 这些主要用于我们高流量、快节奏的环境中。想想我们的联络中心。想想全国3500个金融中心以及不同时间段的峰值。在每一个地方，无论是慢节奏还是快节奏的时间，我们都需要人们做出良好的判断，让客户感到被一个富有同理心、努力帮助他们的人倾听，并且最终专注于他们想要实现的目标。\n所以可以是任何事情，从兑现支票到执行复杂的交易。我们把人们置于真实情境中，让他们与一个看起来像活生生的、会走路、会说话、会呼吸的客户的头像互动。你可以参与各种场景，并获得关于你如何处理、你在过程中使用工具和资源的情况以及你如何运用判断力的实时反馈。所以这是其一。\n第二，当我想到“人主导”时，在开发、培训以及正确使用技术背后的一个关键问题是，在某种情况下，比如说，你连续五次处理高风险交易。如果你使用某种AI，它说“是，是，是”。关键问题必须是，“那么第六次会发生什么？”Sam会不会看着它说，“嗯，它连续说了五次是。这可能也一样”？识别“人主导”的能力在于使用场景，让人们准备好说，“作为人类，我应该使用什么？”来验证那一刻所发生的推荐行动的准确性。所以我们必须始终考虑这些因素，既保护我们的客户，保护组织，也让客户有良好的体验。\nSam Ransbotham: 你有一个庞大的组织。你有大量的资源和规模可以投入其中。对于那些可能没有这些资源来开发这种基础设施的人，你有什么建议？这些事情在小规模下也能很好地运作，还是需要大规模才能有效？\nBernard Hampton: 你知道吗？它们绝对可以。事实上，我们还有其他一些常规做法。是的，我们还会衡量一些额外的事情，比如我们想要淘汰的系统。我们衡量一个组织按业务线编写了多少提示。所以，围绕组织，各个小组的AI采用文化是怎样的？其中一些事情，大多数人根据他们选择的AI工具及其基础设施的情况，是可以接触到的。\n\n但我们得到的一些最佳建议实际上是在多个层面上发生的。我们最近在组织内的高级团队中做了这件事。[我们]与组织内其他部门、多个层级的跨职能团队会面，并进行了数百次这样的倾听会议，每次召集20到30人，开始与他们交流他们对人工智能的看法。他们认为什么有帮助？他们仍然对什么感到好奇？他们需要哪些帮助？所有这些想法和反馈都产生了对我团队的反馈，因为我们正在构建和开发培训；对我们技术组和委员会的反馈，因为我们考虑下一步该做什么；或者筛选出公司接下来应投资哪些优先重大项目，以便能够支持我们的团队成员？\n\n因此，当您部署一个工具时，任何人都可以简单地与人交谈和倾听，从中您有机会确定优先级，无论组织规模大小，这都是一种价值。\n\nSam Ransbotham：我认为这是一个很好的思考方式。……那些不需要大量资源来实施的事情，似乎完全在大多数组织的能力范围内。\n\nBernard Hampton：我与各种规模的公司交谈。在这段旅程中，保持好奇心对我来说一直很重要。对我的领导团队也很重要。我们会见了一些世界上最大的公司，但也与一些中型和小型组织会面，因为从中我思考我们的客户可能如何看待它以及他们需要什么。我如何思考规模不同的群体？他们可能缺少什么？我们可能缺少什么？这种普遍的好奇心以及从其他公司的失误和成功中学习，是进行对话和深思熟虑的重要方式：你先做什么，下一步做什么，这样你就不只是在试验，而是真正有意图地决定采用什么？原因是什么，从而让人们有信心知道为什么接下来会体验到X、Y或Z？\n\nSam Ransbotham：我喜欢你提到失误。我认为我们总是过于犹豫，不愿承认自己做过任何错事。你知道，除了我之外，大多数人过去都做过错事。但获得反馈的想法非常重要，你在模拟部分提到了这一点。\n我发现学生并不像你想象的那样讨厌考试，因为他们看到了自己不太了解的地方以及可以改进的地方。我们非常喜欢改进。我认为这已经成为你谈论内容中的一个主题；让人们知道哪些领域需要改进以及如何改进，人们通常喜欢这样。\n我提到了我的学生。你提到你公司40%、45%的员工是内部人员。如果我算得没错，这意味着55%或60%来自外部。对于现在进入职场的人，你能给出什么建议？他们应该考虑具备哪些技能才能成为当前劳动力中的活跃部分？\n\nBernard Hampton：第一，我认为你提到技能时用了正确的关键词，因为有一点已经变得很清楚：技术技能或技术技能的半衰期可能在我成年后的任何时候都变得更短，并且要认识到我们公司不断谈论的事情：清晰度、学习敏捷性和求知欲。继续将这些放在首位是非常重要的特质。\n我们不仅在美银这里经常谈论它们，而且具体来说，好奇心让你保持相关性，包括对新技术的相关性。当我今天思考人工智能时，它不应是对未知的恐惧，而是拥抱将在今天和明天的环境中与使用电话或电子邮件开展业务同样重要的事物的机会。\n\n我想对任何考虑自己职业生涯的人说，要有意识地挑战自己。当你有机会时，选择有挑战性的工作，这能培养你可重复使用的技能，然后通过向他人学习和分享，成为一个优秀的团队成员。协作在当前的工作环境中是非常重要的特质。通常，在跨公司的工作中，单打独斗的日子已经过去了，特别是如果你在客户业务中工作，你需要他人，并思考以客户为中心的组织力量，这一点再重要不过了。最后，我想说，持续发展人际技能，并认识到道德、判断力和决策力的重要性仍然至关重要。\n\nSam Ransbotham：我喜欢你对这些问题的思考，可能比我想得更深入。我们在节目中有时会做的一件事，我想对你来说也会很有趣，就是问你一系列快速问答。\n\n你认为目前人们对人工智能有什么误解？你看到很多人在学习这项技术——他们误解了什么？\n\nBernard Hampton：可能想到两点。一是认为它会消失，是一种潮流；二是认为它本身意味着每个人的工作都会消失。\n\nSam Ransbotham：关于人工智能，有什么比你想象的进展更快或更慢？\n\nBernard Hampton：可能进展更快的是采用率，我认为这在一定程度上与我们作为组织所采取的方法有关。我认为进展较慢的——我说较慢，但也是以适当的速度——我们是一个高度监管的行业，所以我们在前进时总是会深思熟虑。\n\n很难相信，就在十多年前，我们还没有客户人工智能解决方案，但今天，我们有一个客户每季度使用超过1.69亿次且持续增长的解决方案。所以我说有些事情进展较慢，但这是以正确的风险心态适当衡量的。\n\nSam Ransbotham：在日常生活中，你个人如何从人工智能工具中获得最大价值？你从中得到最多的是什么？\n\nBernard Hampton：我当然用它来写作。我用它来分析信息，并用人工智能来整理信息。我一直在思考如何以可扩展的方式整合和发展我们的培训解决方案，以满足他们的需求。有时是关于个人生产力工具，有时是关于我们可能构建的供应商或工具，这些工具是可扩展的，能够与我们如何更快地建立熟练程度相一致，或者可能与我们目前的做法不同。\n\nSam Ransbotham：更快地建立熟练程度——这似乎是一个很好的总结方式。我认为这是你努力的核心。我认为在你试图做到的规模上，这是一个巨大的挑战。感谢你今天分享你的想法。感谢你加入我们。\n\nBernard Hampton：这是我的荣幸。很高兴和你在一起。\n\nSam Ransbotham：感谢你加入我们《我，自己和人工智能》的又一季。我们进行了一些关于学习和人工智能发展的非常有趣的对话，关于人工智能对劳动力影响的讨论感觉尤其重要。我们与美国劳工部的Taylor Stockton、《经济学人》的Andrew Palmer以及今天的Bernard进行了讨论。很难选出最喜欢的！我们将在今年夏天回归，带来更多学术研究视角的加集。我们鼓励你继续评论我们的播客，并发送任何意见或希望我们涵盖的主题请求。感谢你帮助《我，自己和人工智能》如此成功。\n\n《我，自己和人工智能》是麻省理工学院的联邦注册商标。保留所有权利。",
+      "ingested_at": "2026-08-02T01:54:54.135852+00:00",
+      "content": "主题\n今天的《我、我自己和AI》播客节目，也是第13季的最后一期，探讨了美国银行如何通过技能提升和再培训，为庞大的全球劳动力队伍做好迎接AI未来的准备。该金融机构的学院负责人伯纳德·汉普顿解释了这一学习与发展组织如何聚焦于劳动力的敏捷性，以及技术技能与软技能的结合培养。\n伯纳德概述了采用人工智能的三级方法，并分享了他认为需要人类参与监督的情境。\n在Apple Podcasts或Spotify上订阅《我、我自己和AI》。\n文字记录\n艾莉森·赖德：从一个为数十万员工提供AI使用技能提升的组织中，我们能学到哪些学习与发展的经验？请收听今天的节目。\n伯纳德·汉普顿：我是来自美国银行的伯纳德·汉普顿，您正在收听的是《我、我自己和AI》。\n萨姆·兰斯博瑟姆：欢迎收听《我、我自己和AI》，这是由麻省理工学院斯隆管理评论推出的播客，探讨人工智能的未来。我是萨姆·兰斯博瑟姆，波士顿学院分析学教授。自2014年以来，我一直在为麻省理工学院斯隆管理评论研究数据、分析和AI，包括研究文章、年度行业报告、案例研究，以及现在的12季播客节目。在每一集中，企业领袖、前沿研究人员和AI政策制定者都会加入我们，剖析AI炒作与AI成功之间的区别。\n欢迎回到《我、我自己和AI》。今天，我们邀请到了美国银行学院负责人伯纳德·汉普顿。该学院是美国企业界最大的学习和入职组织之一，为全球超过20万名员工提供支持。伯纳德在该银行提升技能、再培训以及为AI使用培养人才的努力中扮演着核心角色。伯纳德，欢迎来到节目。\n伯纳德·汉普顿：嘿，萨姆，非常感谢。很高兴见到你。\n萨姆·兰斯博瑟姆：我猜大多数听众对美国银行都很熟悉。它非常庞大，是世界上最大的金融机构之一。我查了一下：7000万客户，遍布35个国家。它规模巨大，但我猜大多数人可能不熟悉你所领导的学院。那么，你能给我们介绍一下学院以及它与美国银行的关系吗？\n伯纳德·汉普顿：是的，当然。学院自2017年成立，取代了我们原有的学习组织。它是美国银行屡获殊荣的入职教育、专业发展组织，真正致力于整个企业中团队成员的成长和成功。\n在学院，我们高度关注劳动力的敏捷性。我的意思是，这关乎在合适的岗位上更快地培养合适的技能，我们不断进行流程改进，寻找运营卓越的机会，或引入新技术或模式，以实现这一目标。这确实关乎AI赋能劳动力的流动性、技能提升和准备就绪。\n萨姆·兰斯博瑟姆：你知道，我们其实差不多。我每年教几百名学生，而你有20万人。这差不多，对吧？\n伯纳德·汉普顿：差不多。\n萨姆·兰斯博瑟姆：这个规模似乎相当惊人——规模加上一切变化的快速步伐。你如何同时应对这两者？\n伯纳德·汉普顿：我们的学院路径确实以技术技能、数据和AI素养、面向客户的卓越表现、可扩展的领导能力为核心。因此，归根结底，当我们考虑到整个组织中特定人群的优先事项变化时，我们会做几件事。第一，我们有一个内部传统的学习技能组织，但同时，我们将其与来自业务领域的主题专家相匹配。因此，在过去几年里，在我的组织内，大约有750人从业务部门转入学院，成为正式的学院团队成员，为组织贡献了现实世界的智慧。\n\n萨姆·兰斯博瑟姆：听起来不错，我喜欢这个想法，但似乎真的很难。我想大约一年前，每个人都觉得需要学习提示工程。然后RAG（检索增强生成）是最新的事物。然后感觉这些话题来得太快了。实际上，我可以选择今天的话题，但我们在播出前大约一个月录制，所以到那时它可能已经过时了。你如何跟上这些？你如何设计一个能够应对这种敏捷性的流程？\n\n伯纳德·汉普顿：人工智能确实为我们创造了相当多的空间和机会。它将学习重点转向了更快地掌握核心角色；更好的批判性思维和决策能力，你可以想象；更强的沟通和关系技能；以及与日常工作相关的实用人工智能素养。\n\n当我们使用基于人工智能的学习模块时，并不是说“哦，我们把一个人工智能工具放在某人面前来帮助学习。”而是以实际、实用的方式思考最终我们为谁服务，我们试图完成什么，然后倒推并确定最佳解决方案，使我们能够大规模地做到实用、基于事实，帮助人们以心理安全且引人入胜的方式专注于并发展核心技能。\n\n萨姆·兰斯博瑟姆：你提到了沟通技巧，同时也提到了人工智能技术技能。如果你考虑从超软技能到更技术技能的谱系，你的挑战在哪里？你在哪些方面遇到更多困难？或者这些类型的学习体验的挑战有何不同？\n\n伯纳德·汉普顿：最终，将两者都牢记在心非常重要。我的意思是，今天很容易，人工智能主导了大多数新闻周期。它主导了你在网上阅读的内容。这是谈论的有趣话题，而现实是它不像玩具——认真对待的公司将从领导层开始自上而下地发展这方面的技能，使其在整个组织中流动。那些可能不那么认真的公司会把它当作玩具，玩一会儿，然后收起来。\n\n与此同时，在幕后运作的概念是我们相信人类应该始终在人工智能的引领下，因此我们同时谈论两者的能力表明，人类技能的重要性仍然非常重要，并且当你开始考虑同理心、倾听、判断和决策等事情时，它是一个关键的差异化因素。这些继续变得极其重要，同时人工智能的技术熟练度也变得极其重要。\n\n我要说的另外两件事是两者的背景：人工智能将继续以越来越快的速度改变我们的工作方式，正如我们都能想象的那样，如果我们拥抱技术最终能为我们做什么，同时我们必须继续考虑职业流动性的样子以及劳动力在技能旅程中的位置。\n\n随着工作的变化，你可能需要更少的人来做某些事情，但归根结底，我们是一家客户业务。我们不仅希望更多人面对客户，而且思考，如果人们花更少的时间在行政或任务型职能上，他们能为客户带来什么，真正去支持和理解客户的需求、目标和目的，无论他们处于何种阶段？\n\n萨姆·兰斯博瑟姆：我会把这个统计数据弄错，所以你可以纠正我，但我想我在某处读到你们大约40%的职位是内部填补的。我猜这需要大量的技能提升和再培训。这是挑战所在吗？还是目标是更多使用内部还是外部，或者你如何看待这种组合？\n\n伯纳德·汉普顿：你（们）非常接近了。我们去年雇佣了2万人，其中包括2000名校园招聘的学生——去年45%的空缺职位几乎都是内部填补的，这进一步说明了为什么技能培训和技能提升在整个组织中如此重要。\n\n萨姆·兰斯博瑟姆：我在某处读到过你谈到希望重新部署人才而不是减少员工人数。我认为现在确实有这样一个头条新闻。似乎每次我看新闻，都会看到“某公司因AI裁减了数千名员工”。首先，我怀疑这实际上是否真的是因为AI。但我认为你公开表示过尝试不同的方法，而不是裁员。你的想法是什么？\n\n伯纳德·汉普顿：我们的CEO已经非常明确地表示，这实际上关乎我们的客户、我们的同事和社区。所以当你考虑到我们这样规模和范围的企业时，组织的知识和我们与客户的联系变得非常重要。对于我们的同事，是的，我们已经说过，随着时间的推移，组织中某些职能可能需要更少的人，但同时，也有再投资的机会。\n\n所以我们的机会在于认识到我们的员工为组织带来了很多价值。他们有承诺和忠诚度，那些想继续学习或好奇、灵活的人，我们会继续为他们提供工具，让他们在整个职业生涯中拥有尽可能多的流动性。同时，他们拥有敏锐度和经验，这对我们的客户和组织都有益，无论是在风险领域工作还是在面向客户的岗位上。例如，我们希望他们能够继续发挥最佳状态并享受工作。我们的员工敬业度调查结果也证实了这一点。\n\n萨姆·兰斯博瑟姆：你的组织中有各种各样的人，从非常技术型到非常非技术型。你如何确定谁需要知道什么？这让我很困惑。\n\n伯纳德·汉普顿：简而言之，每个人都需要知道一些东西。我认为最简单的形式是，我们从三个不同层面考虑AI。第一层是关于每个角色和职能。这是关于个人使用工具。这是关于个人生产力。所以今天每个人都可以使用某种版本的AI，来增强他们今天的工作，并思考诸如需要写作或分析信息、准备某些东西、任务导向或行政类功能的地方。我们希望他们感到自信和有能力，能够以创造性的方式使用AI来简化他们的工作量。\n\n现在，在这一点上，你当然可以说：“哦，我节省了很多时间。我可以深呼吸，放松一下。”但现实是，衡量这一点的最好方法是，你将这种增强的能力转化为什么呢？我们的思考方式是，我们如何衡量人们从提升自己到将时间花在更有增值的活动中，这些活动对客户有益，对组织的生产力有益，或者支持其他照顾客户的人。\n\n然后还有第二层AI，这实际上关乎职能。我们会采用独特的系统。也许有一个小组最常使用某个系统，我们会策划使用代理来解读、汇总、聚合信息，从而简化特定小组的某个职能。\n\n然后是第三层，我们考虑大型工作流程、多个数据源、多个代理参与，这通常是大规模且横向跨组织的。\n\n嗯，最终，每一个这样的举措都会为组织带来相当大的收益，从而构建出一幅生产力的图景。随着生产力的提升，这使我们能够随着时间的推移开始确定哪些地方存在重新部署的机会，或者哪些地方可能不需要替换某个职位，但这并不意味着你需要像某些公司那样最终导致大规模裁员。\n\nSam Ransbotham：这些层次很有意思，我很高兴你提到了衡量，尤其是在第一个层次。我相信美国银行，和其他地方一样，有一大堆KPI来衡量正在发生的事情，衡量生产力和效率等等。当我思考这个问题时，我担心这些衡量标准的普遍性会导致我们真正关注你所说的第一层次，这更容易衡量。它将与现有的KPI很好地契合，而不是第三层次，后者似乎更具跨领域性。它有可能改变组织内部的平衡。\n\n你如何避免把所有事情都变成第一层次的那种——“嘿，让我们变得更高效、更有生产力”？\n\nBernard Hampton：从我们的角度来看，这意味着（1）你要同时进行所有这些层次，（2）在另一方面，我们在学院所做的工作中很大一部分不仅仅是帮助开发工具和资源，以帮助整个组织提升AI素养和使用这些工具的准备度，而且我们的技能库还帮助我们持续为团队成员提供自我投资的机会。所以你所衡量的东西是平衡的。有时，这种衡量可能涉及遗留系统，你希望能够淘汰这些系统，转而使用更面向AI的新系统或能够更好地与客户沟通的技术。\n\n另一部分是衡量我们花在高价值工作上的时间是多少？这不一定只是衡量生产力的一个功能。你有几个不同的触发因素。一个是人们会主动去做事情。另一个是你将从事该工作的人数减少到与剩余工作量相适应的程度。\n\nSam Ransbotham：有没有一些事情，你在纸面上看起来可能是使用AI的好地方，但你决定风险不值得？或者你是如何灌输这些指导原则的，我们应该在哪里使用工具，而不是我们可以在哪里使用工具？\n\nBernard Hampton：想想AI真正擅长什么。AI非常擅长研究。它非常擅长写作、行政职能。它擅长任务。AI不擅长需要人类参与判断的决策。\n\n当我们考虑培训过程中的“什么”和“如何”时，我们部署AI使学习（1）更实用，（2）更相关，（3）可扩展。这包括AI支持的学习体验，如模拟、引导练习。学院利用AI对话模拟器帮助团队成员通过互动角色扮演和辅导来建立和加强软技能，并在此过程中不断强化。这是由AI引导的。然后它旨在加速各角色团队成员的准备度，支持职业流动性，并确保人类监督始终是学习体验的核心。\n\n通过这样做，我们开始能够在一定程度上说：“嘿，这就是AI真正能做得非常好的事情。”我们希望让人们处于一种体验和提升技能的情境中。我特别提到的是一种互动平台，使团队成员能够练习现实世界的场景。这是AI在思考如何让某人在安全、模拟的环境中沉浸于某种情境的一个很好的用途。最终，它建立了自豪感、熟练度和专业性。\n\nSam Ransbotham：哦，我真的很喜欢这个。几年前我们做过一项研究，我们将其定义为自我决定。如果你觉得自己有更多的权威，如果你感到更自信，如果你觉得与人的关系更好，如果你对自己所做的事情感觉良好，你就更有可能使用这些工具，即使你可能认为这些工具可能会“取代”我们人类，但这完全不是这个视角。我很喜欢那个模拟的方面。\n你看过《善地》这部电视剧吗？我推荐它。我觉得它很搞笑。但《善地》中的一个场景是，他们让一个人经历一次与女友分手的模拟。你不会有太多机会和女友分手，而你想做得对。对于恋爱中的人，我会说，他发现没有好的方式去做这件事；无论如何都会很痛苦。\n但你刚才谈到的，是让人们在一个安全的地方练习那些困难的事情，那些我们不太有机会练习的事情。你在这个互动模拟环境中放了哪些类型的事情？我很好奇人们实际可以练习什么。\nBernard Hampton：这些主要用于我们高容量、高节奏的环境中。想想我们的联络中心。想想全国各地的3500个金融中心，以及在不同时间段出现的高峰。在每一个地方，无论是慢节奏还是快节奏，我们都需要人们做出良好的判断，让客户感觉到他们被一个有同理心的人倾听，并且这个人正在努力帮助他们，最终专注于他们想要完成的目标。\n所以，从兑现支票到执行复杂交易，任何事情都有可能。我们让人们置身于真实的情境中，让他们对一个看起来像活生生的、会走路、会说话、会呼吸的客户的头像做出反应。你可以参与各种场景，并实时获得关于你处理方式的反馈，关于你在过程中使用工具和资源的情况，以及你如何运用判断力。所以这是其一。\n第二，当我想到人类主导时，开发、培训并正确使用技术背后的一个关键问题是，在某种情况下，比如说，你连续五次处理高风险交易。如果你使用某种人工智能，它说“是，是，是”。关键问题必须是，“那么第六次会发生什么？”Sam会看着它说，“嗯，它已经连续说了五次是。这可能是一样的吗？”识别人类主导的能力，就是使用场景让人们准备好说，“作为人类，我应该使用什么？”来验证那一刻所采取的建议行动的准确性。所以我们必须始终考虑这些因素，既要保护我们的客户，保护组织，又要让客户获得良好的体验。\nSam Ransbotham：你有一个庞大的组织。你有大量的资源和规模可以投入其中。对于那些可能没有这些资源来开发这种基础设施的人，你有什么建议？这些事情在小规模上也能很好地运作吗，还是需要大规模才能运作？\nBernard Hampton：你知道吗？它们绝对可以。事实上，我们还有一些其他的常规做法。是的，我们还会衡量一些额外的东西，比如我们想要淘汰的系统。我们衡量一个组织按业务线编写了多少提示。那么，在组织的各个小组中，AI采用的文化是什么样的？其中一些事情，大多数人都可以根据他们选择的人工智能工具以及他们的基础设施情况来获取。\n\n但我们得到的一些最好的建议实际上发生在多个层面。我们最近在组织内一个高层小组中这样做了。[我们]与组织内其他部门、跨职能团队在不同层面会面，并进行了数百次这样的倾听会议，每次召集20、30人，开始让他们分享对AI的看法。他们觉得什么有帮助？他们仍然对什么感到好奇？他们需要哪些帮助？所有这些想法和反馈，从为我的团队提供反馈（因为我们正在构建和开发培训），到为我们的技术团队和委员会提供反馈（当我们思考下一步时），再到筛选出公司接下来应投资哪些优先重大项目以支持我们的队友，都产生了各种成果。\n\n所以，当你在部署一个工具时，任何人都可以简单地与人交谈和倾听，从中你就有机会确定优先级，无论组织规模大小，这都是一种价值。\n\nSam Ransbotham：我认为这是一个很好的思考方式。……那些不需要大量资源来实施的事情，似乎完全在大多数组织的能力范围内。\n\nBernard Hampton：我与各种规模的公司交谈。在这段旅程中，好奇心对我来说一直很重要。对我的领导团队也是如此。我们会见世界上一些最大的公司，但也会见一些中型和小型组织，因为从中我会思考我们的客户可能如何看待它以及他们需要什么。我如何思考那些规模可能不同于其他公司的群体？他们可能缺少什么？我们可能缺少什么？这种普遍的好奇心，从错误中学习，从其他公司的成功中学习，是进行对话和深思熟虑的重要场所，思考你首先做什么，接下来做什么，这样你就不只是在试验，而是真正有意识地决定采用什么？原因是什么？这会给人们信心，让他们明白为什么接下来会经历X、Y或Z？\n\nSam Ransbotham：我喜欢你提到的“错误”。我认为我们总是太不愿意承认自己做过任何错事。你知道，除了我之外，大多数人在过去都做过错事。但获得反馈的想法真的很重要，你在模拟部分提到了这一点。\n\n我发现学生们实际上并不像你想象的那么讨厌考试，因为他们能看到自己不太了解的地方以及可以改进的地方。我们非常喜欢改进。我认为这已经是你所谈论内容中的一个主题；让人们知道哪些方面需要改进以及如何改进，人们通常喜欢这样。\n\n我提到了我的学生。你提到你40%、45%的员工是内部的。如果我算得没错，这意味着55%或60%来自外部。你能给现在进入职场的人什么建议？他们应该考虑哪些技能才能成为现在劳动力中的活跃部分？\n\nBernard Hampton：第一，我认为你说对了关键词“技能”，因为有一件事已经变得很清楚，那就是技术技能，或者技术技能的半衰期，在我成年后的生活中可能比任何时候都短，并且要认识到我们公司不断谈论的事情，即清晰度、学习敏捷性和求知欲。继续把这些放在首位是极其重要的品质。\n\n我们不仅在美国银行这里经常谈论这些，而且，具体来说，好奇心让你保持相关性，包括对新技术的了解。当我今天想到AI时，它不应该是对未知的恐惧，而是拥抱将在今天和明天环境中同样重要的东西的机会，就像使用电话或电子邮件开展业务一样。\n\n我想对任何考虑未来职业生涯的人说，要有意地挑战自己。当你有机会时，选择有挑战性的工作，这能培养你可重复使用的技能，然后通过向他人学习和分享，成为一个优秀的团队成员。在这种工作环境中，协作是非常重要的特质。在各家公司中，单打独斗的日子已经一去不复返了，特别是如果你在客户业务中工作，你对他人的需求以及思考以客户为中心的组织力量的重要性怎么强调都不为过。最后，我想说，继续发展人际技能，并认识到道德、判断力和决策力的力量仍然极其重要。\n\nSam Ransbotham：我喜欢你对这些事情的思考，可能比我想得更深入。我们在节目中有时会做的一件事，我想对你来说会很有趣，就是问你一系列快问快答的问题。\n你认为现在人们对人工智能有哪些误解？你看到很多人在学习这项技术——他们误解了什么？\nBernard Hampton：可能想到两件事。一是认为它会消失，是一种时尚；二是认为它本身意味着每个人的工作都会消失。\nSam Ransbotham：关于人工智能，有什么比你想象的进展更快或更慢？\nBernard Hampton：可能进展更快的是采用率，我认为这在一定程度上与我们作为组织所采取的方法有关。我认为进展更慢的——我说更慢，但也处于适当的速度——我们是一个高度受监管的行业，所以我们在前进时总是会深思熟虑。\n很难相信，就在十多年前，我们还没有客户人工智能解决方案，但今天我们有一个客户每季度使用超过1.69亿次的解决方案，并且每个季度都在增长。所以我说有些事情进展较慢，但这是以正确的风险心态适当衡量的。\nSam Ransbotham：在日常生活中，你个人如何从人工智能工具中获得最大价值？你从中得到最多的是什么？\nBernard Hampton：我当然用它来写作。我用它来分析信息，并用人工智能来整理信息。我一直在思考如何以可扩展的方式整合和发展我们的培训解决方案，以适应他们的需求。有时是关于个人生产力工具，有时是关于我们可能构建的供应商或工具，这些工具是可扩展的，将与我们如何以比其他方式更快地建立熟练程度保持一致，或者可能与我们目前所做的不同。\nSam Ransbotham：更快地建立熟练程度——这似乎是结束这个话题的好方式。我认为这就是你试图做的核心。我认为在你试图进行的规模上，这是一个惊人的挑战。感谢你今天分享你的想法。感谢你的参与。\nBernard Hampton：不客气。很高兴和你在一起。\nSam Ransbotham：感谢你加入我们《我，我自己，和人工智能》的又一季。我们进行了一些关于学习和人工智能发展的非常有趣的对话，我们关于人工智能对劳动力影响的讨论感觉特别重要。我们与美国劳工部的Taylor Stockton、《经济学人》的Andrew Palmer以及今天与Bernard的讨论进行了交谈。很难选出一个最喜欢的！我们将在今年夏天带着更多学术研究角度的额外节目回归。我们鼓励你继续评论我们的播客，并向我们发送任何评论或你希望我们涵盖的主题请求。感谢你帮助我们使《我，我自己，和人工智能》如此成功。\n《我，我自己，和人工智能®》是麻省理工学院的联邦注册商标。保留所有权利。",
       "annotations": [
         {
           "type": "data",
-          "quote": "去年我们雇佣了2万人，其中包括2000名校园招聘的学生——去年近45%的空缺职位由内部填补",
-          "note": "显示美国银行内部晋升比例高，说明技能提升和再培训策略有效"
+          "quote": "我们去年雇佣了2万人，其中包括2000名校园招聘的学生——去年45%的空缺职位几乎都是内部填补的",
+          "note": "关键数据：美国银行内部填补空缺职位的比例高达45%，凸显其技能提升和再培训策略的成效，对高管评估人才战略有重要参考价值。"
         },
         {
           "type": "data",
-          "quote": "我们有一个客户每季度使用超过1.69亿次且持续增长的解决方案",
-          "note": "AI客户解决方案使用量巨大，体现AI在客户服务中的广泛应用"
+          "quote": "今天，我们邀请到了美国银行学院负责人伯纳德·汉普顿。该学院是美国企业界最大的学习和入职组织之一，为全球超过20万名员工提供支持。",
+          "note": "关键数据：美国银行学院覆盖超过20万名员工，规模庞大，表明其学习与发展体系在组织中的战略地位，对理解其AI转型的规模有重要意义。"
         },
-        {
-          "type": "decision",
-          "quote": "我们有一个内部传统学习技能组织，但同时，我们将其与业务领域的主题专业知识相匹配。在过去几年中，我所在的组织有大约750人从业务线转入学院，成为正式的学院成员",
-          "note": "将业务专家调入学习组织，确保培训内容贴近实际业务需求"
-        },
-        {
-          "type": "decision",
-          "quote": "我们部署人工智能使学习（1）更实用，（2）更相关，（3）可扩展。这包括人工智能驱动的学习体验，如模拟、指导练习",
-          "note": "利用AI模拟器进行软技能培训，提升员工实战能力"
-        },
-        {
-          "type": "insight",
-          "quote": "我们坚信人类应始终主导AI，因此同时谈论两者意味着人类技能仍然非常重要，并且在考虑同理心、倾听、判断和决策时成为关键差异因素",
-          "note": "强调AI时代人类技能（如同理心、判断力）仍是核心竞争力"
-        },
-        {
-          "type": "insight",
-          "quote": "技术技能或技术技能的半衰期可能在我成年后的任何时候都变得更短，并且要认识到我们公司不断谈论的事情：清晰度、学习敏捷性和求知欲",
-          "note": "技术技能更新快，学习敏捷性和好奇心比具体技能更重要"
-        }
-      ]
-    },
-    {
-      "pillar": "memo",
-      "relevance_score": 75,
-      "tags": [
-        "跨行业",
-        "大型企业",
-        "AI Agent",
-        "组织变革",
-        "领导力"
-      ],
-      "structured_summary": {
-        "background": "2026年MIT Sloan CIO Symposium上，技术与企业领导者讨论AI Agent从概念进入实际工作流后，承诺与现实之间的差距。",
-        "decision_action": "领导者反思AI Agent部署中的经验教训，强调不仅需要技术就绪，更需要组织与人员准备。",
-        "result": "待验证：AI Agent的实际效果取决于组织适应能力，而非单纯技术成熟度。",
-        "lesson": "高管应优先投资于人员培训、流程调整和治理机制，而非仅关注技术部署；需管理期望，避免过度承诺。"
-      },
-      "executive_takeaway": "AI Agent落地关键在组织准备，而非技术成熟。",
-      "signal_strength": "medium",
-      "id": "594735f3",
-      "feed": "mit-sloan",
-      "tier": "authority",
-      "title": "Agentic AI: What Leaders Wish They Knew Sooner",
-      "link": "https://sloanreview.mit.edu/video/agentic-ai-what-leaders-wish-they-knew-sooner/",
-      "published": "Thu, 11 Jun 2026 11:00:56 +0000",
-      "ingested_at": "2026-07-29T01:35:33.498410+00:00",
-      "content": "随着AI代理进入企业工作流程，组织及其员工真的准备好了吗？在这段短视频中，2026年麻省理工斯隆首席信息官研讨会上的技术和商业领袖分享了关于人类与代理型AI协作所需条件的经验。\n\n当AI代理超越假设阶段进入实际工作流程时，许多领导者看到了承诺与现实之间的差距。代理准备好了吗？更重要的是，人类准备好了吗？在2026年麻省理工斯隆首席信息官研讨会上，我们寻求了专家的观点和建议。我们询问技术和商业领袖：“今年你们在人类与代理型AI协作方面学到了什么？”\n\n得到的回答并非技术故事，而是管理故事。\n\n巴布森学院教授、麻省理工数字经济倡议研究员托马斯·H·达文波特发出了谨慎的警告。他警告说，对AI工具进行人工监督正在变得流于形式：“人们被催促着快速批准事项，因此他们根本没有机会真正参与。”他担心大多数人类根本不想充当AI行为的审计者，并断言再多的政策也难以轻易解决这个问题。\n\n麻省理工斯隆管理学院首席研究科学家兼高级讲师乔治·韦斯特曼表示，代理“在大多数组织中还没有真正准备好进入黄金时段”。他指出，“代理”这个词被贴在了那些尚未如此复杂的事物上——夸大了期望却没有带来价值。他的建议是：在合理的地方实现自动化，而不是在容易的地方，并围绕期望的结果重建流程。\n\n观看视频，了解更多来自与会领导者的经验，包括：\n- 微代理与信任结构。了解一个组织如何从在每个步骤都安排人类发展到在正确的步骤安排人类。\n- 在循环中与在循环上。认识到执行任务的代理与澄清你真正想要什么的代理之间的根本区别。\n- 逐步建立信任。从小型实验开始，逐步过渡到全面部署，就像新司机从本地道路驶向高速公路一样。\n\n视频致谢\n阿比·隆德伯格是麻省理工斯隆管理评论的主编。\nM·肖恩·里德是麻省理工斯隆管理评论的多媒体编辑。",
-      "annotations": [
         {
           "type": "data",
-          "quote": "人们被催促着快速批准事项，因此他们根本没有机会真正参与。",
-          "note": "揭示了人工监督流于形式的关键问题，说明人类参与度不足的数据性现象。"
+          "quote": "我们有一个客户每季度使用超过1.69亿次的解决方案，并且每个季度都在增长。",
+          "note": "关键数据：AI解决方案的季度使用量达1.69亿次，显示AI在客户互动中的大规模应用，是衡量AI实际价值的重要指标。"
         },
         {
           "type": "decision",
-          "quote": "在合理的地方实现自动化，而不是在容易的地方，并围绕期望的结果重建流程。",
-          "note": "这是韦斯特曼提出的核心决策建议，强调自动化应基于价值而非便利。"
+          "quote": "在过去几年里，在我的组织内，大约有750人从业务部门转入学院，成为正式的学院团队成员，为组织贡献了现实世界的智慧。",
+          "note": "关键决策：美国银行将业务部门人员调入学院，以增强培训的现实相关性，这一决策有助于确保学习内容与业务需求紧密对接。"
+        },
+        {
+          "type": "decision",
+          "quote": "学院利用AI对话模拟器帮助团队成员通过互动角色扮演和辅导来建立和加强软技能，并在此过程中不断强化。",
+          "note": "关键决策：部署AI对话模拟器进行软技能培训，体现了在安全环境中实践和提升技能的具体行动，对高管考虑AI在培训中的应用具有示范作用。"
+        },
+        {
+          "type": "decision",
+          "quote": "我们最近在组织内一个高层小组中这样做了。[我们]与组织内其他部门、跨职能团队在不同层面会面，并进行了数百次这样的倾听会议，每次召集20、30人，开始让他们分享对AI的看法。",
+          "note": "关键决策：通过大规模倾听会议收集员工对AI的反馈，这一决策有助于制定更符合实际需求的AI战略，并增强员工的参与感。"
+        },
+        {
+          "type": "insight",
+          "quote": "AI不擅长需要人类参与判断的决策。",
+          "note": "关键观点：明确指出AI的局限性，强调人类判断在决策中的不可替代性，对高管在部署AI时把握人机分工具有重要指导意义。"
+        },
+        {
+          "type": "insight",
+          "quote": "如果人们花更少的时间在行政或任务型职能上，他们能为客户带来什么，真正去支持和理解客户的需求、目标和目的，无论他们处于何种阶段？",
+          "note": "关键观点：强调AI解放人力后应聚焦于客户价值，引导高管思考如何将节省的时间转化为更高质量的客户互动，是AI时代人才战略的核心视角。"
+        },
+        {
+          "type": "insight",
+          "quote": "好奇心让你保持相关性，包括对新技术的了解。当我今天想到AI时，它不应该是对未知的恐惧，而是拥抱将在今天和明天环境中同样重要的东西的机会，就像使用电话或电子邮件开展业务一样。",
+          "note": "关键观点：将AI视为像电话和电子邮件一样的基础工具，鼓励以好奇心和积极心态拥抱AI，对高管塑造组织文化具有启发意义。"
         }
       ]
     },
@@ -700,15 +804,17 @@
       "tags": [
         "AI",
         "大型科技公司",
-        "AI辅助开发"
+        "软件开发",
+        "AI辅助编程",
+        "组织流程"
       ],
       "structured_summary": {
-        "background": "Anthropic作为领先AI实验室，正在改变其软件开发方式。",
-        "decision_action": "Anthropic越来越多地使用AI进行代码审查和测试，同时保持两个披萨团队（小型团队）的组织结构。",
-        "result": "待验证",
-        "lesson": "高管可考虑在软件工程中引入AI辅助代码审查和测试，同时维持小团队敏捷性，以提升效率。"
+        "background": "Anthropic作为领先AI实验室，其软件开发流程正在经历由AI驱动的变革。",
+        "decision_action": "Anthropic在软件开发中广泛采用AI进行代码审查和测试，同时保持'两个披萨团队'的小型团队结构。",
+        "result": "具体数据未提供，但表明AI在开发流程中扮演越来越重要的角色，团队结构保持敏捷。",
+        "lesson": "高管应认识到AI不仅能辅助编码，还能深度融入质量保障环节，同时保持小团队敏捷性，以最大化AI的效能。"
       },
-      "executive_takeaway": "AI辅助开发可提升效率，小团队模式仍有效。",
+      "executive_takeaway": "AI深度融入开发流程，小团队模式仍有效，可提升效率。",
       "signal_strength": "medium",
       "id": "56096527",
       "feed": "pragmatic-engineer",
@@ -716,66 +822,23 @@
       "title": "How building software is changing at Anthropic",
       "link": "https://newsletter.pragmaticengineer.com/p/inside-anthropic",
       "published": "Tue, 28 Jul 2026 15:49:30 GMT",
-      "ingested_at": "2026-07-29T01:36:23.155244+00:00",
-      "content": "在Anthropic，软件构建方式正在如何改变\n深入探讨这家领先AI实验室在软件制作方式上的变化。越来越多的代码审查和测试由AI完成，双比萨团队依然活跃，以及更多细节。来自Anthropic内部的消息\n大幅改进的AI工具正在改变我们构建软件的方式，我想一窥软件工程的未来可能如何在它的影响下展开。还有什么地方比科技界最“AI化”的团队——AI实验室本身——更适合观察呢？\n因此，我访问了两家领先的AI实验室，了解团队和工程师的日常工作。在这篇文章以及即将发布的后续文章中，我将分享我所了解的AI如何重塑我们许多人习惯的软件工程原则——以及在AI浪潮中哪些方面基本保持不变。\n在后续文章中，我们将比较Anthropic和OpenAI的发现，看看他们的工作方式可能对软件工程的总体方向意味着什么。\n感谢Anthropic让我参观他们在旧金山的实验室。我与四个人进行了交谈：\n- Katelyn Lesse，Claude平台工程主管，其组织拥有Claude运行的基础设施\n- Jarred Sumner，Bun的创建者，现在在Anthropic从事Bun和Claude Code的工作\n- Thariq Shihipar，负责Claude Code工程和教育\n- David Hershey，在Anthropic的应用AI组织担任类似销售工程师的角色，与Cursor、Cognition和Perplexity等客户合作\n感谢他们，我了解了这家领先AI实验室的发展方向——可能也是整个行业的方向。\n在继续之前，《务实工程师》将在接下来的一周半内放暑假。这意味着本周四没有文章，下周也没有文章。感谢您的理解和支持！\n回到今天的深度探讨，我们涵盖：\n- 复杂且耗时：Claude托管代理。最复杂的项目之一花了Claude平台团队六个月才发布，并在代理基础设施层面创建了一个新的原语。基础设施项目仍然需要在途中重新架构，并且需要时间才能做好。\n- 十二个月的项目在11天内完成：Bun重写为Rust。将超过50万行的项目迁移到另一种语言过去需要一个小团队一年时间，使其不切实际。借助Fable和16.5万美元的令牌，该项目创建者最近在不到两周内完成。\n- 工程实践的变化。在这家拥有超过3500名员工的AI实验室内部，原型设计更加灵活，验证比实现更耗时，代码审查和测试越来越多地由AI完成。\n- 团队层面的变化。设计更加持续而非前期，团队处理更多项目，每个项目最多两名工程师，等等。\n- 仍然相同：双比萨团队，规划很重要，PRD在复杂项目中相关，上下文切换是一个挑战，编码与测试的时间比例变化不大。\n- 改变“杰出”软件工程师的原型？深入理解，包括比你工作层面低一层的知识，以及协调工作的能力，都是有价值的。\n- AI会取代软件工程吗？在实验室中，软件工程师越亲身体验AI，他们就越不担心自己的工作会消失。\n1. 复杂且耗时：Claude托管代理\nClaude平台团队在过去一年中最复杂的项目是构建Claude托管代理，这是一个用于生产代理的预构建框架，运行在由Anthropic管理的云基础设施上，或者运行在你团队自己的基础设施上，使用你选择的任何沙箱。该项目从构思到4月发布大约花了六个月时间。Claude平台工程主管Katelyn Lesse分享了故事。\n\nClaude 平台\n该团队位于模型/加速器层（Claude 模型在 GPU 上运行）和产品/应用层（包括 Claude Code 和 Claude Cowork 等产品）之间：\nKatelyn 谈平台团队的职责：\n“我们处于‘token 热路径’上。提示词输入后，我们对其进行分词。然后，诸如安全防护和计费等功能都在我们的层中完成。”\nClaude 团队所称的“平台”，我更倾向于理解为“API”。Claude 平台运营 API，并承担 API 应有的职责。当然，该团队的工作不止于此，Claude Managed Agents 就是我们在本文中介绍的一个案例。\n平台层正在从 Python 迁移到 Rust。最初，该层使用 Python 编写，原因与 AI 公司通常的选择一致：Python 是一种便捷的语言，且 AI 研究人员已在使用 Python，这有助于快速迭代。但 Python 是单线程的，在大规模场景下，当 API 处于高负载时，其性能不如 Rust。\n\n满足基础设施需求\nKatelyn 表示，该项目源于客户希望拥有自己的“基础设施”：\n“我们最初提供了一种模式：你通过一个 API 定义 agent，再通过另一个 API 启动与 agent 的会话。但当前世界的实际需求是人们运行自己的基础设施。因此，我们开始构建自托管沙箱。\n然而，我们随后从许多客户那里听到，他们正在尝试自行拼凑基础设施，运行自己的‘基础设施’，这启发了我们开发 Claude Managed Agents。”\n\n最重要的部分：规划\nKatelyn 表示，在这个项目中，最重要的事情是规划：\n“有些产品可以直接进入原型设计阶段，但有些产品则需要从正确的架构设计开始。例如，如果我们构建一个 TypeScript CLI——对于需要构建的内容来说相当简单——我们可以直接进行原型设计。但对于 Claude Managed Agents，我们首先需要弄清楚我们要做什么。\n当然，我们为 Managed Agents 做了一些前期原型设计：进行了一些尝试和探索。但原型设计本身更多是为了理解需求。\n我们的规划过程更像典型的 AI 之前的规划过程。你知道每个团队都有这样的项目：每个人都提出类似想法的某个版本，大家不断讨论和酝酿，直到最终付诸实施？Managed Agents 对我们团队来说就是这样的项目。当我们启动该项目时，我们已经有了可追溯到两年前的关于想法和建议的文档。\n规划完成后，项目正式启动，并创建了 PRD（产品需求文档）：\n“最终，是我们 API Agents 团队的产品经理和技术负责人决定启动这个项目。我们会聚在一个房间里，逐项讨论并达成一致。但这不仅仅是我们的事：我们还需要与业务部门、其他云提供商以及其他工程团队协调。例如，平台组织内有一个沙箱团队：由于该产品会生成大量沙箱，因此我们咨询了该团队关于 Managed Agents 的设计。\n和以前一样，我们有一个 PRD，它是一个 Google 文档。我们使用 Google 文档是因为需要协调所有相关人员。这种做法并未消失。\n同样，我和我的产品对应方会进行产品评审。”\nAI 之前的一些流程，如 PRD，在当今的复杂项目中仍然有用，可以让大量人员保持一致。\n\n首先为内部客户构建\n规划完成后，团队决定进行“探索”并压力测试想法和架构，通过构建基于 Web 的 Claude Code 后端来实现。使用 agent 框架远程执行代码与他们想要为客户解决的问题具有相似的形态。他们的思路是首先为 Claude Code 团队解决这个问题，然后再以更通用的方式为客户解决。\n\n\n内部团队比AI出现之前更加灵活。Katelyn：\n“在AI之前，我们可能会给Claude Code团队一堆庞大的需求文档，然后他们再给我们一堆文档。现在容易多了：我们团队有人构建了几个组件，带到Claude Code团队那边，他们就开始围绕它进行开发。我们可以弄清楚这个组件如何接入他们产品的这一部分，反之亦然。让这个产品的第一个内部版本启动并运行，过程更快、更简单。\n与其他团队在接口上保持一致仍然很重要，而且更容易了。过去，你必须带着一个完全规格化的接口来使用。现在，我们可以更灵活地操作：我们可以先搭建一个影子流量的存根服务，然后与Claude Code团队一起逐步完善接口。他们做了一些开发并给出反馈，我们在构建接口下的服务时进行修改，然后再回去让它正常工作。”\n他们为Claude Code的移动应用启动了一项服务，用于创建沙箱、启动Claude Code并运行它。该服务投入生产，Claude Platform团队从中吸取了经验。\n中途重新架构\n许多工程师可能都熟悉这样一个场景：在规划项目并开始实施后，你发现需要更改架构。这个项目也遇到了这种情况。\n平台团队最终根据Claude Code“试探性项目”的经验对Managed Agents进行了重新架构。重新架构意味着将Claude的“大脑”及其框架与“手”（执行操作的沙箱和工具）和“会话”（事件日志）解耦。每个部分都成为一个接口，彼此之间很少做假设。\n团队还围绕保险库和凭证构建了一个抽象层。凭证可以安全地存储在保险库中。所有使用凭证的调用都通过一个拥有会话令牌的代理进行。代理从保险库中获取正确的凭证：凭证永远不会被代理、沙箱或会话看到。凭证仅在调用服务时在出口边界注入：\n内部“吃狗粮”有助于发现需要解决的难题。几个例子：\n- 可靠性和可扩展性：对于代理来说，这些真的很难做好，因为如果与沙箱的连接丢失，整个代理就会死亡，你会丢失状态\n- 凭证和访问控制：也很困难且有问题，尤其是在首次构建服务时\nManaged Agents团队分享了更多关于这个重新架构项目的信息。\n该项目耗时约六个月，绝非快速过程。Katelyn强调，在AI之前，这样的项目可能需要两年时间。Managed Agents是Claude Platform团队构建的最大项目之一，而且比看起来更复杂：例如，增加了对在AWS、GCP和Azure上运行代理的支持。\n2. 十二个月的项目在11天内完成：Bun重写为Rust\n如前所述，Jarred Sumner是Bun的创建者，Bun是一个流行的JavaScript运行时，目前每月有2200万次下载，并且依赖Claude Code。\nBun是用Zig编写的，Zig是一种高性能、高效的语言。然而，它并不内存安全，内存问题不断出现。Jarred认为将项目重写为同样高性能、内存安全的语言（如Rust）可能是一个选择——尽管过去这样的重写往往以失败告终。Jarred（强调为我所加）：\n“从历史上看，重写是一个糟糕的主意。排除注释，Bun有535,496行Zig代码。用另一种语言重写需要一个小型工程师团队整整一年时间。这意味着在那段时间内冻结错误修复、安全修复或功能开发。要获得可交付成果，风险最小的方法是机械地将Zig移植到Rust，尽量减少行为变化，并使用我们已有的用于测试Bun的相同测试套件。”\n\n幸运的是，Bun 自身的测试套件是用 TypeScript 编写的，这意味着它不依赖于运行时的编程语言。\n我们无法考虑一年内对用户零影响的选择。因此，通过代码风格来强制执行以修复稳定性问题是我们最好的选择，这也是我们在将受 Rust 启发的智能指针添加到 Bun 代码库时的计划。\n但老实说，我并不想这样做。自制的智能指针比 Rust 的体验更差，而且没有任何保证。\n但后来，Jarred 询问 AI 是否能完成繁重的工作，并想知道迁移速度能提高多少。最终，他在 11 天内完成了从开始到合并的重写，使用了 64 个并行代理，按 API 价格花费了 165,000 美元的 token。以下是 Jarred 对其 AI 密集型重写的比较：\n“手动完成这项工作，我认为需要三位对代码库有全面了解的工程师大约一年的时间，在此期间我们将无法改进 Node.js 兼容性、修复错误、修复安全问题或实现新功能。我们绝不会那样做。现实的选择是什么都不做，永远修复本文开头提到的错误。”\n这个项目远不止输入“...不犯任何错误”的提示：\n- Jarred 制定了详细的迁移计划和风格指南\n- 他设置了项目，使代理不使用 Git worktrees（他发现这很慢），而是在同一代码库的不同文件上工作\n- 他创建了一个编排系统，每个 AI 代理提出更改建议，但不修改文件以避免冲突；一个编排 AI 代理创建提交\n- 大部分时间和 token 用于修复编译错误、测试和验证一切正常\n- Bun 本身有一个非常强大的测试框架：当所有测试通过时，这是一个高置信度的信号，表明重写有效\n- 关键是，Jarred 是 Bun 的终极领域专家：他创建了这个项目，并且比任何人都更了解代码库\n这次重写已投入生产，并为今天的 Claude Code 提供支持。\n我们在《我们能从 Bun 使用 AI 快速重写 Rust 中学到什么》中对此进行了更多讨论。\n3. 改变工程实践\n那么，与 AI 时代之前相比，Anthropic 的团队构建软件的方式发生了哪些变化？这是本文的问题，似乎很多事情都不同了。让我们逐一分析：\nAI 实验室特有的实践\n在 Anthropic 等 AI 实验室中，一些像呼吸一样正常的事情，从外部视角来看却显得不同：\n- 每个人始终运行多个 AI 代理。运行 3-10 个并行代理是常态。我交谈过的人都在后台或云端运行他们的代理。\n- 没有 token 预算，使用情况不被跟踪。AI 实验室与其他所有人的一个主要区别是，确实没有 token 限制或促进 token 最大化的 token 排行榜；人们已经一直在使用代理。\n- 非常高的自主权。AI 实验室内部的工作变得更加结构化，但与大型科技公司和大多数初创公司相比，仍然有巨大的自主权。当每个人都有无限的 token 时，原型化任何想法都非常容易。\n原型设计和“试探”更加流畅\n为 Claude Managed Agents 原型化早期方法的速度快了数倍。同样，Katelyn 告诉我，实现 Claude Code 移动端后端的“试探”也比 AI 时代之前快得多。\n验证比实现花费的时间更长\nJarred 在 11 天重写为 Rust 的过程中指出了实现与验证之间的划分。大致如下：\n将代码从 Zig 重写为 Rust 的“实现”部分花费了大约 15% 的时间，而 85% 的时间用于修复问题：使其编译通过、修复测试、验证其正常工作。\n\n大多数token不再用于实现\nThariq：\n“我们发现很少有token用于实际实现。大部分token用于发现未知、原型设计、模拟，以及验证和测试。”\nJarred对Bun的重写也印证了这一点：他花在修复实现和验证其正确性上的token比花在实现本身上的还要多！\nAI进行代码审查和更多测试\nJarred：\n“用智能体批判代码和测试是一种我们更常采用的新方法。当你合并大量代码时，我考虑了很多关于信任的问题。如何每天合并100多个PR，并确保代码正常工作？在这种速度下，你需要在无法亲自阅读所有代码的情况下信任代码。我认为这涉及几个方面：\n代码审查：它需要非常好且自动化。我显然是在自夸，但我发现Claude的代码审查确实非常好。Claude的代码审查能捕获那些我需要仔细阅读代码一小时才能发现的bug。但缺点是它很昂贵！\n安全扫描：对于这次Rust重写，我们运行了11次Claude安全扫描器。\n模糊测试：我们还进行了不同类型的模糊测试，让Claude为解析器模糊测试等编写模糊测试器。\n在编码之外的不同进程/会话中运行测试，是建立对代码信任的一种方式。我期待更多这样的做法。”\n新模式：将工作分发给AI\nJarred描述了他的一种新工作方式：\n“我正在使用的一种新方法是同时将大量工作分发给多个Claude。我在Bun重写中这样做了，但我也将其用于其他工作。这种方法对我来说非常有效，我觉得它还没有被充分利用。”\n由智能体驱动的省时自动化更加普及\nJarred列出了Bun团队为以小型团队运行活跃的开源项目而设置的几种省时自动化，同时团队在Claude Code上工作：\n- 每当有人提交issue时，Claude会运行以尝试复现该问题。如果成功，它会启动另一个容器，然后尝试修复问题并提交PR。\n- 负责提交PR的智能体必须编写一个测试，该测试在系统版本（未打补丁的版本）的Bun中失败，而在打了补丁的调试构建中通过，之后才允许提交PR。\n- 还有其他自动化，比如如果没有测试，PR会被自动拒绝；所有linter都会运行：Claude Code审查、CodeRabbit的代码审查都会运行，智能体在GitHub pull request上来回互动。\nPR自动合并：即将到来？\n当所有质量门通过时，PR会手动合并，但这在某个时候可能会变成自动的。一旦上述所有检查通过，所有（AI）代码审查评论得到处理，新代码添加了测试等。有趣的是，很多GitHub活动是Claude与Claude之间的对话！\n但在低风险情况下，手动合并可能会消失，至少对于Bun项目是这样。Jarred告诉我：\n“今天，由人按下‘合并’按钮，但几个月内，我预计：\n- 自动审查者LGTM\n- → 另一个拥有新上下文窗口的Claude判断是否简单且影响范围小\n- → 如果是：自动合并！”\n用每一代模型检验假设\n在Anthropic内部，团队不断检验他们的先验假设。Thariq给出了一个有趣的例子：\n“对于智能体，你必须重新审视你做出的任何假设，因为随着新一代模型的出现，这些假设可能会改变。因此，我们最近删除了Claude Code系统提示的80%，因为模型变得更聪明了。\n使用HTML是另一个我们需要重新审视的假设。HTML是Claude比我们许多人预期的要聪明得多的东西之一。我开始更喜欢HTML作为输出格式而不是Markdown，并且看到Claude Code团队的其他成员也在使用它。”\n\n与Markdown相比，HTML可以传达更丰富的信息，HTML文档更易于阅读和共享。”\n4. 团队层面的变化\n在Anthropic，与AI时代之前相比，工程团队的运作方式也发生了变化。",
+      "ingested_at": "2026-08-02T01:55:47.887859+00:00",
+      "content": "Anthropic 的软件构建方式正在如何改变\n深入探讨这家领先 AI 实验室的软件制作方式发生了哪些变化。越来越多的代码审查和测试由 AI 完成，两个披萨团队依然活跃，以及更多。来自 Anthropic 内部的细节\n大幅改进的 AI 工具正在改变我们构建软件的方式，我想一窥在其影响下软件工程的未来可能如何展开。还有什么地方比科技界最“AI 重度依赖”的团队——即 AI 实验室本身——更适合探讨这个问题呢？\n因此，我拜访了两家领先的 AI 实验室，看看团队和工程师们日常是如何工作的。在本文以及即将发布的后续文章中，我将分享我所了解到的关于 AI 如何重塑我们许多人习以为常的软件工程原则——以及尽管 AI 浪潮汹涌，哪些方面基本保持不变。\n在后续文章中，我们将比较 Anthropic 和 OpenAI 的发现，看看他们的工作方式可能对软件工程的总体方向意味着什么。\n感谢 Anthropic 让我参观他们在旧金山的实验室。我与四位人士进行了交谈：\n- Katelyn Lesse，Claude 平台工程主管，其组织负责 Claude 运行的基础设施\n- Jarred Sumner，Bun 的创建者，目前在 Anthropic 从事 Bun 和 Claude Code 的工作\n- Thariq Shihipar，在 Claude Code 工程和教育领域工作\n- David Hershey，在 Anthropic 的应用 AI 组织担任类似销售工程师的角色，与 Cursor、Cognition 和 Perplexity 等客户合作\n感谢他们，我得以了解这家领先 AI 实验室的发展方向——可能也代表了更广泛行业的趋势。\n在我们继续之前，《务实工程师》将进入为期一周半的夏季休假。这意味着本周四没有文章，下周也没有文章。感谢您的理解和支持！\n回到今天的深度探讨，我们涵盖：\n- 复杂且耗时：Claude 托管代理。最复杂的项目之一花费了 Claude 平台团队六个月的时间才发布，并在代理基础设施层面创建了一种新的原语。基础设施项目仍然需要在过程中重新架构，并且需要时间才能做好。\n- 十二个月的项目在 11 天内完成：将 Bun 重写为 Rust。将超过 50 万行的项目迁移到另一种语言过去需要一个小团队一年的时间，这使得这种做法不切实际。借助 Fable 和 16.5 万美元的代币，该项目创建者最近在不到两周的时间内完成了迁移。\n- 不断变化的工程实践。在这家拥有超过 3500 名员工的 AI 实验室内部，原型设计更加灵活，验证比实现更耗时，代码审查和测试越来越多地由 AI 完成。\n- 团队层面的变化。设计更加持续进行，而非前期一次性完成；团队参与更多项目；每个项目最多两名工程师；等等。\n- 保持不变：两个披萨团队、规划很重要、复杂项目中的 PRD 仍然相关、上下文切换是一个挑战、编码与测试的时间比例变化不大。\n- “杰出”软件工程师原型正在改变？深入理解（包括对你所从事工作下一层的理解）以及协调工作的能力都很有价值。\n- AI 会取代软件工程吗？在实验室中，软件工程师越亲身体验 AI，就越不担心自己的工作会消失。\n1. 复杂且耗时：Claude 托管代理\nClaude 平台团队在过去一年中最复杂的项目是构建 Claude 托管代理，这是一个用于生产代理的预构建框架，可在 Anthropic 管理的基础设施上或您团队自己的基础设施上，使用您选择的任何沙箱在云端运行。该项目从构思到 4 月发布大约花了六个月时间。Claude 平台工程主管 Katelyn Lesse 分享了这一故事。\n\nClaude 平台\n这个团队位于模型/加速器层（Claude 模型在 GPU 上运行）和产品/应用层（如 Claude Code 和 Claude Cowork 等产品）之间：\nKatelyn 谈平台团队的职责：\n“我们处于‘token 热路径’上。提示词进来后，我们对其进行分词。然后，诸如安全防护和计费之类的事情都在我们的层内完成。”\nClaude 团队所称的“平台”，我认为更像是“API”。Claude 平台运营 API，并承担 API 应有的职责。当然，该团队所做的远不止这些，Claude 托管代理就是我们在本文中介绍的一个案例。\n平台层正在从 Python 迁移到 Rust。最初，这一层是为 Python 编写的，原因在 AI 公司中很“常见”：它是一门方便的语言，而且 AI 研究人员已经在使用 Python，这样可以快速迭代。但 Python 是单线程的，在规模扩大时，当 API 处于高负载下，其性能不如 Rust。\n托管基础设施需求\nKatelyn 表示，这个项目是因为客户想要自己的“托管基础设施”而促成的：\n“我们最初提供了一种模式，你可以通过 API 定义一个代理，然后通过 API 与代理启动会话。但现实情况是，世界目前想要和需要的是人们运行自己的基础设施。因此，我们开始构建一个自托管的沙箱。\n但随后，我们开始从许多客户那里听到，他们正试图拼凑各种 harness，运行自己的‘托管基础设施’，这给了我们开发 Claude 托管代理的想法。”\n最大的部分：规划\n在这个项目中，Katelyn 说最重要的事情是规划：\n“有些产品你可以直接进行原型设计，但有些产品则需要先进行适当的架构设计。例如，如果我们构建一个 TypeScript CLI——对于需要构建的内容来说，这相当简单——我们可以直接进行原型设计。但对于 Claude 托管代理，我们需要先弄清楚我们在做什么。\n当然，我们确实为托管代理做了一些前期原型设计：进行黑客式尝试和 spike 测试。但原型设计本身更多是为了理解需求。\n我们的规划过程看起来更像是一个典型的 AI 之前的规划过程。你知道每个团队都有一个项目，每个人都会提出一些类似的想法，人们不断提出并围绕它讨论，直到最终实现它？托管代理对我们团队来说就是这样的项目。当我们启动这个项目时，我们已经有长达两年的关于想法和建议的文档。\n规划完成后，项目正式启动时，创建了一份 PRD（产品需求文档）：\n“最终，是我们 API 代理团队的产品经理和技术负责人决定推动并启动这个项目。我们会聚在一个房间里，仔细审查，达成一致。但这不仅仅是我们的问题：我们还需要与业务中的其他团队、其他云提供商以及其他工程团队进行协调。例如，我们在平台组织内有一个沙箱团队：因此，在托管代理的设计中咨询了这个团队，因为这个产品会产生大量沙箱。\n和以前一样，我们有一份 PRD，是一份 Google 文档。我们使用 Google 文档是因为我们需要协调所有感兴趣的人。这种做法并没有消失。\n同样，我的产品对应人员和我也进行产品评审。”\n一些 AI 之前的流程，如 PRD，在当今复杂的项目中仍然有用，可以让大量人员达成共识。\n先为内部客户构建\n规划完成后，团队决定进行一次“spike”测试，通过构建 Claude Code 的 Web 后端来压力测试想法和架构。使用代理 harness 进行远程代码执行与他们想要为客户解决的问题在结构上类似。他们的想法是先从为 Claude Code 团队解决问题开始，然后再以更通用的方式为客户解决。\n\n内部团队比AI出现之前更加灵活。Katelyn说：\n“在AI出现之前，我们可能会给Claude Code团队一大堆需求文档，然后他们会再给我们一堆文档。现在容易多了：我们团队有人构建了一些组件，把它带到Claude Code团队，他们就开始围绕它进行尝试。我们可以弄清楚这个组件如何插入他们产品的这部分，反之亦然。让这个产品的第一个内部版本启动并运行，过程更快、更容易。\n与其他团队在接口上保持一致仍然很重要，而且更容易了。在过去，你必须提供一个完全规格化的接口才能使用。现在，我们可以更灵活地做：我们可以建立一个影子流量的存根服务，并在过程中与Claude Code团队敲定接口。他们做了一些尝试并给出反馈，我们在构建接口下的服务时进行修改，然后再回去让它工作。”\n他们为Claude Code的移动应用推出了一项服务，用于启动沙箱、启动Claude Code并运行它。该服务投入生产，Claude平台团队从中吸取了经验。\n中途重新架构\n许多工程师可能都熟悉这样的场景：在规划项目并开始实施后，你发现需要更改架构。这个项目也发生了这种情况。\n平台团队最终根据从Claude Code“试验”中获得的经验，对托管代理进行了重新架构。重新架构意味着将Claude的“大脑”及其框架与“手”（执行操作所需的沙箱和工具）以及“会话”（事件日志）解耦。每个都成为一个接口，彼此之间很少做假设。\n团队还围绕保险库和凭据构建了一个抽象层。凭据可以安全地存储在保险库中。所有使用凭据的调用都通过具有会话令牌的代理进行。正是代理从保险库中获取正确的凭据：凭据永远不会被代理、沙箱或会话看到。凭据仅在调用服务时在出口边界注入：\n内部的“吃自己的狗粮”帮助发现了需要解决的难题。例如：\n- 可靠性和可扩展性：对于代理来说，这些确实很难做好，因为如果与沙箱的连接丢失，整个代理就会死亡，你会丢失状态\n- 凭据和访问控制：也很难且问题重重，尤其是在首次构建服务时\n托管代理团队分享了更多关于这个重新架构项目的信息。\n这个项目大约花了六个月时间，绝不是快速的过程。Katelyn强调，在AI出现之前，这样的项目可能需要两年时间。托管代理是Claude平台团队构建的最大项目之一，而且比看起来更复杂：例如，添加对在AWS、GCP和Azure上运行代理的支持。\n2. 十二个月的项目在11天内完成：Bun重写为Rust\n如前所述，Jarred Sumner是Bun的创建者，Bun是一个流行的JavaScript运行时，目前每月下载量达2200万次，并且依赖Claude Code。\nBun是用Zig编写的，Zig是一种性能高、生产力高的语言。然而，它并不内存安全，内存问题不断出现。Jarred认为，将项目重写为同样高性能且内存安全的语言（如Rust）可能是一个选择——但过去这种重写往往以失败告终。Jarred（强调为我所加）：\n“从历史上看，重写是一个糟糕的主意。不包括注释，Bun有535,496行Zig代码。用另一种语言重写需要一个小型工程师团队整整一年的时间。这意味着在那段时间内冻结错误修复、安全修复或功能开发。要获得可交付的东西，风险最小的方法是从Zig到Rust的机械移植，行为变化最少，使用我们已经在测试Bun时使用的完全相同的测试套件。”\n\n幸运的是，Bun 自己的测试套件是用 TypeScript 编写的，这意味着它不依赖于运行时的编程语言。\n一年的零用户影响是我们无法考虑的选择。因此，通过代码风格来修复稳定性问题是我们最好的选择，这也是我们在 Bun 的代码库中添加受 Rust 启发的智能指针时的计划。\n但说实话，我并不想这样做。自制的智能指针在人体工程学上比 Rust 差，而且没有任何保证。\n但后来，Jarred 问 AI 是否能承担繁重的工作，并想知道迁移能加速多少。最终，他在 11 天内完成了从开始到合并的重写，使用了 64 个并行代理和按 API 价格计算的 165,000 美元代币。以下是 Jarred 关于他这次 AI 密集型重写的比较：\n“我认为，如果手工完成，这需要三名对代码库有全面了解的工程师大约一年的时间，在此期间我们无法改进 Node.js 兼容性、修复错误、修复安全问题或实现新功能。我们永远不会那样做。现实的选择是什么都不做，永远修复这篇文章开头提到的那些错误。”\n这个项目远不止输入“...零错误”提示那么简单：\n- Jarred 制定了详细的迁移计划和风格指南\n- 他设置了项目，使代理不会使用他发现缓慢的 Git worktrees，而是在同一代码库的不同文件上工作\n- 他创建了一个编排系统，每个 AI 代理提出更改建议，但不修改文件以避免冲突；一个编排 AI 代理负责创建提交\n- 大部分时间和代币都花在了修复编译错误、测试和验证一切正常上\n- Bun 本身有一个非常强大的测试框架：当所有测试通过时，这是重写成功的高置信度信号\n- 关键是，Jarred 是 Bun 的终极领域专家：他创建了这个项目，比任何人都更了解代码库\n这次重写已经投入生产，并为今天的 Claude Code 提供支持。\n我们在《我们能从 Bun 使用 AI 快速重写 Rust 中学到什么？》中更详细地介绍了这一点。\n3. 改变工程实践\n那么，与 AI 之前的日子相比，Anthropic 的团队构建软件的方式发生了什么变化？这就是本文的问题，似乎很多事情都不同了。让我们来看看：\nAI 实验室特有的实践\n在 Anthropic 等 AI 实验室中，一些像呼吸一样正常的事情，从外部视角来看却显得不同：\n- 每个人都在持续运行多个 AI 代理。运行 3-10 个并行代理是常态。与我交谈过的人都有代理在后台或云端运行。\n- 没有代币预算，不跟踪使用情况。AI 实验室与其他所有人的一个主要区别是，确实没有代币限制或促进代币最大化的代币排行榜；人们已经一直在使用代理。\n- 非常高的自主性。AI 实验室内部的工作变得更加结构化，但与大型科技公司和大多数初创公司相比，仍然有巨大的自主性。当每个人都有无限代币时，原型化任何想法都非常容易。\n原型设计和“spiking”更加流畅\n为 Claude Managed Agents 原型化早期方法的速度要快好几倍。同样，Katelyn 告诉我，为 Claude Code 移动后端实现进行“spiking”也比 AI 之前快得多。\n验证比实现花费的时间更长\nJarred 在 11 天的 Rust 重写中指出了实现和验证之间的分工。大致如下：\n将代码从 Zig 重写为 Rust 的“实现”部分大约占用了 15% 的时间，而 85% 的时间用于修复问题：让它编译通过、修复测试、验证它正常工作。\n\n大多数token不再花在实现上\nThariq：\n“我们看到很少的token花在实际实现上。大部分花在发现未知、原型制作、模拟，然后是验证和测试上。”\nJarred的Bun重写也印证了这一点：他花了更多的token在修复实现和验证其工作正常上，而不是实现本身！\nAI进行代码审查和更多测试\nJarred：\n“用代理来批评代码和测试是我们做得更多的新方法。当你合并大量代码时，我考虑了很多关于信任的问题。你如何每天合并100多个PR，并确保代码工作正常？在这种速度下，你需要信任代码，而不可能自己阅读所有代码。我认为有几件事：\n代码审查：它需要非常好并且自动化。我显然是在自夸，但我发现Claude的代码审查非常好。Claude的代码审查能捕获那些我需要仔细阅读代码一个小时才能发现的错误。但需要注意的是，它很昂贵！\n安全扫描：对于这次Rust重写，我们运行了11次Claude安全扫描器。\n模糊测试：我们也在进行不同类型的模糊测试，让Claude编写模糊测试器，比如解析器模糊测试。\n在进程外进行测试，即在与编码不同的进程/会话中进行测试，是建立对代码信任的一种方式。我期待更多这样的做法。”\n新模式：将工作分发给AI\nJarred描述了他的一种新工作方式：\n“我正在使用的一种新方法是将大量工作同时分发给许多Claude。我在Bun重写中这样做了，但我也将其用于其他工作。这种方法对我来说非常有效，我觉得它被低估了。”\n由代理驱动的省时自动化更广泛\nJarred列出了Bun团队设置的一些省时自动化，以便用一个小团队运营一个活跃的开源项目，而团队则在Claude Code上工作：\n- 每当有人提交问题时，Claude会运行以尝试重现该问题。如果成功，它会启动另一个容器，然后尝试修复问题并提交PR。\n- 负责提交PR的代理必须编写一个测试，该测试在系统版本（没有补丁的版本）中失败，而在带有补丁的调试构建中通过，然后才被允许提交PR。\n- 还有其他自动化，比如如果没有测试，PR会被自动拒绝；所有linter都会运行：Claude Code审查会运行，CodeRabbit的代码审查也会运行，代理们会在GitHub拉取请求上来回互动。\n拉取请求的自动合并：即将到来？\n当所有质量门通过时，拉取请求会手动合并，但这在某个时候可能会变成自动的。一旦上述所有检查通过，所有（AI）代码审查评论都得到解决，新代码添加了测试等。有趣的是，很多GitHub活动是Claude与Claude对话！\n但在低风险情况下，手动合并可能会消失，至少对于Bun项目是这样。Jarred告诉我：\n“今天，一个人按下‘合并’，但几个月内，我预计：\n- 自动审查者LGTM\n- → 另一个具有全新上下文窗口的Claude判断它是否简单且影响范围小\n- → 如果是：自动合并！”\n用每一代模型测试假设\n在Anthropic内部，团队不断测试他们的先验假设。Thariq给出了一个有趣的例子：\n“关于代理，你必须重新审视你做出的任何假设，因为它可能随着新一代模型而改变。因此，我们最近删除了Claude Code系统提示的80%，因为模型变得更聪明了。\n使用HTML是另一个我们需要重新审视的假设。HTML是Claude比我们许多人预期的要聪明得多的东西之一。我开始更喜欢使用HTML作为输出格式而不是Markdown，并看到Claude Code团队中的其他人也在使用它。”\n\n与Markdown相比，HTML可以传达更丰富的信息，HTML文档更易于阅读和分享。”\n4. 团队层面的变化\n在Anthropic，与AI出现之前相比，工程团队的运作方式也发生了变化。",
       "annotations": [
         {
           "type": "data",
-          "quote": "Bun有535,496行Zig代码。用另一种语言重写需要一个小型工程师团队整整一年时间。",
-          "note": "关键数据：Bun代码库规模及传统重写所需时间，凸显AI重写的效率提升。"
-        }
-      ]
-    },
-    {
-      "pillar": "case",
-      "relevance_score": 85,
-      "tags": [
-        "社交媒体",
-        "大型企业",
-        "AI重组",
-        "工程组织"
-      ],
-      "structured_summary": {
-        "background": "Meta（原Facebook）作为社交媒体巨头，其工程组织正在经历由AI驱动的剧烈变革。",
-        "decision_action": "领导层以AI为核心，对工程组织进行大规模重组，包括裁员、岗位调整和流程重构，具体细节待披露。",
-        "result": "待验证：可能包括效率提升或人才流失，目前尚无明确数据。",
-        "lesson": "高管应警惕AI驱动的组织变革可能带来的短期混乱，需平衡创新速度与组织稳定性，并提前规划人才转型路径。"
-      },
-      "executive_takeaway": "AI重组需平衡创新与稳定，提前规划人才转型。",
-      "signal_strength": "high",
-      "id": "043b6b9a",
-      "feed": "pragmatic-engineer",
-      "tier": "frontier",
-      "title": "Why is Meta destroying its engineering organization?",
-      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
-      "published": "Tue, 16 Jun 2026 16:27:43 GMT",
-      "ingested_at": "2026-07-29T01:38:03.137608+00:00",
-      "content": "为什么Meta正在摧毁其工程组织？\n这家社交媒体巨头的领导层一直在其工程组织中掀起一场由AI驱动的风暴。我们报道了所发生的事情\n\n你好——我是Gergely，这是《务实工程师通讯》的一期免费内容。在每一期中，我都会从高级工程师和工程领导者的角度，报道大型科技公司和初创公司面临的挑战。订阅后，每周你都会在收件箱中收到这样的深度分析：\n\n许多订阅者将这份通讯的费用计入他们的学习和开发预算。如果你有这样的预算，这里有一封你可以发给经理的邮件。\n\n二十年来，Meta拥有独特的高绩效工程组织；直到今年4月左右。在公司成立的头20年里，它有着“快速行动，打破常规”的文化，而在2020年代初，这种文化转变为“快速行动，稳定基础设施”。我认识的工程师在公司里被赋予权力，能够做好工作，专注于影响力，并平衡商业利益与扎实的工程实践。\n\n但在过去几周里，这一切都变了，仿佛领导层一直在遵循详细的蓝图，以最无情、最高效的方式摧毁一个经过验证的成功工程文化。\n\n过去几周，我一直在分享这家社交媒体公司内部的情况有多糟糕——对于硅谷最负盛名的工作场所之一的工程师来说。在这篇文章中，我们将回顾所发生的事情，并探究领导层的想法——他们正在将软件工程从2004年到最近一直是利润中心的位置，在短短几周内变成了一个被鄙视的成本中心。\n\n我们涵盖：\n- Meta在AI之前的工程文化\n- 投资AI并迫使工程师始终使用它\n- 核心工程人员感到被当作垃圾对待\n- 有史以来最尴尬的宕机\n- 内部混乱\n- 自找的伤口\n- “AI精神病”只是Meta的问题吗？\n\n1. Meta在AI之前的工程文化\n\n我将Meta的工程文化分为两个时代：“快速行动，打破常规”，然后是“快速行动，稳定基础设施”。\n\n“快速行动，打破常规”\n\n在2010年代，Facebook非传统的工程文化在科技行业几乎成为传奇，因为该公司违背了传统的最佳实践并取得了巨大成功。\n\n2012年，当Facebook达到10亿用户里程碑时，该公司制作了一本关于其文化的小册子，放在员工的桌子上。采用复古的宣传设计，它被称为“小红书”，借用了毛泽东著名著作（1964年）的名称。\n\n这本大约70页的Facebook版本编纂了其工程文化：速度、无畏、主动性和跳出框框思考。\n\n那时，Facebook“小红书”中的口号也印在校园各处，包括：\n- 快速行动，打破常规\n- 完成比完美更好\n- 更努力地失败\n- 如果你不害怕，你会做什么？\n- 每一天都像一周\n- 莱特兄弟没有飞行员执照\n- 愚蠢的人等待\n- 命运眷顾勇敢者\n\n真正专注于打造好产品。同样来自这本书：\n\n“快速行动，稳定基础设施”文化\n\n2022年，我做了我们发表过的最长的深度分析之一，主题是Meta的工程文化。那时，情况已经演变，以前的鲁莽大部分已经消失，取而代之的是快速行动但基础设施稳定的原则。以下是我当时对Meta工程文化的描述：\n\n“这种文化极其以工程为中心：比大多数大型科技公司都要强烈。这可能是因为马克·扎克伯格本人就是工程师，或者因为Facebook早期的大部分创新都来自工程师。\n\n关注个人影响力。影响力一直是Facebook关注的核心。从早期开始就如此，对产生影响力的关注至今未变。\n\n与大多数大型科技公司的一个共同点是，工程文化和整体文化都非常关注个人影响力。这导致一些人专注于短期、可衡量的成果，并认为团队合作和团队之间的成果分享可能回报较少。\n\n缺乏严格的流程。Facebook似乎是所有大型科技公司中流程或标准化程度最低的。不要试图将其与亚马逊的工程文化和那里无数的正式流程相比。但即使与谷歌、微软或优步等公司相比，Facebook的流程也宽松得多。这主要源于公司以工程为中心的性质，以及工程师不喜欢流程。\n\n对测试、文档或代码注释的重视程度出奇地低。与其他大型科技公司相比，你会发现Facebook的自动化测试和文档少得惊人。内联代码注释也非常罕见。\n\n创始人工程师驱动的公司。Facebook是少数几家创始人是工程师且仍担任CEO的大型科技公司之一。Netflix是另一家，其联合CEO里德·哈斯廷斯在创办公司前也是一名软件工程师。亚马逊直到最近也是这样的例子，但谷歌或苹果则不是。还有一些较小的公司如Cloudflare也是很好的例子，但它们都比Facebook年轻。\n\n训练营。一个独特的入职流程，与其他任何大型科技公司提供的都不同。我们将在“训练营与入职”部分进一步介绍。\n\n此外，Facebook作为产品，拥有业界最复杂的自动发布系统之一。Instagram拥有经过实战考验的基础设施，几乎可以轻松推出一个新的社交网络（Threads），并在第一周就服务了1亿用户。\n\n我在公司内部认识的工程师们能力出众、积极主动、具有产品思维，他们的工作得到了赞赏。CEO马克·扎克伯格很有影响力：他亲自编写了Facebook的第一个版本，一直与工程保持密切联系，并且非常重视软件工程师。那里的工程师感觉自己在利润中心工作。\n\n2. 投资AI并推动工程师始终使用它\n\nMeta是苹果、微软、亚马逊、谷歌和它自己这五大巨头中唯一一家不拥有硬件平台或操作系统的公司。苹果有iPhone、iPad和Mac，谷歌有Android、ChromeOS和Pixel手机，微软有Windows，亚马逊有Kindle。\n\n退一步看，似乎今天的马克·扎克伯格已经下定决心不再错过平台机会，因为该公司在2010年代未能构建自己的移动操作系统或手机。\n\n这是通过Oculus大力投资虚拟现实（VR）以及通过Meta Glasses投资增强现实的原因之一。Facebook在2021年更名为Meta，当时VR和元宇宙看起来可能非常庞大。数十亿美元被用于确保Meta成为这一领域的市场领导者。但再一次，VR并未成为主流；自疫情结束以来，公众对该领域的兴趣已大大减弱。\n\n当2022年AI明显将成为大趋势时，扎克伯格没有错过：他组建了内部FAIR小组（基础AI研究团队）以及一个GenAI产品组织，并发布了一系列开放权重的AI模型：\n- Llama 1：于2023年2月发布，在ChatGPT之后三个月，由FAIR构建\n- Llama 2：于2023年6月发布，由GenAI产品组织构建（以及所有后续的Llama模型）\n\n- Llama 3：2024年4月发布。该模型是Meta最具竞争力的LLM，并在行业内获得了广泛采用。\n- Llama 4：2025年4月发布。该模型令人大失所望。\n同年6月，Meta以148亿美元收购了Scale AI 49%的股份，以重启其AI业务，并让Scale AI的首席执行官Alexandr Wang接管Meta的AI战略。收购中国初创公司Manus AI（20亿美元）的交易目前因中国阻止而悬而未决。\n基于对Scale AI和Wang的投资，很明显Meta和扎克伯格决心打造一款最先进的LLM，能够与最新版本的Claude和ChatGPT竞争。但Meta必须几乎从零开始，而交付成果的责任落在了Alexandr Wang身上。\nScale AI为Meta带来了非常专业的知识，它是业内最好的公司之一，擅长：\n- 训练数据和标注：Scale最初以提供用于机器学习和AI训练的高质量标注数据集而闻名，包括代码、文本、图像、视频等。\n- RLHF和微调：Scale运行一个RLHF（基于人类反馈的强化学习）流程，人们作为“人在回路中”的数据引擎为基础模型提供反馈，许多领先的AI实验室使用它来创建更好的LLM。\nWang似乎拥有非常广泛的权力，可以从事他擅长的领域：创建训练数据、进行数据标注和RLHF。这一切都是通过Meta工程团队的人力以及监控来实现的。\n问题1：追踪击键和鼠标点击，且无法选择退出。4月底，Meta告知工程师，他们将被纳入一个追踪每次击键和点击的系统，为Meta的新AI生成训练数据。无法选择退出。\n不用说，这是侵入性的，并引发了隐私问题：如果你登录个人银行账户，该工具会追踪你吗？当你写个人邮件或接听私人电话时呢？Meta没有进行任何协商，也没有变通办法；只是一个自上而下的决定被强行推行。\n本月，路透社报道称，人们的担忧终于被听到了：\n“Meta正在缩减其收集员工鼠标移动、击键和其他行为作为AI训练数据的计划的部分内容，该公司在周二的一份内部备忘录中表示，此前数周员工强烈反对。\n根据Meta AI模型构建超级智能实验室部门副总裁Stephane Kasriel撰写的备忘录，新的控制措施将允许员工每次暂停数据收集最多30分钟，并请求豁免该计划。”\n通过与现任Meta工程师的交流，我了解到由于数据保护法规，该日志系统尚未在英国推出。\n问题2：核心团队中30-50%的工程师被强制重新分配到数据标注和RLHF岗位，这更加激怒了员工。同样从4月底开始，产品工程团队接到上级指令，要求30-50%的工程师离开团队，加入ADO（代理数据优化）组织。\n“强制”重新分配在这里非常重要，因为Meta传统的工程文化。从2004年成立到去年，Meta赋予工程师自主选择工作地点和内容的权利。这是公司运作的结构性特点：\n- 工程师并非为特定团队招聘（在某些情况下，Staff+级别除外）。他们是受雇于公司。\n- 在为期6周的新兵训练营中，新员工熟悉Meta的工程文化并选择团队。\n- 团队匹配意味着与多个有编制的团队交谈，与他们进行小型工作，并找到匹配。\n\n- 内部调动很容易，而且通常由工程师主动发起\n通过训练营选择团队的做法在2024年左右开始减少，但任何在Meta工作至少两年的工程师都知道，以前他们可以选择做什么工作，当然也可以选择做最有影响力的事情。然后，突然之间，他们被分配到一个影响不明确、工作琐碎、长期做下去肯定会损害职业前景的部门。\n“数据标注”是更复杂的工作，尽管有点重复。有些标注任务，比如创建一个网站，然后查看它并判断它看起来是否良好，并给出反馈：这是“典型”的数据标注。但这是较少见的工作类型。然而，还有更复杂的AI训练任务，看起来像这样：\n- 想出一个AI应该完成的任务\n- 然后编写确认结果的测试\n- 使用Harbor框架将所有内容打包到Docker容器中\n- 然后阅读AI编写的代码——通常基于多个模型的反馈进行，并给出反馈\n这项工作并不容易做——你可以看出为什么需要优秀的软件工程师来做！——但它很快就会变得重复。我交谈过的大多数工程师都说，他们发现很难日复一日地保持动力做这项工作。不过，我也与组织内的一位工程师交谈过，他说通过改变使用的技术并挑战自己，他们发现这项工作有动力且有趣！这位工程师预计，在训练阶段过后，会有更多的软件工程工作出现。这里有一个教训：当生活给你柠檬时，你可以抱怨，也可以像这位开发者一样做柠檬水。\n这项训练工作在AI行业中是保密的，供应商为从事这类工作的开发者提供每小时100美元以上的报酬。行业内有传言称，OpenAI和Anthropic在这些训练环境（使模型擅长编码）上的花费比模型训练本身还要多！\n基础设施和安全团队受到重新分配的打击尤其严重。我与基础设施组织的几位工程师交谈过，他们团队中有30-50%的人被抽调到ADO组织。在某些情况下，离开的是最好的工程师。\n一位工程师告诉我，整个情况就像电影《饥饿游戏》，贡品被随机选中，然后从他们的环境中被带走，到一个完全不同的地方。只不过，在Meta，受影响的人更多，一个10人团队中有三到五人从构建服务数亿用户的产品，变成反复对AI生成的GitHub仓库提供人工反馈。因此，影响范围比《饥饿游戏》更广，但后果不那么严重。\nADO组织大约有6500人，比OpenAI和Anthropic还多。其中大约四到五千人是软件工程师。Meta大约有25000名工程师，这意味着每5-6名软件工程师中就有一人可能现在全职做数据标注。\n可以想象，人们积极寻找新职位，没有人会在LinkedIn或其他地方将他们的职位更新为“Meta的数据标注”。\n我与担任此角色的人交谈过，他们不喜欢做这个，并对自上而下的决策感到不满。一线希望是他们仍然有工作，保留了薪水，并且没有被裁员。他们仍有时间离开Meta，去做一份薪酬相当但不是数据标注的工作。\n3. 核心工程人员感觉被当作垃圾对待\n问题#3：长达一个月的等待游戏，在公司内部引发恐惧。4月20日，路透社报道Meta计划在一个月内裁员10%，Meta证实了这一消息，这意味着有四周的时间，每个人都知道他们可能很快失业。\n\n强制重新分配到数据标注工作开始发生。正如我当时所报道的：\n“可以理解，人们对这次重新部署[到数据标注]有复杂的感受，因为裁员即将到来。5月20日星期三，Meta将宣布裁员。也许那些被调去做数据标注的人实际上可能比产品团队的同事‘更安全’。当然，这只是猜测，但如果Meta裁掉被重新分配到数据标注的开发人员，那将是残酷的。”\n\n问题#4：Meta的绩效评估非常激进，因此开发人员优化所有指标。据我所知，与谷歌和苹果相比，Meta的内部绩效评估流程PSC（绩效总结周期）非常严格。Meta内部的经理们会为员工的薪酬包“争斗”，这包括“压低”其他团队工程师的薪酬包，以便他们的直接下属获得更高的排名。在这个过程中，利用指标作为武器很常见——无论是业务影响、代码审查数量、编写的代码行数，还是AI前的指标（请参阅我们关于编码机器原型的播客）。\n\n配额被下达给经理，用于将劳动力分配到各个“桶”中，随着经理们试图让自己的下属进入更高的桶，内部政治变得激烈。\n几年后，Meta的工程师们明白，避免获得糟糕PSC评级的最佳方法是让所有指标——影响、提交的代码和其他数字——都高于同行。了解更多关于绩效校准的内部政治。\n\n问题#5：Token数量作为绩效的一部分被衡量，因此开发人员积极优化它。当裁员确认后，工程师们还了解到经理会在绩效审查中检查Token数量。这引发了担忧，即Token数量低的人可能被标记为表现不佳者并被解雇。\n那么，作为Meta的工程师，对此的自然反应是什么？他们开始使用AI工具来生成更多的Token。这发生在Meta拥有内部Token排行榜，鼓励Token最大化的时候。正如我在4月16日所写的：\n“据The Information报道，Meta员工在30天内使用了总计60.2万亿个AI Token（！！）。如果按Anthropic的API价格收费，这将花费9亿美元。当然，Meta可能以折扣价购买Token，但这仍然可能达到1亿美元以上——很大程度上来自无意义的‘Token最大化’。”\n\n最大的问题：人们不再关心实际工作，而是专注于表演性工作。让我们看看Meta领导层决定引入工作场所的四个要素：\n- 在法律允许的情况下，跟踪所有工程师的键盘和鼠标点击\n- 将相当一部分工程师重新分配到全职数据标注\n- 让员工知道其中10%将被裁员\n- 建立一种文化，让开发人员优化PSC期间衡量的所有指标\n- 将Token使用量作为PSC的一部分进行衡量\n\n充分混合这些要素，你会得到什么？两件事：\n- 每个人都过度使用AI来提升个人数据。一个尽可能多地使用AI、尽可能少地投入人力的假装工作的工程团队。这是一种奇怪的激励：因未能正确审查代码而导致故障不会成为解雇的理由，但手动编写代码——而不是让AI代理编写——可能会让你丢掉工作\n- 每个任职时间较长的工程师都在寻找新工作，或者至少正在考虑。那些在Meta待得久的人已经受够了。让我用视觉来描述：\n\n最新数据似乎证实，从5月开始，Meta有更多工程师在寻找“出路”。以下是过去一年半中，Meta工程师注册领先的科技巨头面试准备服务interviewing.io的变化情况：我们可以看到5月份相比去年同期有大幅增长，正如创始人兼CEO Aliner Lerner与我们分享的那样：\n\n（我们在《2026年软件工程就业市场深度剖析》中涵盖了来自interviewing.io和其他有趣数据源的更多数据）\n值得肯定的是，Meta向剩余团队中几位被视为关键的工程师发放了丰厚的留任股权包。这些股权包使得在其他地方获得匹配薪酬变得更加困难。尽管如此，我与一位获得股权增补的工程师交谈过，他表示这种方法帮助他决定尽快离开，因为他对缺乏自主权和对事情失去控制感到不满。\n4. 史上最尴尬的宕机\nMeta的核心基础设施和安全团队突然发现自己严重人手不足。大多数人都在推动AI生成的代码，并仅通过AI审查合并，而不太关注质量。毕竟，他们面临着失业的可能性，同时还要在团队最优秀的工程师（其人数已减半）缺席的情况下奋力运营，并且知道AI的使用可能会影响他们自己的工作保障。\n两周前，即5月30日，Meta历史上最尴尬的宕机发生了。以下是软件工程师Siddharth Sundharam的总结（强调为我所加）：\n“昨天，一系列Instagram账户，包括一些高知名度的账户，如奥巴马白宫账户，似乎被黑客入侵了。\n听着，我不是新手。我已经花了近十五年时间在独角兽规模的公司中识别漏洞和利用，但这绝对是其中最不严肃、‘几乎愚蠢到难以置信’的一个。\n接管流程：\n步骤01：伪造位置并启动支持。攻击者要启动这一切只需要你的账户用户名。然后，他们通过VPN或代理连接到你的城市附近，这样Instagram的安全算法就不会怀疑。（你可以很容易地从你的公开资料或“关于”部分或其他一百种方式获得这些信息。）一旦请求看起来来自正确的区域，他们就告诉Meta支持AI账户被黑了，并要求将验证码发送到他们控制的任意电子邮件地址。\n步骤02：就这样。真的，就这样。\n这是我见过的生产环境中第一个真正的零认证密码重置。似乎没有额外检查所提供的电子邮件是否是用户以前使用过的。一旦AI将安全代码发送到攻击者的电子邮件，攻击者就将其传回以完成验证。平台会提供一个全新的密码重置链接，将完全所有权授予攻击者。”\n这是一个安全漏洞，Meta将其额外安全、加固的前门解锁，以至于任何人都可以进来，而且发生时没有任何警报通知任何人！似乎Meta只有在用户开始在社交媒体上报告时才注意到！\n通过与Meta内部人员交谈，我了解到AI是这次宕机的核心。AI生成、AI审查的代码，以及安全团队被削弱，共同导致了这一极其尴尬的事件。我四处打听，以下是收集到的信息：\n- Instagram的信任与安全团队因数据标注和裁员损失了约50%的员工。一些最资深的人员被抽调去从事AI训练任务。\n- 在过去两个月里，AI生成的变更（没有人工输入，只有另一个AI代码审查）在整个代码库中非常普遍。导致这次宕机的变更看起来就是其中之一。\n- 通常情况下，信任与安全团队会负责监控和警报安全漏洞，但目前由于内部快速重组而完全混乱。\nMeta的首席安全官在第二天就辞职了。宕机于6月1日星期一得到解决，并作为SEV流程的一部分展开了调查。周二，Meta的首席信息与安全官（CISO）Guy Rosen宣布离职。\n\n巧合？我怀疑不是：如果CISO曾警告过安全部门被削弱但被忽视，那么他们可能已经辞职，因此不再信任领导层。我还猜想，CISO并没有想到将Instagram安全团队的一半人员转移到数据标注上。\n\n作为说明，此前最严重的宕机是2021年Meta所有服务中断七小时，原因是DNS/BGP配置问题。那是一次严重的宕机，但在我看来，Meta后续处理得很好。2021年那次宕机后，Meta发布了事后分析报告并道歉。但对于最近的Instagram账户接管宕机，Meta并未这样做。\n\n5. 内部混乱\n《连线》分享了更多关于Meta内部目前情况有多糟糕的细节：\n“本周早些时候，在Meta一场仅限员工参加的直播演示中，有人用脏话爆发，抱怨‘成为公司的奴隶’，据《连线》听到的录音显示。此人随后要求会议主持人写信给某位特定的Meta AI高管，并‘告诉他，他是个废物’。”\n\n这一事件发生在向数千名员工开放的会议上，反映了公司内部Applied AI团队日益增长的不满情绪。该团队成立于今年3月，旨在支持Meta超级智能实验室的AI研究人员的工作。三名现任员工告诉《连线》，对于Meta如何组建这个约6500名工程师和产品经理的团队，以及他们声称被分配去改进AI模型的苦差事，存在广泛的不满。\n\n“这简直就是古拉格，”其中一名员工声称。“你突然之间在生活中毫无目标，几乎不与任何人互动，每周只有这些任务。”\n\n还有更多：据报道，Meta首席产品官克里斯·考克斯向员工承认，Meta的高层领导（他之上的那些人，即Meta的C级高管）造成了混乱。同样来自《连线》：\n\n在本周一次对所有Instagram员工开放的会议上，Meta首席产品官克里斯·考克斯谈到了过去几个月“这家公司的疯狂”所造成的“艰难”和“残酷”环境，据《连线》听到的录音显示。考克斯赞扬Instagram员工在“在冰雹中跑马拉松，然后你的队友被替换，我们还在录你”的情况下推出功能并为约20亿用户服务。\n\n“这他妈的是怎么回事，”他说，引来笑声，然后重复了一遍。“这他妈的是怎么回事。”\n\n6. 自找的伤口\n那么，正如CPO克里斯·考克斯所说，这家公司的“疯狂”的最终根源是什么？与我交谈过的工程师将矛头指向两个人：马克·扎克伯格和亚历山大·王。扎克伯格完全控制着业务，并做出了将相当一部分工程人员重新分配到数据标注、推出跟踪软件以及在Meta实现创纪录收入和利润时裁员10%的决定。作为CEO，责任显然在他身上。\n\n但很难忽视的是——除了裁员之外——Meta所做的一切都来自Scale AI的剧本，而这肯定来自王：\n- 强制记录击键和鼠标移动以生成训练数据\n- 强制4500多名工程师进行数据标注以生成高质量的RLHF，肯定是为了Meta正在构建的编码LLM\n- 从业务核心抽调最优秀的工程师，这肯定得到了马克·扎克伯格的批准，他认为训练一个编码AI比可靠地运营Instagram、Facebook或Messenger等核心业务更重要。哦，我有没有提到周六（6月12日）Facebook和Instagram又发生了一次SEV0，即全面宕机？\n\n在这一切发生之前，Meta 本有望在年底超越谷歌，成为全球第一大广告业务公司。但出于某种原因，马克·扎克伯格决定构建一个编码 LLM 更为重要。\nMeta 的领导层现在正试图弥补他们造成的所有损害。《连线》报道称，Meta 首席技术官安德鲁·博斯沃思向员工承认，AI 重组非常糟糕，并承诺未来会加强沟通。\n在我看来，很明显扎克伯格并不关心工程师对巨大变革的感受，而博斯沃思可能忽视了混乱，与此同时工程师们深知下一个 AI 模型比他们自身对业务更重要。博斯沃思还表示，员工将可以使用 AI 辅导工具。考虑到这种情况，真是体贴！\n根据我所了解的一切，Meta 的工程文化已经消亡，因为领导层明确表示，公司的工程部门是一个成本中心。\n不用说，我希望我的评估大错特错，但我从马克·扎克伯格和亚历山大·王——这两位制造当前混乱的高管——身上还没有看到任何迹象表明情况会好转。可能有一个短暂的时期，如果数据标注任务和员工追踪等重大变革被撤销，那么 Meta 的情况可能会恢复正常。当前状况持续得越久，就会有越多的资深工程师离开。\n7. “AI 精神病”只是 Meta 的问题吗？\n看到 Meta 的一位技术创始人如此专注于 AI，以至于忽视了那些构建公司核心的工程师，这令人痛心。但 Meta 是特例吗？\nMitchell Hashimoto（Ghostty 的创建者，HashiCorp 的创始人）表示，他观察到其他创始人也表现出类似的行为（强调为我所加）：\n“我坚信，目前有些公司正深受‘AI 精神病’的困扰，与他们进行理性讨论是不可能的。我不能点名具体的人，因为他们包括我深为敬重的私人朋友，但我担心这最终会如何发展。\n我经历过向云和云自动化过渡期间基础设施领域关于 MTBF 与 MTTR（平均故障间隔时间与平均恢复时间）的大争论。所有这些争论现在又卷土重来，但这次涉及的是……整个软件开发行业（也许实际上是整个世界）。\n这很可怕，因为‘精神病患者’几乎完全秉持‘MTTR 就是一切’的心态：‘发布 bug 没问题，因为智能体可以快速修复，而且规模是人类无法做到的！’我们在基础设施领域学到的是，MTTR 很好，但你不能完全抛弃弹性系统。\n主要问题是我甚至不知道如何向认识的人提起这件事，因为提起这个话题会立即被驳回，比如‘不，不，它有完整的测试覆盖’，或者‘错误报告正在减少’之类的，但这些并不能反映全貌。\n我们在基础设施领域已经吸取过一次教训：你可以通过自动化把自己变成一个非常有弹性的灾难机器。系统可能在局部指标上看起来很健康，但在全局上变得难以理解。错误报告可能减少，而潜在风险却在激增。测试覆盖率可能上升，而语义理解却在下降。变化发生得太快，以至于没有人注意到底层架构正在退化。\n我很担心。”\nInstagram 的接管中断事件正是如此：工程团队降低了 AI 生成和 AI 审查代码的质量标准，可能期望他们能够快速从故障中恢复。他们确实恢复了……但在损害造成之后，高调的 Instagram 账户被黑客入侵，系统被攻破，这一切都非常公开。\nMitchell 特别指出了创始人高估 AI 能力的问题，从而在将代码发布到生产环境时抛弃了合理的防护措施。\n\n要点\n我们大多数人可能都能从Meta因过度聚焦AI而忽视作为公司命脉的员工所导致的灾难性事件中吸取教训。好消息是，我听说在英国，10%的裁员中有一部分突然被取消了：在强制协商期结束时，几个基础设施和安全团队得知，他们团队中不会有工程师像最初预期的那样被解雇。\nMeta业务蓬勃发展，并通过广告收入增长已成为AI的受益者。与此同时，我的Facebook信息流中充斥着AI生成的虚假视频，下面有数百条来自机器人和似乎未意识到这是AI的用户的评论。这一切似乎只是Meta在旁边展示广告的更多内容。\n然而，尽管业务蒸蒸日上，Meta的领导层却发起了一场对其工程组织造成尽可能大损害的运动。显然，他们现在意识到这大部分都是毫无意义的。\n如果你处于领导职位，并且因AI相关原因而倾向于进行剧烈的组织变革，请深呼吸，看看Meta的结局。同时，如果你是一家领导层过度关注AI的公司的工程师，考虑转发这篇文章作为额外背景。\n如果你正在招聘那些非常精通AI的杰出工程师，那么现在从Meta获取人才比以往任何时候都容易。我认识的Meta的每一位工程师都是AI的极早期采用者，并且知道如何构建产品和AI基础设施。这些人已经对公司及其领导层感到失望。Meta的人才流失将成为其他初创公司和大型科技公司的收获；这是AI带来的一个可能有点意想不到的好处——尤其是对Meta而言！\n似乎“快速行动，打破常规”的旧口号现在已延伸到Meta的工程组织本身，公司急于过度投资AI，以避免错过科技行业的最新大趋势。",
-      "annotations": [
-        {
-          "type": "data",
-          "quote": "Meta员工在30天内使用了总计60.2万亿个AI Token（！！）。如果按Anthropic的API价格收费，这将花费9亿美元。",
-          "note": "显示AI Token使用量巨大，反映工程师为绩效指标而过度使用AI，导致成本激增。"
-        },
-        {
-          "type": "data",
-          "quote": "ADO组织大约有6500人，比OpenAI和Anthropic还多。其中大约四到五千人是软件工程师。Meta大约有25000名工程师，这意味着每5-6名软件工程师中就有一人可能现在全职做数据标注。",
-          "note": "揭示Meta将大量工程师重新分配到数据标注岗位，比例惊人，影响核心工程能力。"
+          "quote": "Bun有535,496行Zig代码。用另一种语言重写需要一个小型工程师团队整整一年的时间。",
+          "note": "关键数据：Bun代码库规模及重写所需时间，凸显AI加速重写的巨大潜力。"
         },
         {
           "type": "decision",
-          "quote": "4月底，Meta告知工程师，他们将被纳入一个追踪每次击键和点击的系统，为Meta的新AI生成训练数据。无法选择退出。",
-          "note": "Meta强制追踪员工行为以收集AI训练数据，引发隐私和信任问题。"
-        },
-        {
-          "type": "decision",
-          "quote": "产品工程团队接到上级指令，要求30-50%的工程师离开团队，加入ADO（代理数据优化）组织。",
-          "note": "Meta强制重新分配大量工程师到数据标注岗位，削弱核心产品团队。"
+          "quote": "我们最近删除了Claude Code系统提示的80%，因为模型变得更聪明了。",
+          "note": "关键决策：根据模型能力提升精简系统提示，体现持续优化和适应新模型的决策。"
         },
         {
           "type": "insight",
-          "quote": "如果你处于领导职位，并且因AI相关原因而倾向于进行剧烈的组织变革，请深呼吸，看看Meta的结局。",
-          "note": "提醒高管在AI驱动的组织变革中需谨慎，避免重蹈Meta的覆辙。"
+          "quote": "我们看到很少的token花在实际实现上。大部分花在发现未知、原型制作、模拟，然后是验证和测试上。",
+          "note": "关键观点：AI时代开发重心从实现转向验证和测试，高管应重新分配资源。"
         }
       ]
     },
@@ -784,51 +847,71 @@
       "relevance_score": 85,
       "tags": [
         "科技行业",
-        "大型企业",
-        "AI人才竞争",
-        "岗位结构变化"
+        "招聘市场",
+        "AI岗位",
+        "工程领导者"
       ],
       "structured_summary": {
-        "background": "2026年软件工程就业市场深度分析，数据来源于独家调研。",
-        "decision_action": "对比AI实验室与大型科技公司的吸引力，分析原生移动和前端岗位的下降趋势，以及管理层级扁平化现象。",
-        "result": "AI实验室比大型科技公司更具吸引力；原生移动和前端岗位需求下降；管理层级出现'大扁平化'。",
-        "lesson": "高管应关注AI人才争夺战，调整招聘策略，优先投资AI相关岗位，同时重新评估传统技术岗位的配置，并考虑组织结构扁平化以提高效率。"
+        "background": "2026年科技就业市场出现结构性错配，基于50多位招聘经理和求职者的详细反馈。",
+        "decision_action": "招聘经理和求职者双方在AI相关岗位上面临匹配困难，工程领导职位竞争激烈。",
+        "result": "市场呈现'无人找到彼此'的现象，AI岗位需求旺盛但供给不足，工程领导岗位求职困难。",
+        "lesson": "高管应重新设计招聘策略，利用AI工具优化匹配，并关注工程领导者的保留与发展。"
       },
-      "executive_takeaway": "AI实验室吸引力超越大厂，传统技术岗位萎缩，组织需加速扁平化。",
+      "executive_takeaway": "AI岗位供需错配，招聘策略需重构，工程领导力成稀缺资源。",
       "signal_strength": "medium",
-      "id": "2dbd0b4b",
+      "id": "7d78d8ba",
       "feed": "pragmatic-engineer",
       "tier": "frontier",
-      "title": "State of the software engineering job market in 2026, part 2",
-      "link": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
-      "published": "Tue, 09 Jun 2026 16:35:53 GMT",
-      "ingested_at": "2026-07-29T01:38:41.001933+00:00",
-      "content": "2026年软件工程就业市场状况，第二部分\n深入探讨科技就业市场，独家数据显示AI实验室比大型科技公司更具吸引力，原生移动和前端岗位正在减少，管理层的“大扁平化”等\n当今就业市场发生了什么？我们在两周前发布的关于2026年科技就业市场的第一部分之后，在本第二部分深入探讨科技就业市场时试图回答这个大问题。\n首先，非常感谢合作伙伴团队为本深度分析分享独家细节：\n- Interviewing.io：来自顶级公司的工程师匿名模拟面试。感谢创始人兼CEO Aline Lerner。\n- Workforce.ai，由Live Data Technologies构建，每月监控超过100万次职位变动和3亿次就业验证，涵盖公司、职位、级别、职能、行业和地点。特别感谢Alex Hamilton的贡献。\n- SignalFire：一家拥有杰出数据分析团队的风险投资公司。通常，他们的数据用于为其投资组合公司提供重大商业优势，但他们破例为本文分享了一些数据。特别感谢Asher Bantock。\n- TrueUp：一个扫描大型科技公司、顶级初创公司和规模化公司所有空缺职位的平台，这些职位通常支付三峰软件工程薪酬模型中前两个层级的薪资。感谢Amit Taylor。\n今天，我们涵盖：\n- 顶级AI实验室现在比大型科技公司更具吸引力。Anthropic在求职者中需求最高，用于面试准备服务。与OpenAI一起，它几乎肯定是科技领域竞争最激烈的地方。\n- 新毕业生和实习生更难找到工作。数据显示，即使软件工程招聘正在复苏，实习生招聘人数也在下降。大型科技公司招收的实习生数量是以前的一半，候选人的工作和教育背景比以往任何时候都更重要。\n- 移动和前端需求下降，AI和FDE需求激增。前端工程师职位在整个行业中消失最快，其次是原生iOS和Android职位。\n- AI工程薪酬 > 软件工程薪酬。AI工程师比软件工程师更受欢迎，获得更高的薪酬报价，尤其是在股权方面。在美国第80百分位，高级工程师30万美元以上的基本工资现在是常态。\n- 管理层的“大扁平化”仍在继续。整个行业中每位工程师对应的工程经理数量减少，大型科技公司的工程副总裁和工程总监职位减少。\n- 大型科技公司的资历和任期持续上升。自2023年零利率结束以来，似乎吸引大型科技公司员工跳槽的方式减少了，因此他们留在原地。\n- 面试准备注册：它们表明了什么？进行大规模裁员的公司往往看到开发者注册练习面试的最大激增。列出了工程师准备去其他地方面试的前20家公司。\n- 工程师离开大型科技公司后去哪里。从亚马逊，他们几乎去任何地方。从谷歌、苹果和Meta，他们主要去AI实验室。微软是前员工接下来为自己工作成为自己老板最多的公司。\n提醒一下，在第一部分中，我们涵盖了：\n- 软件工程招聘：总体呈上升趋势\n- 大型科技公司和上市公司\n- 谁在招聘最多的软件工程师？\n- AI工程：爆炸性需求\n- 谁在招聘最多的AI工程师？\n- AI工程是否正在取代软件工程招聘？\n请参见第三部分，了解招聘经理和求职者的故事，涵盖：\n- “第22条军规”：没人能找到彼此\n- 没有信任。是AI的错吗？\n- 对一些人来说是热门市场，但对大多数人来说很艰难\n\n- 更高的招聘门槛和更低的薪酬——但并非对所有人如此\n- 工程领导招聘：对高级独立贡献者同样奇怪\n- 美国市场趋势\n- 英国、欧盟及世界其他地区的趋势\n\n让我们来看最新数据：\n\n1. 顶级AI实验室现在比大型科技公司更具吸引力\n\n在本系列的第一部分中，我们介绍了AI工程需求的爆炸式增长：\n在过去一年中，顶级公司的AI工程职位空缺增加了60%，而同一批公司的软件工程职位空缺仅增长了7%。我们还发现，大型科技公司正在大幅增加AI工程人员编制：\n\nAnthropic：需求最高\n\n新数据表明，两大AI实验室吸引了最多的候选人申请其AI工程职位，这在意料之中。\n\nInterviewing.io 是一家求职面试准备服务公司，为准备特定公司面试的客户提供辅导。根据客户提及的次数，Anthropic 是大多数候选人通过付费辅导准备的公司，而且差距明显：\n\n值得注意的是，OpenAI（占候选人的16%）与谷歌（17%）和其他大型科技公司（17%）的份额大致相同。Anthropic 和 OpenAI 合计占 interviewing.io 辅导请求的51%。需要说明的是，interviewing.io 今年才增加了对前沿实验室的辅导！\n\n对 Anthropic 兴趣激增的几个可能原因：\n- OpenAI 取代 Anthropic 成为美国新型“战争部”的AI供应商。3月初，美国政府有争议地宣布 Anthropic 为“供应链风险”，并指定 OpenAI 为其AI供应商，此前 Anthropic 对AI未来在大规模监控和全自主武器中的使用表示担忧。这引发了人们对 OpenAI 同意跨越“红线”的怀疑。\n- Anthropic 的市场主导地位持续。根据我们2月份的AI工具调查，Claude Code 是最受欢迎的开发者工具。似乎情况变化不大。\n- Anthropic 的估值超过 OpenAI。3月，Anthropic 以9650亿美元的估值完成了650亿美元的融资，首次使其估值超过 OpenAI。\n- Anthropic 率先申请上市。上周，Anthropic 提交了上市申请，比一周后提交的 OpenAI 更早。\n\nAnthropic 还在5月招募了最受欢迎的AI研究员 Andrej Karpathy。我的感觉是，在这两个实验室中，Anthropic 目前势头更猛，并且可能因其看似有原则的立场而获得了“光环效应”。它吸引更多候选人并不奇怪。\n\nAI实验室从哪里招聘？\n\n我们调查了三个最受欢迎的AI实验室（Anthropic、OpenAI 和 Google DeepMind）的招聘来源。以下是我们的发现：\n\nAnthropic 的招聘来源，按受欢迎程度排序：\n- Google（通常是 Google DeepMind）\n- Meta\n- Stripe\n- Microsoft\n- Amazon（AWS）\n- Databricks\n\nOpenAI：\n- Google\n- Meta\n- Apple\n- Stripe\n- Statsig（OpenAI 收购 Statsig 后）\n- Microsoft\n- Amazon（主要是 AWS）\n- Databricks\n- Airbnb\n- NVIDIA\n\nGoogle DeepMind：\n- 内部调动\n- Meta\n- Microsoft\n- Amazon\n- Windsurf\n\nAnthropic 在所有AI实验室中拥有最高的员工留存率。SignalFire 的数据发现，2年留存率（工作满2年的员工比例）为：\n- OpenAI：67%。与大型科技公司其他公司一致。\n- Google DeepMind：78%。远高于大型科技公司其他公司。\n- Anthropic：80%。全行业突出！\n\n与 SignalFire 2025年的发现一致，OpenAI 的2年留存率为67%（FAANG水平），而 Anthropic 为80%，DeepMind 为78%。\n\n2. 毕业生和实习生更难找到工作\n\n众所周知，早期职业工程师越来越难被录用，新数据也强调了这一点。\n\n自2022年以来实习生招聘人数下降\n\nLive Data Technologies 研究了美国30-80家科技公司的软件工程师与工程实习生招聘趋势，以2019年的招聘数据为基准（100%代表该年度的总招聘人数）。范围较广是因为Live Data Technologies从其数据库中选择符合“大型上市科技公司”标准的前几十家公司。\n\n研究结果：\n\n聚焦实习生招聘，以下是其占所有入职人数百分比的图示：\n\nLive Data Technologies的分析师Alex Hamilton表示：\n\n“我们看到自2023年市场艰难以来，整体软件工程招聘开始回升。然而，实习生招聘却持续下降，这并不符合通常的预期。\n\n历史上，一旦公司重新开始招聘，实习生项目往往会迅速反弹。但这次没有发生，2024年和2025年是该系列数据中两条线首次朝相反方向移动。\n\n当你看到某些公司保持实习生招聘稳定或增长时，这几乎总是反映了它们自身的业务状况，比如处于早期阶段或增长较快的公司，而非任何广泛的市场复苏。”\n\n应届生岗位呈下降趋势\n\n根据传闻，我们听说应届毕业生仍然很难找到职位。我们对美国主要科技公司的最新招聘数据证实了这一点：\n\n此数据中的“应届生”是指毕业不到一年就获得软件工程师职位的软件工程师。2025年，大型公司中只有十分之一的工程招聘是应届毕业生，低于2023年的近十分之三。\n\n对于应届生，名校背景更重要\n\n我们仔细研究了应届软件工程师加入美国科技公司的来源，发现来自“精英”大学的成功候选人比例正在增长：\n\n所谓“精英”大学，是指美国计算机科学排名前20的大学，例如麻省理工学院、斯坦福大学、卡内基梅隆大学、加州大学伯克利分校、哈佛大学、加州理工学院、佐治亚理工学院和康奈尔大学。\n\n显然，这些学校的声誉影响并非新鲜事，毕竟这正是它们成为“精英”大学的原因。但随着科技行业应届生招聘减少，即使是这些大学的毕业生也可以预期机会比以前更少。\n\n即便如此，随着就业市场紧缩，毕业于知名大学或在知名公司实习所带来的背景优势变得更加重要。\n\n3. 移动端和前端需求下降，AI和FDE激增\n\n以下有趣数据显示了LinkedIn等网站上职位名称随时间的变化趋势：\n\n一些要点：\n- AI工程非常火爆。这并不令人惊讶，并在我们的研究中显而易见。\n- 前向部署工程师（FDE）正在快速增长。我们报道了2025年对FDE的突然需求，而今年我们看到FDE角色再次升温。\n- 销售工程师略有增加：销售工程师帮助完成大型B2B交易，常见于面向企业销售的公司。这一职位的普及表明更多公司瞄准企业级客户。此外，我的感觉是FDE可以像销售工程师一样运作。\n- 原生移动工程师减少。2022年，我观察到对原生iOS和Android工程师的需求下降。如今跨平台框架能力更强，可能导致更少的公司投资原生应用，以及对该领域整体需求的下降。原生移动开发的“黄金时代”是否已经结束？过去一个产品有独立的原生iOS、原生Android和Web团队，现在呢？\n- 纯前端工程师正在消失。这是数据中最有趣的趋势之一。我观察到全栈工程师在许多地方成为常态，他们既能做前端也能做后端开发。尤其是在AI的帮助下，一个熟练的前端工程师没有理由不能同时做后端工作，因此，我预计“纯”前端工程师将只受雇于大型公司，这些公司存在构建设计系统等需求。我们在深度探讨《软件工程师的设计系统》中对此话题有更多介绍。\n\n4. AI工程薪酬 > 软件工程薪酬\n\n科技行业一个公开的秘密是，尽管软件工程在大厂和顶级初创公司的薪酬非常优厚，但同样岗位的AI工程薪酬更高——在领先的AI实验室甚至更优：",
+      "title": "Tech jobs market in 2026, part 3: hiring managers & job seekers",
+      "link": "https://newsletter.pragmaticengineer.com/p/tech-jobs-market-in-2026-part-3-hiring",
+      "published": "Tue, 07 Jul 2026 17:25:41 GMT",
+      "ingested_at": "2026-08-02T01:56:47.065000+00:00",
+      "content": "2026年科技就业市场，第三部分：招聘经理与求职者\n一个谁也找不到谁的市场，AI相关职位最热门，对工程领导者来说却很艰难，等等。基于50多位招聘经理和求职者的详细反馈\n对于求职者和招聘经理来说，当前的科技就业市场是怎样的？这是一个宽泛的问题，一个答案是这是一个充满对比和困惑的地方，也有一些误解。经验丰富的工程师和经理感觉被雇主和招聘人员忽视，而招聘人员则因为收件箱里满是AI生成的垃圾邮件（有时来自虚假候选人）而放弃了接收主动投递的简历。对于拥有特定技能、需求旺盛的人来说，情况要好一些——而人脉网络在找到合适工作方面比以往任何时候都更有帮助。\n这是我们关于2026年上半年科技招聘市场系列文章的最后一篇，我采访了50多位招聘经理、软件工程师和工程领导者。感谢所有做出贡献的人！\n关于这个主题的更多内容，请查看我们本系列第一部分和第二部分的的数据分析。\n总的来说，用“奇怪”来形容当前许多人经历的就业市场是恰当的。这个特征在数据中不容易看到，但从与人们的交谈以及他们今年求职的个人轶事中可以清楚地看出。我认为本系列前两篇文章中的数据未能捕捉到事情有多么不寻常。因此，在今天的问题中，我们试图揭示这种奇怪现象，涵盖：\n- “第二十二条军规”：谁也找不到谁。招聘经理努力寻找经验丰富的人，而这些人申请工作时却几乎得不到任何回复。这是怎么回事？\n- 缺乏信任。是AI的错吗？AI增强的简历看起来令人难以置信，但招聘经理往往面临失望。因此，有些地方干脆不阅读主动投递的简历。\n- 对某些人来说是热门市场，但对大多数人来说却很艰难。对于从事AI工程、机器学习或FDE的人来说，市场非常好。对于其他人来说，情况就差多了。\n- 更高的招聘门槛和更低的薪酬——但并非对所有人。许多候选人对多年来最低的报价感到不满。然而，这不适用于AI工程职位或AI公司的职位。\n- 工程领导者招聘：对高级IC来说也很奇怪。高级工程领导者很难找到机会，或者可能会拒绝机会，转而选择兼职角色或创办自己的初创公司。\n- 美国市场趋势。经历“有史以来最好市场”的人可能在美国，那里的人才短缺问题比其他地方更严重。\n- 英国、欧盟和世界其他地区的趋势。“幽灵”现象比美国更普遍，“虚假申请人”问题更大，远程职位正在消失，等等。\n有关招聘市场的更多详细信息，另请参阅：\n- 软件工程招聘：总体呈上升趋势\n- 大型科技公司和上市公司\n- 谁在招聘最多的软件工程师？\n- AI工程：爆炸性需求\n- 谁在招聘最多的AI工程师？\n- AI工程是否正在取代软件工程招聘？\n- 顶级AI实验室现在比大型科技公司更具吸引力\n- 新毕业生和实习生更难找到工作\n- 移动和前端需求下降，AI和FDE激增\n- AI工程薪酬>软件工程薪酬\n- 管理层的“大扁平化”仍在继续\n- 大型科技公司的资历和任期持续上升\n- 面试准备报名：它们说明了什么？\n- 工程师离开大型科技公司后去哪里\n1. “第二十二条军规”：谁也找不到谁\n“第二十二条军规”这个短语指的是一个自相矛盾的问题，其解决方案被问题本身所阻碍。这个术语源自一部著名的二战同名小说，它也相当准确地描述了我今天在科技就业市场上看到的情况。招聘经理说，高技能人才（通常是高级以上工程师）无法被招聘到，与此同时，经验丰富、经过验证的专业人士发现他们的申请被雇主忽视。\n\n这里看似矛盾的是，这两者如何能同时成立。就好像招聘者和潜在候选人没有在听对方说话。当然，其中有一些细微差别：\n\nDuckBill Group的首席执行官Mike Julian正在招聘软件工程师，他回复了我的帖子，并发表了这样的观察：\n\n“我们每天收到大约1000份主动投递的简历，其中可能只有两份与职位发布相关。\n我基本上不再认真看待主动投递的简历，因为质量太差了。如果有一份优秀的主动投递简历进来，我几乎肯定会错过。\n我们最近所有的招聘都是通过人脉网络以及我们在LinkedIn上主动联系的人完成的。我们进行外联时最大的障碍是薄弱的LinkedIn个人资料和很少的其他在线存在。”\n\n从我们交谈过的其他招聘经理那里，出现了更多主题：\n\n主动投递比以往更多，噪音也更多\n\n“我从未见过这么多主动投递和强大的简历。我正在招聘许多职位；对于西雅图的一个软件工程职位，我们在三个月内收到了800份主动投递的简历。我从未见过这样的情况！这些简历的质量并不低：他们是在微软、亚马逊网络服务、其他大型科技公司工作过的人，并且拥有扎实的技能。”——美国西雅图一家B轮初创公司的工程主管\n\n“在所有的噪音中很难找到好的候选人。有两个高级工程师职位已经空缺了几个月，我们进行过的唯一好的面试或发出的录用通知都是通过人脉网络来的。”——美国一家后期初创公司的工程经理\n\n“大量严重不合格的人完全淹没了你的招聘管道。这就是我所看到的，它使得主动投递成为一个无用的渠道。”——美国大型科技公司的工程总监\n\n“从我听到的招聘人员的话来看，每个发布的职位都有1000多名申请者，其中98%被认为不合格。”——中东的全栈工程师\n\n“我们是一家小公司，放弃了主动投递招聘。我们收到了太多AI申请。与过去的经验相比，信噪比低得多。”——加拿大的工程总监\n\n有经验的工程师难以获得面试机会\n\n“即使你很优秀，感觉也有大量的噪音需要穿透才能被注意到。我正在悄悄寻找开发工具领域的新职位，并且完全符合‘产品工程师’的形象。我觉得对优秀人才的需求比以往任何时候都高，但我不知道自己在那个标准上处于什么位置。”——美国种子阶段初创公司的技术负责人\n\n“作为一名有经验的工程师和还算成功的创始人，在这个就业市场上我还没有进入过电话筛选阶段。显然有些不对劲，只是一堵噪音墙阻止任何信号通过。”——美国软件工程师兼创始人，8年经验\n\n美国一家后期初创公司的一名高级工程师总结道：\n\n“感觉每个有好工作的人都紧紧抓住不放，而那些正是我们想要招聘的人。”\n\n“双城记”：需求旺盛与否\n\n美国一家大型科技公司的工程总监指出了市场上的两个不同群体：\n\n“如果你处于巅峰状态，有AI经验，并且足够资深，你可以随心所欲。如果不是，那么就业市场就很艰难！这个就业市场就像这两个截然不同的城市的双城记。”\n\n一些求职者的观察也印证了这一点：对“AI相关”工程师（构建AI系统的人）的需求感觉很强劲，尤其是在美国。拥有强大网络的杰出工程师仍然需求旺盛，我们在《如何成为10倍工程师》中报道了这样一位杰出开发者的故事。对于其他人来说，获得面试机会是一场斗争！\n\n推荐：比以往更重要？\n\n几位目前正在求职的有经验的工程师表示，只有当他们亲自认识某家公司的人时，他们才能获得面试机会：\n\n“大公司必须要有一些严肃的AI来筛选简历，因为他们收到的简历太多了。事实上，除非你认识能为你担保的人，否则你的简历根本不会被看到。”——美国大型科技公司技术项目经理\n“内推是生命线。通过冷申请不可能获得Staff或Principal工程师职位的面试。我通过冷申请得到的面试机会只有高级职位。”——美国，10年经验的首席工程师\n来自几位招聘经理的观点：\n“我们发出的面试邀请或录用通知，只发给了已经在我们的社交网络中的开发者。”——美国中型公司软件架构师\n“我通过社交网络中的一个人，创纪录地填补了一个工程经理职位。如果不是因为我的社交网络，我可能得花几个月时间才能找到合适的人。”——德国，私募股权资助公司工程副总裁\n2. 缺乏信任。AI是罪魁祸首吗？\n招聘经理反复告诉我们，他们不再相信简历上的内容，甚至有些候选人被证明是假的。\n精美的简历，平庸的候选人\n招聘经理普遍抱怨，简历被AI高度优化，但候选人实际上并不具备他们声称的经验：\n“简历质量很高，但简历背后的人却不是。几乎每份简历都令人印象深刻。然而，对话的质量完全不匹配。\n最近的一个例子：我面试了一位高级候选人，他在一家美国云咨询公司工作了五年，最近担任架构师。我问他项目中使用了哪些架构原则或模式。他的回答是：‘每日站会、冲刺计划和回顾。’我澄清说，我指的是技术角度，而不是流程角度。他自信地回答：‘是的，每日站会、冲刺计划和回顾。’”——德国柏林大型公司工程经理\n“十年前，我们会欣赏针对特定职位定制的简历，现在只是用AI草率地拼凑起来。”——加拿大中型公司工程经理\n据英国一位工程主管称，AI关键词填充现象猖獗：\n“很多人将自己重新包装为高级AI工程师，并要求更高的薪水。他们的简历现在充斥着大量AI相关关键词，如RAG、评估、推理……但深入挖掘后，实质内容很少。他们中的许多人要求高级职位的薪水（9万至14万英镑），而他们几乎只展示了中级技能。”\n几位招聘经理告诉我们，求职信几乎已经死了。原因是它们总是由AI生成，读起来无聊，而且毫无意义。18个多月前，我们报道了AI如何让求职信变得多余，见《GenAI如何重塑科技招聘》。\n英国一家电商机构的工程经理总结了正在发生的事情：\n“‘Claude；帮我写一份符合这份职位要求的简历，然后自动发送。’这似乎是大多数申请者的游戏规则。”\n假候选人\n对于招聘人员来说，当今就业市场的挑战，还有什么比那些根本不存在、甚至看起来坐在面试中的候选人更能概括的呢？一年前，我们报道了一名被安全初创公司抓获的“AI造假者”申请人，他可能是朝鲜的国家特工。\n此类事件在美国、英国和欧盟公司招聘远程职位时变得越来越普遍：\n- “有更多假候选人申请，不仅利用AI制作简历，还利用AI进行面试。在极端情况下，面试被外包，导致面试时出现不同的人。感觉就像在面试中与他们玩验证码游戏。”——美国湾区，私募股权支持公司高级工程经理\n\n“我们采访的第二个人显然是一个朝鲜骗子，把问题写进LLM，读回答，很容易就被识破了，其他采访只是房间里的背景噪音。”——英国，高级工程师\n“很多看起来很适合的申请者，结果却是亚太地区的其他人，在背景里用AI进行面试。因为自然对话中的‘延迟’，很容易看出来。”——德国，中型公司，工程主管\n远程面试中用AI作弊也很常见。一位驻芬兰的软件工程师告诉我们：\n“有几次我们看到申请者用AI回答问题，这太奇怪了。老实说我不知道该怎么反应，所以我们决定缩短面试。然后我们和招聘人员分享了一个如何识别这种情况的笔记。”\n3. 市场对某些人火热，但对大多数人艰难\n市场看起来明显分化：对AI和一些专业岗位来说非常棒，对其他所有人来说则是艰难挣扎。一些在当前条件下受益的人的说法：\n“作为一个有合适经验的（AI）工程师，市场真的很好。我不是在积极找工作，但每天收到2-3条消息。在我上一个AI初创公司招聘AI工程师时，这些人的市场很糟糕。很难找到好人才，而且纸上看起来很棒的人在面试中表现很差。”——美国纽约，AI工程师，5年经验\n“看起来对高级职位的需求还在，但前提是你的背景真的符合公司需要。比如，我一直在做不同的数据管道，找到这样的职位相对简单。然而，进入其他任何领域都不容易！每个初创公司只想雇佣有他们特定需求经验的人。”——英国，大型科技公司，软件工程师，13年经验\n以下是两位目前正在挣扎的求职者的说法：\n“我把精心制作的简历投给了30-40个职位，一个回复都没有。最后，一个招聘人员通过LinkedIn联系我，我才得到面试机会；如果不是这样，我不知道怎么能找到工作！”——荷兰阿姆斯特丹，软件工程师，5年经验\n“作为一个没有特定‘专长’的开发者，我很难获得面试机会。我做了几年前端，然后几年后端，最近在做DevEx。在这个市场上，我根本得不到面试回音，连第一轮面试都没有。”——英国伦敦，软件工程师，6年经验\nAI/ML/FDE市场火爆\n我们在数据中看到，AI工程需求爆炸式增长，前向部署工程师（FDE）的需求也大幅飙升。关于这方面的更多细节，请查看我们关于FDE是什么以及为什么现在很火的深度分析。\n求职者的轶事证据表明，身处这些领域意味着市场现在是最好的：\n“这是我见过的最好的就业市场。我是L5前FDE，现在是SWE，做过大约2年的LLM应用。入站漏斗顶部疯狂了，我发现自己对曾经梦寐以求的工作说‘不’。”——美国旧金山，AI十角兽公司，AI工程师\n“作为一个一直在面试的工程师，我看到了对FDE和AI工程师的巨大兴趣。”——美国纽约，软件工程师，5年经验\n“作为ML/AI工程师，获得面试并不难。技术门槛和2022年底差不多。如果有的话，同级别的现场面试轮次似乎更少。公司似乎行动很快，让候选人进入现场面试。”——前Meta，湾区，ML工程师\n一位苹果公司的工程师对AI公司对其技能的需求感到惊讶：\n“从冷申请AI职位中得到了很多回复，最终拿到了两家AI基础设施公司的offer。我最终获得了比苹果同级别提供的薪资大幅提升！”\n\n一位湾区知名公司的软件工程师也认为就业市场不错：“我收到了Stripe和Rippling的高级软件工程师offer，被Snowflake拒绝了……从个人经历来看，硅谷普通软件工程师职位的就业市场比2025年要好。”\n\n工程经理和Staff+岗位几乎无法填补\n美国招聘经理反复抱怨的一个问题是，招聘优秀的工程经理和Staff+工程师非常困难：\n“招聘工程经理和Staff+工程师极其困难。招聘经验不足10年的人要容易得多。尽管我们通过Pave提供90分位的薪酬，并且拥有混合办公和良好的文化。”——纽约某B轮公司，工程副总裁（兼职）\n“我的团队已经找了三个月的工程经理，但几乎没有优秀的申请者。现在的动态非常奇怪。”——某D轮金融科技公司，高级基础设施工程师，公司在美国和欧洲都有办公室\n“目前最受欢迎的候选人是能够应对业务不确定性的工程经理或Staff级人才。我们很难招到能适应初创公司现在常见的持续变化的人。”——旧金山某初创公司CTO\n\n“专家型”人才难以招聘\n几个例子：\n- 分布式系统工程师：“我们找不到足够合格的分布式系统工程师、云基础设施等人才。我现在有20个空缺职位。”——美国某超大规模云服务商招聘人员\n- 产品工程师：“‘产品工程师’是一个很难找到的人才类型。也很难找到有良好设计眼光又能构建全栈的人。最难招聘的是品味+信任……我宁愿雇一个在AI方面‘落后’但有出色品味/判断力的人，而不是拥有复杂代理设置和提示库的人。”——美国洛杉矶某种子轮初创公司技术负责人\n- 高级工程师，总体而言：“作为目前试图招聘高级工程师的招聘经理，感觉非常困难。大多数申请者完全不合格，而合格的申请者在面试中表现不佳。”——加拿大某机器人公司工程经理\n\n许多人的沉默\n五分之一的受访者详细描述了很难得到招聘人员回复的情况：\n“情况看起来很黯淡。现在，申请石沉大海。招聘人员不再像以前那样立即联系。在发出的约10份申请中，我得到了一次面试安排，但后来被取消了，因为看起来团队被裁了。”——美国东南部，前端工程师，10年以上经验\n“就业市场一片荒芜。我重新开始申请，招聘机构似乎很少有职位要填补。我自己申请的公司从不回复。”——南加州，软件工程师，8年经验\n“招聘人员不理我！每次我回复招聘人员的联系，他们都在几条消息后消失，我的朋友也有类似经历。”——瑞士，软件工程师，7年经验，前Meta员工\n“到目前为止，我甚至很难通过招聘经理这一关，在能进行适当的技术评估之前就被拒绝了。”——芬兰赫尔辛基，软件工程师，7年经验\n甚至大厂员工也面临缺乏回复的情况。以下是目前在Meta工作的技术项目经理，他过去非常抢手：\n“当Meta宣布裁员时，我放出了一些试探信号，但毫无回应。我不想显得自大，但凭我的简历，你至少能很快和招聘人员聊一聊。但谷歌和Anthropic直接不理我。”\n\n4. 更高的招聘门槛和更低的薪酬——但并非对所有人\n在“正常”市场中，当招聘门槛提高时，薪酬也会提高。但我们听到的情况是，招聘门槛提高了，而提供的薪酬却在下降！",
       "annotations": [
         {
           "type": "data",
-          "quote": "2025年，大型公司中只有十分之一的工程招聘是应届毕业生，低于2023年的近十分之三。",
-          "note": "应届生招聘比例大幅下降，反映早期职业工程师就业市场紧缩。"
+          "quote": "我们每天收到大约1000份主动投递的简历，其中可能只有两份与职位发布相关。",
+          "note": "关键数据：展示主动投递简历的极低相关性，说明招聘经理面临的噪音问题。"
         },
         {
           "type": "data",
-          "quote": "在过去一年中，顶级公司的AI工程职位空缺增加了60%，而同一批公司的软件工程职位空缺仅增长了7%。",
-          "note": "AI工程需求增速远超软件工程，凸显结构性转变。"
+          "quote": "对于西雅图的一个软件工程职位，我们在三个月内收到了800份主动投递的简历。",
+          "note": "关键数据：具体职位申请量，反映求职者投递的普遍性和竞争激烈程度。"
+        },
+        {
+          "type": "data",
+          "quote": "每个发布的职位都有1000多名申请者，其中98%被认为不合格。",
+          "note": "关键数据：申请者数量与不合格率，凸显招聘筛选的困难。"
+        },
+        {
+          "type": "data",
+          "quote": "我最终获得了比苹果同级别提供的薪资大幅提升！",
+          "note": "关键数据：AI工程师薪资涨幅，说明AI领域薪酬优势。"
         },
         {
           "type": "decision",
-          "quote": "Anthropic 提交了上市申请，比一周后提交的 OpenAI 更早。",
-          "note": "Anthropic率先申请IPO，可能加速AI实验室资本化进程。"
+          "quote": "我们是一家小公司，放弃了主动投递招聘。",
+          "note": "关键决策：公司因AI垃圾申请放弃主动投递，反映市场信任危机。"
+        },
+        {
+          "type": "decision",
+          "quote": "我们最近所有的招聘都是通过人脉网络以及我们在LinkedIn上主动联系的人完成的。",
+          "note": "关键决策：招聘完全依赖人脉网络，说明内推的重要性。"
         },
         {
           "type": "insight",
-          "quote": "历史上，一旦公司重新开始招聘，实习生项目往往会迅速反弹。但这次没有发生，2024年和2025年是该系列数据中两条线首次朝相反方向移动。",
-          "note": "实习生招聘未随整体招聘复苏，表明企业对长期人才投资持谨慎态度。"
+          "quote": "感觉每个有好工作的人都紧紧抓住不放，而那些正是我们想要招聘的人。",
+          "note": "关键观点：市场流动性低，优秀人才不愿流动，加剧招聘难度。"
         },
         {
           "type": "insight",
-          "quote": "随着就业市场紧缩，毕业于知名大学或在知名公司实习所带来的背景优势变得更加重要。",
-          "note": "市场筛选加剧，名校和名企背景成为关键差异化因素。"
+          "quote": "如果你处于巅峰状态，有AI经验，并且足够资深，你可以随心所欲。如果不是，那么就业市场就很艰难！",
+          "note": "关键观点：市场分化严重，AI和资深人才供不应求，其他人才面临困境。"
+        },
+        {
+          "type": "insight",
+          "quote": "内推是生命线。通过冷申请不可能获得Staff或Principal工程师职位的面试。",
+          "note": "关键观点：内推成为高级职位求职的关键，冷申请无效。"
         }
       ]
     },
@@ -836,106 +919,271 @@
       "pillar": "theory",
       "relevance_score": 75,
       "tags": [
-        "通用",
-        "所有规模",
-        "AI评估",
-        "招聘思维"
+        "科技行业",
+        "中大型企业",
+        "AI变革",
+        "工程管理",
+        "节奏调整"
       ],
       "structured_summary": {
-        "background": "随着AI建议在组织决策中日益重要，企业需要更系统的方法来评估AI工具的能力和可靠性。",
-        "decision_action": "提出将招聘面试的思维应用于AI评估，即像面试候选人一样对AI进行结构化测试，包括设定角色、提问、评估回答质量等。",
+        "background": "过去六个月，科技行业工程领域发生诸多变化，各公司纷纷调整工作方式。",
+        "decision_action": "文章提出'慢下来以加速'的策略，建议企业重新审视工作节奏，可能涉及减少并行项目、增加反思时间等。",
         "result": "待验证",
-        "lesson": "高管应建立AI评估流程，模拟关键业务场景对AI进行压力测试，而非仅依赖供应商演示或基准测试。"
+        "lesson": "高管应评估当前组织节奏，考虑通过有意的减速来提高长期效率和创新能力。"
       },
-      "executive_takeaway": "像面试员工一样面试AI，建立结构化评估流程。",
+      "executive_takeaway": "AI时代，减速以蓄力，可能是加速变革的明智策略。",
       "signal_strength": "low",
-      "id": "ae2043df",
-      "feed": "one-useful-thing",
+      "id": "2394c673",
+      "feed": "pragmatic-engineer",
       "tier": "frontier",
-      "title": "Giving your AI a Job Interview",
-      "link": "https://www.oneusefulthing.org/p/giving-your-ai-a-job-interview",
-      "published": "Wed, 12 Nov 2025 02:46:43 GMT",
-      "ingested_at": "2026-07-29T01:39:35.613446+00:00",
-      "content": "给AI做求职面试\n随着AI建议变得越来越重要，我们需要更善于评估它\n考虑到开发新AI所投入的巨大精力（无论是字面意义上的还是比喻意义上的），我们却出奇地难以准确衡量它们到底有多“聪明”。最常见的方法是像对待人类一样对待AI，给它做测试并报告它答对了多少题。有几十种这样的测试，称为基准测试，它们是衡量AI随时间进步程度的主要方式。\n这种方法存在一些问题。\n首先，许多基准测试及其答案都是公开的，因此一些AI最终会无意或有意地将它们纳入基础训练中，以便在这些基准测试中取得高分。但即使没有发生这种情况，我们往往也不知道这些测试真正衡量的是什么。例如，非常流行的MMLU-Pro基准测试包含诸如“直立人的平均颅容量大约是多少？”和“廉价把戏摇滚乐队1979年现场专辑的标题中提到了哪个地方？”等问题，每个问题有十个可能的答案。答对这些能告诉我们什么？我不知道。更不用说测试通常未经校准，这意味着我们不知道从84%正确率提高到85%是否与从40%提高到41%一样具有挑战性。而且，除此之外，对于许多测试来说，实际最高分可能是无法达到的，因为测试问题中存在许多错误，并且指标通常以不寻常的方式报告。\n尽管存在这些问题，所有这些基准测试放在一起似乎衡量了某种潜在的能力因素。而更高质量的基准测试，如ARC-AGI和METR Long Tasks，显示出相同的上升趋势，甚至是指数级趋势。这与AI在各行业实际影响的测试结果相符，表明这种“智能”的潜在提升转化为从医学到金融等各个领域的实际能力。\n因此，总体而言，基准测试具有真正的价值，但少数几个稳健的个体基准测试侧重于数学、科学、推理和编程。如果你想衡量写作能力、社会学分析、商业建议或同理心，选择非常有限。我认为这给个人和组织都带来了问题。公司根据基准测试决定使用哪些AI，新AI发布时也会大肆宣传其基准测试性能。但你真正关心的是哪个模型最适合你的需求。\n为了自己弄清楚这一点，你需要面试你的AI。\n凭感觉进行基准测试\n如果基准测试可能让我们失望，有时“感觉”却能成功。如果你使用足够多的AI模型，你就能开始以难以描述但容易识别的方式看出它们之间的差异。因此，一些经常使用AI的人会开发出独特的基准测试来测试AI能力。例如，Simon Willison要求每个模型画一只骑自行车的鹈鹕，而我要求每个图像和视频模型创作一只坐飞机的水獭。虽然这些方法很有趣，但它们也让你感受到AI对事物之间关系的理解，即它的“世界模型”。我还有很多其他的方法，比如要求AI为“遥远未来的星舰控制面板”创建JavaScript（你可以在下面看到一些新旧模型的表现），或者创作一首有挑战性的诗。我让AI构建视频游戏和着色器，并分析学术论文。我还进行小型写作实验，包括时间旅行问题。每个实验都让我对模型的运作方式有所了解：它犯的错误多吗？它的答案是否与其他模型相似？它反复出现的主题和偏见是什么？等等。\n\n稍加练习，就能轻松找到新模型的“感觉”。举个例子，我们来尝试一个写作练习：“写一段话，描述一个人像战时配给一样分配自己剩余的词语，因为他被告知一生只剩下一万个词了。他还有47个词，抱着刚出生的孩子。”如果你经常使用这些AI，你不会对结果感到惊讶。你会明白为什么Claude 4.5 Sonnet常被认为是一个强大的写作模型。你会注意到Gemini 2.5 Pro（目前这四个模型中最弱的）甚至不能准确追踪使用的词数。你会发现GPT-5 Thinking在写小说时往往风格相当狂野，喜欢复杂的隐喻，但有时会牺牲连贯性和故事性（我不确定有人会用完47个词，但至少计数是对的）。你会认识到新的中文开源模型Kimi K2 Thinking也有类似的问题，有些有趣的短语，但故事不太合理。\n\n通过“感觉”进行基准测试——无论是故事、代码还是水獭——对个人来说是了解AI模型的好方法，但也非常主观。AI每次给出的答案都不同，除非你非常严格，否则任何比较都不公平。此外，更好的提示可能会带来更好的结果。最重要的是，我们依赖的是感觉而非实际衡量标准——但“感觉”上的明显差异表明，仅靠标准化基准是不够的，尤其是在某个特定任务上拥有稍好的AI确实很重要的时候。\n\n在现实世界中进行基准测试\n\n当公司选择使用哪些AI系统时，他们通常将其视为技术和成本决策，依赖公开基准来确保他们购买了一个足够好的模型（如果他们使用任何基准的话）。这在某些用例中可能没问题，但很快就会失效，因为在很多方面，AI更像一个人，具有奇怪的能力和弱点，而不是软件。如果你用招聘而非技术采用的类比，那么“足够好”的基准测试方法就更难站住脚了。公司花很多钱雇佣那些比平均水平更优秀的人，如果他们要雇佣的人负责为许多其他人提供建议，他们会特别谨慎。对AI也需要类似的态度。你不应该仅仅为公司挑选一个模型，你需要进行严格的面试。\n\n面试AI不是一件容易的事，但可以解决。现实世界基准测试的最佳例子可能是OpenAI最近的GDPval论文。第一步是建立真实任务，OpenAI通过召集平均有14年行业经验（从金融、法律到零售）的专家，让他们生成复杂且现实的项目，这些项目需要人类专家平均4到7小时完成（你可以在这里看到所有任务）。第二步是测试AI在这些任务上的表现。在这种情况下，多个AI模型和其他人类专家（按小时付费）都完成了每个任务。最后是评估阶段。OpenAI让第三组专家对结果进行评分，不知道哪些答案来自AI，哪些来自人类，这个过程每个问题花费超过一小时。总的来说，这工作量很大。\n\n但它也揭示了AI的强项（最好的模型在软件开发到个人财务顾问等领域击败了人类）和弱项（药剂师、工业工程师和房地产经纪人轻松击败了最好的AI）。你还可以看到不同模型的表现不同（ChatGPT是更好的销售经理，Claude是更好的财务顾问）。因此，好的基准测试有助于你了解我们所说的AI能力的“锯齿形前沿”的形状，并跟踪它如何随时间变化。\n\n但即便是这些测试，也无法揭示一个关键问题：AI在做决策时的潜在态度。为了举例说明如何探究这一点，我向多个AI简要介绍了一个我认为不太靠谱的想法——一家通过无人机配送鳄梨酱的公司。我要求每个AI模型对“鳄梨无人机”的可行性进行十次评分（每次1-10分，注意AI每次回答可能不同，因此需要多次测试）。各个AI模型自身的回答其实相当一致，但不同AI之间的评分差异很大。我个人会给这个想法打2分或更低，但模型们更宽容。Grok认为这是个好主意，微软Copilot也很兴奋。其他模型，如GPT-5和Claude 4.5，则更为怀疑。\n\n这些差异并非微不足道。当你的AI大规模提供建议时，持续将想法评分高出或低出3-4分，意味着持续将你引向不同的方向。有些公司可能希望AI拥抱风险，另一些则可能希望规避风险。但无论如何，理解你的AI如何“思考”关键业务问题至关重要。\n\n面试你的模型\n随着AI模型在任务上表现越来越好，并更深入地融入我们的工作和生活，我们需要更严肃地对待它们之间的差异。对于日常使用AI的个人来说，基于感觉的基准测试可能就足够了。你可以直接运行你的水獭测试。不过，对我来说，飞机上的水獭已经太简单了，所以我尝试在Sora 2中输入提示词：“1960年代关于那个乐队在遭遇水獭群事件前最后一场著名演唱会的纪录片片段”，并得到了令人印象深刻的结果。\n\n但大规模部署AI的组织面临不同的挑战。是的，总体趋势是明确的：更大、更新的模型通常在大多数任务上表现更好。但当你决定哪个AI将处理数千个实际任务或为数百名员工提供建议时，“更好”还不够。你需要具体了解你的AI擅长什么，而不是AI平均擅长什么。\n\n这正是GDPval研究揭示的：即使在顶级模型中，不同任务的表现也差异显著。而“鳄梨无人机”的例子展示了另一个维度——当任务涉及对模糊问题的判断时，不同模型会给出持续不同的建议。这些差异会随着规模扩大而累积。一个在分析财务数据上稍差，或在建议中持续更倾向于冒险的AI，影响的不仅仅是一个决策，而是数千个。\n\n你不能依靠感觉来理解这些模式，也不能依靠通用基准来揭示它们。你需要系统性地测试你的AI，针对它将实际执行的工作和它将做出的实际判断。创建反映你使用场景的现实场景。多次运行以观察模式，并花时间让专家评估结果。在你关心的任务上直接比较模型。这就像知道“这个模型在MMLU上得了85%”与知道“这个模型在我们的财务分析任务上更准确，但在风险评估上更保守”之间的区别。而且，随着新模型的出现和需要评估，你将需要每年多次进行这样的测试。\n\n这项工作值得投入。你不会仅凭SAT成绩就聘用一位副总裁。你也不应该仅仅因为某个AI知道直立人的平均颅容量略低于1000立方厘米，就选择它来为你的组织提供数千个决策的建议。",
+      "title": "Slow down to speed up: so much has changed in 6 months’ time",
+      "link": "https://newsletter.pragmaticengineer.com/p/slow-down-to-speed-up",
+      "published": "Tue, 23 Jun 2026 15:30:26 GMT",
+      "ingested_at": "2026-08-02T01:57:26.120226+00:00",
+      "content": "放慢脚步，加速前进：六个月间变化如此之大\n\n过去六个月工程领域的变化概览，各科技公司如何改变工作方式，以及为何放慢脚步可能是一个明智的策略\n\n日程说明：周四将不会有《脉搏》的更新，因为接下来一周半我将在旧金山，参观AI实验室和初创公司，并从下周一开始参加AI工程师世界博览会。播客和周二的文章将照常更新。\n\n三周前，在匈牙利布达佩斯的Craft大会上，我以题为“放慢脚步，加速前进”的主题演讲开场。\n\n和我的大多数演讲一样，这个演讲是分阶段形成的，包括来自《务实工程师》的付费订阅者的一些意见，我提前与他们分享了想法，在“想法：与AI代理合作时放慢脚步，加速前进”中。感谢所有的评论！\n\n命运的安排，就在两天前，社交媒体巨头Meta恰好为我的演讲提供了一个现实世界的案例研究，即其有史以来最尴尬的宕机事件：用户只需让Meta AI更改任何账户的电子邮件，机器人就会欣然遵从——即使该账户完全属于其他人——包括一位美国前总统。这是一个及时的例子，可以用来开场。请查看完整的主题演讲，可在YouTube上观看：\n\n在这篇文章中，我详细总结了Craft大会主题演讲的关键部分，以及活动中收到的一些反馈。付费订阅者还可以在这里和本文末尾访问幻灯片。\n\n我们涵盖：\n- Meta：“AI精神病”在起作用？Meta一直在摧毁其工程组织，而对AI的痴迷似乎是原因之一。关于这个问题的更多信息，请查看这篇深度报道。\n- 六个月间一切都变了。从去年11月左右开始，随着像Opus 4.5和GPT-5.4这样能力更强的AI代理的出现，情况发生了变化。\n- 科技公司如何改变工作方式？Anthropic、OpenAI、Google、Uber、初创公司和传统公司。\n- 趋势。个人生产力上升，但团队生产力持平，tokenmaxxing和工具采用，中层管理消失，CEO和CTO回归编码，等等。\n- 软件领域的趋势。软件质量下降，GitHub持续存在的可靠性问题，AI垃圾信息淹没关心质量的开发者，等等。\n- 对软件工程师和工程领导者的建议。帮助职业生涯面向未来的建议。\n- 反馈。“这里也在发生！”是一个常见的主题，有些人感到宽慰，因为这并非他们工作场所独有的问题。\n\n1. Meta：“AI精神病”在起作用？\n当我读到Meta通过“零认证”政策实现了账户接管，即只需询问Meta AI机器人就足以更改任何账户的电子邮件地址时，我以为这是一个虚构的故事。毕竟，发布这样的回归将违背安全措施、代码审查、自动化测试和指标。此外，公司有专门的诚信团队，其使命是确保这种事情永远不会发生……然而，这个漏洞还是发布了。\n\nMeta内部没有人发现它，因此像美国前总统巴拉克·奥巴马这样的高知名度账户被接管了。Instagram的专门诚信团队似乎是通过新闻发现了这个尴尬的问题。\n\n如前所述，这是在Craft主题演讲前两天，所以有足够的时间在Instagram和Meta内部询问。那里的工程师告诉我，这场灾难是由AI生成、AI审查的代码，加上裁员，以及强制将诚信团队和其他地方的人员重新分配到AI标注及相关职责造成的。\n\nMeta的问题似乎在于，领导层正在积极推动人工智能，同时从负责安全、质量和可靠性的领域撤走资源和人员。自从上周深入探讨幕后发生的事情以来，我了解到更多细节：\n- WhatsApp的诚信团队受到裁员和强制数据标注重新分配的严重打击\n- Instagram的设计团队在裁员期间人员编制减少了44%\n- 开发者文档和支持团队在裁员期间人员编制减少了整整95%\n- ADO集团的数据标注不仅仅是“单纯”的标注；有许多AI训练任务要做。但这些任务重复性高，除非你非常有创意。\n根据我与Meta员工交谈所听到的一切，AI引发的行为确实是这次中断的核心。AI生成、AI审查的代码，以及安全团队被削弱，也是这次极其尴尬事件的因素。正如上周深入探讨中所报道的：\n- Instagram的信任与安全团队因数据标注和裁员失去了约50%的员工。一些最资深的员工被征召去执行AI训练任务。\n- 最近几个月，代码库中非常普遍的是零人工输入的AI生成更改，仅额外进行AI代码审查。导致这次中断的更改看起来就是其中之一。\n- 通常情况下，信任与安全团队会负责监控和警报安全漏洞，但由于内部快速混乱，目前该团队完全处于混乱状态。\n如果像数据标注任务和员工跟踪这样的重大变化被撤销，那么Meta的事情或许能恢复正常。但到目前为止，领导层所做的最大努力是增加了零食、旅行和活动的预算。这远非恢复士气和以往文化所需的改变！\n与热门剧集《人生切割术》中的Lumon公司的比较恰如其分：\nMeta有史以来最严重的中断可以被解读为一个警告，说明当过度关注AI以至于忽视公司主要盈利产品的基本健康时会发生什么。Instagram、WhatsApp和Facebook为Meta带来了大部分收入，但公司正在将更多工程师重新分配到训练编码模型上，并积极削减关键组织的人员编制以实现这一目标——以至于关键服务没有值班覆盖，安全团队因过度紧张而无法履行职责。\n我是否遗漏了为什么构建一个最先进、可能封闭的、擅长编码的AI模型比维持运营产生收入的业务并保持稳定基础设施更重要的一些见解？\n2. 六个月来一切都变了\n与AI实验室毫无关联的独立、经验丰富的软件工程师几个月来一直表示，我们进行软件工程的方式已经发生了转变。\nRuby on Rails的创造者David Heinemeier Hansson（DHH）在1月份表示：\n“就在2025年夏天，我与Lex Fridman交谈时谈到不让AI直接编写任何代码，但事实证明，这种抵制部分只是基于当时模型不够好！我花在重写它所写内容上的时间，比从头开始写还要多。现在这种情况已经逆转了。”\nDjango的创造者Simon Willison在5月份指出，变化始于去年年底：\n“2025年11月发布的模型将智能体提升到了真正有用的水平。我们现在已经有六个月来适应这个想法；难怪公司开始在这项技术上投入真金白银。”\n使用智能体的团队现在提交的拉取请求数量是两年前的5倍。以下是来自Linear的数据：\n使用AI辅助工具的开发者产生的代码量是18个月前的2.5倍。来自Cursor的数据显示，他们的用户平均从2025年1月添加3500行代码增加到今天的8600行：\n\n拉取请求的规模比18个月前增长了3倍。同样来自Cursor的数据：\n更多AI变更在未经人工审查的情况下被接受。Cursor的数据显示，自今年2月左右Opus 4.7和GPT 5.5发布以来，未经人工审查就被接受的变更数量大幅跃升：\n我们看到生成的代码越来越多，而开发人员审查的代码却比以往任何时候都少。自从去年11月AI代理真正变得强大以来，在相对较短的时间内，开发人员生成的拉取请求更多了，这些拉取请求的质量也在提高，而代码审查越来越难以跟上。因此，审查变得不那么严格，更多的变更在未经人工审查的情况下就进入了生产环境！根据我与Meta工程师的讨论，这类AI生成、AI审查的拉取请求（在Meta，它们被称为diff）正是导致最近Instagram那次尴尬宕机的原因。\n3. 科技公司如何改变他们的工作方式？\n一些大型科技公司的细节：\nAnthropic：全力投入AI代理。3月，Claude Code的创造者Boris Cherny在Pragmatic Engineer播客上分享了一些细节：\n- 他个人并行运行约5个代理，每天提交20-30个拉取请求\n- 产品需求文档（PRD）已经过时，原型已取代了它们，在Anthropic内部\n- 3月份，Claude Code约100%是由Claude生成的\n- Anthropic内部约70-90%的代码是由Claude生成的\n- Claude Cowork——另一个收入潜力达十亿美元的产品——仅用10天就构建完成\n此后，Boris分享说他的工作流程已改为设置循环来运行代理。\nOpenAI：在AI代理方面进展更快。OpenAI的Codex团队在2月份的Pragmatic Summit主舞台上亮相。Tibo Sottiaux（OpenAI Codex工程主管）分享了Codex团队如何进行软件开发的细节：\n- 内部OpenAI移动应用中集成了一个“修复此问题”按钮。它可以对错误报告进行一次性修复，开发人员审查后可以合并\n- 对所有代码变更进行AI代码审查。采用分级方法，某些变更只需AI审查即可合并，而更重要的变更则需要额外的人工审查\n- 大多数开发人员并行运行多个代理，经常开着笔记本电脑盖子走来走去，这样机器就不会进入睡眠模式而挂起代理\n- Codex团队不再真正手工编写代码，其他团队也不太常见了\n- “品味”正成为在该公司工作的核心技能\n- Codex自我改进：它运行自己的测试套件，在夜间运行改进任务，并在团队会议期间对讨论的主题采取行动\nGoogle：AI广泛使用。正如Google CEO所承认的，Gemini在编码方面不如Claude或Codex强大，但它在全公司范围内被广泛使用。与其他公司相比，能力较弱的编码模型可能会阻碍AI的采用。\nUber：内部AI基础设施。我们深入报道了Uber如何使用AI进行开发，涉及内部系统，如：\nUber的MCP网关：\nUber Agent Builder：\nAIFX命令行界面：\nMinion：后台代理\nCode Inbox：\nSmart Assignments作为Code Inbox的一个简洁功能：\nRisk Profiles：Code Inbox中的另一个智能功能：\nuReview，Uber的AI代码审查工具：\nAutocover和Shepherd用于大规模迁移：\nUber是一个很好的案例，可以了解内部开发者基础设施需要重建多少才能与AI代理良好协作。Uber构建了上述所有工具，因为他们需要新的、更好的方式将AI代理集成到开发者工作流程中，但找不到任何符合要求的现成方案。我还想指出Uber在提高代码审查效率方面投入了多少时间和精力。开发人员确实被AI代码审查压得喘不过气来，而Uber的Code Inbox试图将需要审查的重要代码与不重要的代码分开。\n\n初创公司正在纷纷采用AI代理，尽管他们的集成还比较基础。为了准备主题演讲，我与几家初创公司讨论了他们的AI使用情况。像Claude Code、Codex、Cursor、OpenCode等工具很受欢迎，我还注意到大多数初创公司正在将AI代理深度集成到Slack中，这样开发人员可以直接从聊天工具中启动错误修复或小功能请求。\n我观察到初创公司最有可能尝试新的AI开发工具；从代码审查，一直到AI事件管理工具。\n“传统”公司也在大力投资AI开发工具。在最近于旧金山举行的Pragmatic Summit上，Laura Tacho分享了有趣的细节：\n- 2月份，18000名思科开发人员使用Codex进行复杂的迁移、代码审查和重构。这非常早——Codex才刚刚开始获得行业范围的采用！\n- 摩根大通构建了一个用于标注的多代理框架，使用多个专门的代理来标记客户交互数据，以及评审代理来汇总和排名结果。这些都是相当高级的用例！\n总的来说，“传统”公司在使用、付费和采用AI代理及AI开发工具方面似乎并不落后。\n4. 行业趋势\n我观察到围绕AI开发工具采用的一些趋势：",
       "annotations": [
         {
           "type": "data",
-          "quote": "最好的模型在软件开发到个人财务顾问等领域击败了人类",
-          "note": "显示AI在特定任务上已超越人类专家，量化了AI能力的实际水平。"
+          "quote": "使用AI辅助工具的开发者产生的代码量是18个月前的2.5倍。来自Cursor的数据显示，他们的用户平均从2025年1月添加3500行代码增加到今天的8600行",
+          "note": "关键数据：显示AI辅助工具显著提升开发者产出，量化了AI对开发效率的影响。"
+        },
+        {
+          "type": "data",
+          "quote": "使用智能体的团队现在提交的拉取请求数量是两年前的5倍",
+          "note": "关键数据：反映AI代理对团队工作流程的显著改变，拉取请求数量激增。"
         },
         {
           "type": "decision",
-          "quote": "OpenAI让第三组专家对结果进行评分，不知道哪些答案来自AI，哪些来自人类，这个过程每个问题花费超过一小时。",
-          "note": "采用盲评方式确保客观性，是严谨评估AI能力的典范做法。"
+          "quote": "Meta通过“零认证”政策实现了账户接管，即只需询问Meta AI机器人就足以更改任何账户的电子邮件地址",
+          "note": "关键决策：Meta的AI集成决策导致严重安全漏洞，凸显了AI部署中的风险。"
         },
         {
           "type": "decision",
-          "quote": "你需要系统性地测试你的AI，针对它将实际执行的工作和它将做出的实际判断。创建反映你使用场景的现实场景。多次运行以观察模式，并花时间让专家评估结果。",
-          "note": "建议企业建立定制化、场景化的AI评估流程，而非依赖通用基准。"
+          "quote": "Instagram的信任与安全团队因数据标注和裁员失去了约50%的员工。一些最资深的员工被征召去执行AI训练任务",
+          "note": "关键决策：Meta为AI训练资源重新分配，削弱安全团队，导致安全风险。"
         },
         {
           "type": "insight",
-          "quote": "当你的AI大规模提供建议时，持续将想法评分高出或低出3-4分，意味着持续将你引向不同的方向。",
-          "note": "强调AI的微小偏差在规模化应用时会被放大，影响战略方向。"
+          "quote": "Meta有史以来最严重的中断可以被解读为一个警告，说明当过度关注AI以至于忽视公司主要盈利产品的基本健康时会发生什么",
+          "note": "关键观点：警示高管在追求AI创新的同时，不能忽视核心业务的安全与稳定。"
         },
         {
           "type": "insight",
-          "quote": "你不会仅凭SAT成绩就聘用一位副总裁。你也不应该仅仅因为某个AI知道直立人的平均颅容量略低于1000立方厘米，就选择它来为你的组织提供数千个决策的建议。",
-          "note": "类比招聘，警示高管不能依赖通用基准选择AI，需像面试高管一样严格评估。"
+          "quote": "放慢脚步，加速前进",
+          "note": "关键观点：强调在AI时代，谨慎和深思熟虑反而能带来更快的长期进展。"
+        }
+      ]
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 90,
+      "tags": [
+        "科技行业",
+        "大型企业",
+        "AI组织变革",
+        "工程团队"
+      ],
+      "structured_summary": {
+        "background": "Meta作为社交媒体巨头，正面临AI技术浪潮，其领导层决定对工程组织进行大规模调整。",
+        "decision_action": "Meta领导层以AI为驱动，对工程组织进行了激进的改造，包括重组、裁员或重新定位工程团队，具体细节待披露。",
+        "result": "待验证",
+        "lesson": "高管在推进AI驱动的组织变革时，需谨慎平衡创新与团队稳定性，避免过度激进导致人才流失和业务风险。"
+      },
+      "executive_takeaway": "AI重塑组织需平衡激进与稳健，避免人才流失。",
+      "signal_strength": "high",
+      "id": "043b6b9a",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "Why is Meta destroying its engineering organization?",
+      "link": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+      "published": "Tue, 16 Jun 2026 16:27:43 GMT",
+      "ingested_at": "2026-08-02T01:58:45.074416+00:00",
+      "content": "为什么Meta正在摧毁其工程组织？\n这家社交媒体巨头的领导层一直在其工程组织中掀起一场由人工智能驱动的狂暴行动。我们报道所发生的事情\n你好——我是Gergely，这是《务实工程师通讯》的一期免费内容。在每一期中，我都会从高级工程师和工程领导者的角度报道大型科技公司和初创公司面临的挑战。订阅后，每周你都会在收件箱中收到这样的深度报道：\n许多订阅者将这份通讯作为学习和发展预算来报销。如果你有这样的预算，这里有一封你可以发给经理的邮件。\n二十年来，Meta拥有一个独特、高性能的工程组织；直到今年四月左右。在公司存在的头二十年里，它有着“快速行动，打破常规”的文化，而在2020年代初，这转变为“快速行动，稳定基础设施”的文化。我认识的公司工程师被授权做好工作，专注于影响力，并平衡商业利益与扎实的工程实践。\n但在过去的几周里，一切都变了，仿佛领导层一直在按照详细的蓝图，以最无情高效的方式摧毁一个经过验证的成功工程文化。\n在过去的几周里，我一直在分享这家社交媒体公司内部对工程师来说有多糟糕，这里是硅谷最负盛名的工作场所之一。在这篇文章中，我们回顾了发生的事情，并询问领导层在想什么，他们正在将那里的软件工程从2004年到最近一直以来的利润中心，缩减为几周内就变成的备受鄙视的成本中心。\n我们涵盖：\n- Meta在人工智能之前的工程文化\n- 投资人工智能并迫使工程师始终使用它\n- 核心工程人员感觉被当作垃圾对待\n- 有史以来最尴尬的宕机\n- 内部混乱\n- 自找的伤害\n- “人工智能精神病”只是Meta的问题吗？\n1. Meta在人工智能之前的工程文化\n我会将Meta的工程文化分为两个时代：“快速行动，打破常规”，然后是“快速行动，稳定基础设施”。\n“快速行动，打破常规”\n在2010年代，Facebook非传统的工程文化在科技行业中已经变得有些传奇，因为该公司违背了传统的最佳实践，却取得了巨大的成功。\n2012年，当Facebook达到十亿用户里程碑时，公司制作了一本关于其文化的小型纸质书，放在员工的桌子上。以复古宣传设计呈现，它被称为“小红书”，借用了毛泽东主席著名著作（1964年）的名称。\n大约70页，Facebook的版本编纂了其工程文化：速度、无畏、承担责任和跳出框框思考。\n那时，Facebook小红书中的口号也印在校园各处，包括：\n- 快速行动，打破常规\n- 完成比完美更好\n- 更努力地失败\n- 如果你不害怕，你会做什么？\n- 每一天都像一周\n- 莱特兄弟没有飞行员执照\n- 愚者等待\n- 幸运眷顾勇敢者\n真正专注于构建好产品。书中还有：\n“快速行动，稳定基础设施”文化\n2022年，我做了我们发表过的关于Meta工程文化的最长深度报道之一。那时，事情已经演变，许多以前的鲁莽行为已经消失，取而代之的是快速行动但基础设施稳定的原则。以下是我当时对Meta工程文化的描述：\n“这种文化极其以工程为中心：比大多数大型科技公司都要多。这可能是因为马克·扎克伯格本人就是工程师，或者因为Facebook早期的大部分创新都来自工程师。”\n\n\n关注个人影响力。影响力一直是Facebook关注的重点。从早期开始就是如此，对产生影响力的关注至今未变。\n与大多数大型科技公司的一个共同点是，无论是工程文化还是整体文化，都非常注重个人影响力。这导致一些人专注于短期、可衡量的成果，并认为团队合作和团队间的成果分享可能不会得到那么多回报。\n缺乏严格的流程。Facebook似乎是所有大型科技公司中流程或标准化程度最低的。不要试图将其与亚马逊的工程文化及其无数的正式流程相比。但即使与谷歌、微软或优步等公司相比，Facebook的流程也宽松得多。这主要源于公司以工程为中心的性质以及工程师对流程的反感。\n对测试、文档或代码注释的重视程度出奇地低。与大型科技公司的其他公司相比，你会发现Facebook的自动化测试和文档少得惊人。内联代码注释也非常罕见。\n创始人兼工程师驱动的公司。Facebook是少数几家创始人是工程师且仍担任CEO的大型科技公司之一。Netflix是另一家，其创始人兼联合CEO里德·哈斯廷斯在创办公司之前也是一名软件工程师。亚马逊直到最近也是这样的例子，但谷歌或苹果并非如此。也有一些较小的公司如Cloudflare是好例子，但它们都比Facebook年轻。\n训练营。一个独特的入职流程，不同于任何其他大型科技公司提供的。我们将在“训练营与入职”部分更详细地介绍这一点。\n此外，Facebook作为一款产品，拥有业界最复杂的自动发布系统之一。Instagram拥有经过实战考验的基础设施，几乎可以轻松推出一个社交网络（Threads），并在第一周就服务了1亿用户。\n我在公司内部认识的工程师们能力出众、积极进取、具有产品思维，他们的工作得到了赞赏。CEO马克·扎克伯格很有影响力：他亲自编写了Facebook的第一个版本，一直与工程保持密切联系，并且非常重视软件工程师。那里的工程师感觉自己在利润中心工作。\n2. 投资人工智能并敦促工程师始终使用它\nMeta一直是苹果、微软、亚马逊、谷歌和它自己这五大公司中唯一不拥有硬件平台或操作系统的公司。苹果有iPhone、iPad和Mac，谷歌有Android、ChromeOS和Pixel手机，微软有Windows，亚马逊有Kindle。\n退一步看，如今的马克·扎克伯格似乎已经下定决心不再错过平台机会，此前该公司在2010年代未能构建自己的移动操作系统或手机。\n这就是为什么在虚拟现实（VR）方面通过Oculus，以及在增强现实方面通过Meta Glasses投入如此多的原因之一。Facebook在2021年更名为Meta，当时VR——以及元宇宙——看起来可能会非常庞大。为确保Meta成为该领域的市场领导者，花费了数十亿美元。但VR再次未能成为主流；自疫情结束以来，公众对该领域的兴趣已大大减弱。\n当2022年人工智能明显将成为大趋势时，扎克伯格没有错过：他组建了内部FAIR小组（基础人工智能研究团队）以及一个GenAI产品组织，并发布了一系列开放权重的人工智能模型：\n- Llama 1：于2023年2月发布，在ChatGPT发布三个月后，由FAIR构建\n- Llama 2：于2023年6月发布，由GenAI产品组织构建（以及所有后续的Llama模型）\n\n- Llama 3：2024年4月发布。该模型是Meta迄今为止最具竞争力的LLM，并在整个行业中获得广泛采用。\n- Llama 4：2025年4月发布。该模型令人大失所望。\n同年6月，Meta以148亿美元收购了Scale AI 49%的股份，以重启其AI工作，并让Scale AI的首席执行官亚历山德·王接管Meta的AI战略。目前，Meta以20亿美元收购中国初创公司Manus AI的交易因中国阻止而悬而未决。\n基于对Scale AI和王的投资，很明显Meta——以及扎克伯格——决心打造一款最先进的LLM，以与最新版本的Claude和ChatGPT竞争。但Meta必须几乎从零开始，而交付成果的责任落在了亚历山德·王身上。\nScale AI为Meta带来了非常特定的专业知识，它是业内最好的公司之一，擅长：\n- 训练数据和标注：Scale最初并至今仍以提供高质量标注数据集而闻名，用于机器学习和AI训练，包括代码、文本、图像、视频等。\n- RLHF和微调：Scale运营的RLHF（基于人类反馈的强化学习）流程，人们为基础模型提供反馈，作为“人在回路”的数据引擎，许多领先的AI实验室使用它来创建更好的LLM。\n王似乎拥有非常广泛的权力来做他擅长的事情：创建训练数据、进行数据标注和RLHF。这正在借助Meta工程劳动力的劳动以及对其进行监控来实现。\n问题1：跟踪击键和鼠标点击，且无法选择退出。4月下旬，Meta告知工程师，他们将被纳入一个跟踪每次击键和点击的系统，以生成Meta新AI的训练数据。没有选择退出的方式。\n不用说，这是侵入性的，并引发隐私问题：如果你登录个人银行账户，该工具会跟踪你吗？当你写个人电子邮件或接听个人电话时呢？Meta没有进行任何协商，也没有变通办法；只是一个自上而下的决定被强制执行。\n本月，路透社报道称，人们的担忧终于得到了倾听：\n“Meta正在缩减其收集员工鼠标移动、击键和其他行为作为AI训练数据的计划的部分内容，其周二在一份内部备忘录中表示，此前数周员工强烈反对。\n根据Meta AI模型构建超级智能实验室部门副总裁斯特凡·卡西尔撰写的备忘录，新的控制措施将允许员工每次暂停数据收集最多30分钟，并可请求豁免该计划。”\n通过与现任Meta工程师的交流，我了解到该日志系统由于数据保护法规尚未在英国推出。\n问题2：核心团队中30-50%的工程师被强制重新分配到数据标注和RLHF岗位，这更加令人不满。同样从4月下旬开始，产品工程团队收到了上级指令，要求30-50%的工程师离开团队，加入ADO组织（代理数据优化）。\n“强制”重新分配在这里非常相关，因为Meta的传统工程文化。从2004年成立到去年，Meta赋予工程师选择工作地点和工作内容的自主权。这是公司运作的结构性特点：\n- 工程师不是为特定团队招聘的（在某些情况下，Staff+级别除外）。他们是受雇于公司的。\n- 在为期6周的训练营中，新员工熟悉Meta的工程文化并选择团队。\n- 团队匹配意味着与多个有人员需求的团队交谈，与他们进行小规模工作，并找到匹配项。\n\n内部调动很容易，而且通常由工程师发起。\n通过训练营选择团队的做法在2024年左右开始减少，但任何在Meta工作至少两年的工程师都知道，以前他们可以选择做什么工作，当然，也可以选择做最有影响力的事情。然后，突然之间，他们被分配到一个影响不明确、工作琐碎、做久了肯定会损害职业前景的部门。\n“数据标注”是更复杂的工作，虽然有点重复。有标注任务，比如创建一个网站，然后查看它并判断它是否好看，并给出反馈：这是“典型的”数据标注。但这是较少见的工作类型。但还有更复杂的AI训练任务，看起来是这样的：\n- 想出一个AI应该完成的任务\n- 然后编写确认结果的测试\n- 使用Harbor框架将所有内容打包到Docker容器中\n- 然后阅读AI编写的代码——通常基于多个模型的反馈进行，并给出反馈\n这项工作并不容易——你可以理解为什么需要优秀的软件工程师来做！——但它很快就会变得重复。我交谈过的大多数工程师都说，他们发现日复一日地做这项工作很难保持积极性。不过，我也确实与该组织内的一位工程师交谈过，他说通过改变使用的技术并挑战自己，他们发现这项工作既鼓舞人心又有趣！这位工程师预计，在训练阶段结束后，会有更多的软件工程工作出现。这里有一个教训：当生活给你柠檬时，你可以抱怨，也可以像这位开发者一样制作柠檬水。\n这种训练工作在AI行业中是保密的，供应商为从事这类工作的开发人员提供每小时100美元以上的报酬。整个行业有传言说，OpenAI和Anthropic在这些训练环境（让模型擅长编码）上的花费比模型训练本身还要多！\n基础设施和安全团队受到重新分配的打击尤其严重。我与基础设施组织的几位工程师交谈过，他们团队中有30-50%的人被抽调到了ADO组织。在某些情况下，离开的是最优秀的工程师。\n一位工程师告诉我，整个情况感觉就像电影《饥饿游戏》，贡品被随机选中，然后从他们的环境中被移除，到一个完全不同的地方。只不过，在Meta，受影响的人更多，一个10人团队中有三到五人从构建数亿人使用的产品，转变为反复对AI生成的GitHub仓库提供人工反馈。所以，影响范围比《饥饿游戏》更广，但后果没有那么严重。\nADO组织大约有6500人，比OpenAI和Anthropic还多。其中大约四到五千人是软件工程师。Meta大约有25000名工程师，这意味着每五到六名软件工程师中就可能有一人现在全职从事数据标注工作。\n可以想象，人们积极寻找新职位，没有人会在LinkedIn或其他地方将他们的职位更新为“Meta的数据标注”。\n我与担任此职位的人交谈过，他们不喜欢做这项工作，并对自上而下的决策感到不满。一线希望是，他们仍然有工作，保留了薪水，并且没有被裁员。他们仍然有时间离开Meta，去做一份薪酬相当且不是数据标注的工作。\n3. 核心工程人员感觉被当作垃圾对待\n问题3：长达一个月的等待游戏，在公司内部引发恐慌。4月20日，路透社报道称，Meta计划在一个月内裁员10%，Meta证实了这一消息，这意味着有四周的时间，每个人都知道他们可能很快失业。\n\n强制重新分配到数据标注工作开始发生。正如我当时所报道的：\n“可以理解，对于这种重新部署（到数据标注），人们心情复杂，因为裁员即将来临。周三，5月20日，Meta将宣布裁员。也许那些被调去做数据标注的人实际上可能比产品团队的同事‘更安全’。当然，这只是猜测，但如果Meta裁掉被重新分配到数据标注的开发人员，那就太残忍了。”\n问题四：在Meta，绩效评估极其激进，因此开发人员会优化所有指标。我了解到，与谷歌和苹果相比，Meta内部的绩效评估流程PSC（绩效总结周期）非常严格。Meta内部的经理们会为员工的薪酬包“争斗”，这涉及到“压低”其他团队工程师的薪酬包，以便他们的直接下属排名更高。在这个过程中，将指标武器化很常见——无论是业务影响、代码审查数量、编写的代码行数，还是AI之前的指标（参见我们关于编码机器原型的播客）。\n配额被下达给经理，用于将员工分配到各个“等级”，随着经理们试图让自己的下属进入更高的等级，内部政治变得激烈。\n几年后，Meta的工程师们学到，避免糟糕PSC评级的最佳方法是让所有指标——影响力、提交的代码和其他数字——都高于同事。了解更多关于绩效校准的内部政治。\n问题五：token被作为绩效的一部分来衡量，因此开发人员会积极优化它。当裁员确认后，工程师们还了解到，经理们将在绩效审查期间检查token数量。这引发了担忧，那些token数量低的人可能被标记为表现不佳并被解雇。\n那么，作为Meta的工程师，自然的反应是什么？他们开始使用AI工具来生成更多的token。这发生在Meta内部有一个token排行榜，鼓励token最大化的时候。正如我在4月16日所写的：\n“据The Information报道，Meta员工在30天内使用了总计60.2万亿个AI token（！！）。如果按照Anthropic的API价格收费，这将花费9亿美元。当然，Meta很可能以折扣价购买token，但这也可能达到1亿美元以上——很大程度上是因为无意义的‘token最大化’。”\n最大的问题：人们不再关心实际工作，而是专注于表演性工作。让我们看看Meta领导层决定引入工作场所的四个要素：\n- 在法律允许的情况下，跟踪所有工程师的键盘和鼠标点击\n- 将相当一部分工程师重新分配到全职数据标注\n- 让员工知道其中10%将被裁员\n- 拥有一种文化，开发人员优化PSC期间衡量的所有指标\n- 将token使用量作为PSC的一部分进行衡量\n把这些混合在一起，你会得到什么？两件事：\n- 每个人都过度使用AI来提升个人统计数据。一支尽可能使用AI、尽可能少用人工输入的假装工作的工程团队。这是一种奇怪的激励，因未能正确审查代码而导致的事故不会成为解雇的理由，但手动编写代码——而不是让AI代理编写——可能会让你丢掉工作\n- 每个资历较长的工程师都在寻找新工作，或者至少正在考虑。那些在Meta待了较长时间的人已经看够了。让我用视觉来描述这一点：\n新鲜数据似乎证实，从5月开始，Meta有更多工程师在寻找“出路”。以下是Meta用户注册领先的科技巨头面试准备服务interviewing.io的变化情况，在过去一年半中：我们可以看到5月份的注册量比去年同期大幅跃升，正如创始人兼首席执行官Aliner Lerner与我们分享的那样：\n\n（我们在《2026年软件工程就业市场状况》深度报告中涵盖了来自interviewing.io和其他有趣数据源的更多数据。）\n平心而论，Meta已经向剩余团队中几位被视为关键的工程师发放了慷慨的留任股权包。这些股权包使得在其他地方获得匹配的薪酬变得更加困难。尽管如此，我采访了一位获得股权增补的工程师，他说这种方法帮助他决定尽快离开，因为他对缺乏自主权和对事情没有控制权感到不满。\n4. 有史以来最尴尬的宕机事件\nMeta的核心基础设施和安全团队突然发现自己严重人手不足。大多数人都在推动AI生成的代码，并仅由AI进行审查，而不太关注质量。毕竟，他们面临着失业的可能性，同时还要在团队最优秀的工程师数量减半的情况下进行救火，运营一个没有这些工程师的团队，并且都知道使用AI可能会影响自己的工作安全。\n两周前，即5月30日，Meta历史上最尴尬的宕机事件发生了。以下是软件工程师Siddharth Sundharam的总结（强调为我所加）：\n“昨天，一大批Instagram账户，包括一些高知名度的账户，如奥巴马白宫账户，似乎被黑客入侵了。\n听着，我不是新手。我已经花了将近十五年的时间在独角兽规模的公司中识别漏洞和利用方法，但这是迄今为止最不严肃、‘几乎愚蠢到令人难以置信’的一次。\n接管流程：\n步骤01：伪造位置并发起支持请求。攻击者只需要你的账户用户名就可以开始。然后，他们通过VPN或代理连接到靠近你所在城市的服务器，这样Instagram的安全算法就不会怀疑。（你可以很容易地从你的公开资料或‘关于’部分或一百种其他方式获得这个信息。）一旦请求看起来来自正确的地区，他们就会告诉Meta支持AI账户被黑客入侵，并要求将验证码发送到他们控制的任意电子邮件地址。\n步骤02：就这样。真的，就这样。\n这是我在生产环境中看到的第一个真正的零认证密码重置。似乎没有额外的检查来确认所提供的电子邮件是否真的是用户以前使用过的。一旦AI将安全代码发送到攻击者的电子邮件，攻击者就将其传回以完成验证。平台会提供一个全新的密码重置链接，将账户的完全所有权授予攻击者。”\n这是一次安全漏洞，Meta将其额外安全、加固的前门敞开，任何人都可以进来，而且发生时没有任何警报通知任何人！似乎Meta只有在用户开始在社交媒体上报告时才注意到！\n通过与Meta内部人员的交流，我了解到AI是这次宕机的核心。AI生成的、AI审查的代码，以及安全团队被削减，共同导致了这一极其尴尬的事件。我四处打听，以下是我收集到的信息：\n- Instagram的信任与安全团队因数据标注和裁员失去了大约50%的员工。一些最资深的员工被抽调去从事AI训练任务。\n- 在过去两个月里，AI生成的更改在整个代码库中非常普遍，这些更改没有经过人工输入，只有另一个AI代码审查。导致这次宕机的更改看起来就是其中之一。\n- 通常情况下，信任与安全团队会负责监控和警报安全漏洞，但由于内部快速重组，目前该团队完全混乱。\nMeta的首席安全官在第二天就辞职了。宕机在6月1日星期一得到解决，并作为SEV流程的一部分开始了调查。星期二，Meta的首席信息与安全官（CISO）Guy Rosen宣布离职。\n\n巧合？我怀疑不是：如果CISO曾警告过安全组织被削弱但被忽视，那么他们可能已经辞职，因此不再信任领导层。我还猜想，CISO并没有想到将Instagram安全团队的一半人员调去做数据标注。\n\n作为说明，之前最严重的宕机是2021年所有Meta服务宕机七小时，原因是DNS/BGP配置问题。那是一次严重的宕机，但在我看来，Meta处理后续工作做得很好。在2021年那次宕机后，Meta发布了事后报告并道歉。但对于最近的Instagram账户接管宕机，Meta并未这样做。\n\n5. 内部混乱\n《连线》杂志分享了更多关于Meta内部现状有多糟糕的细节：\n\n“本周早些时候，在Meta一次仅限员工参加的直播演示中，有人爆粗口打断会议，抱怨‘成为公司的牛马’，据《连线》听到的录音显示。此人随后要求会议主持人写信给某位Meta AI高管，并‘告诉他他是个废物’。”\n\n这一事件发生在有数千名员工参加的会议上，反映了公司内部应用AI团队日益增长的不满情绪。该团队于3月成立，旨在支持Meta超级智能实验室的AI研究人员的工作。三位现任员工告诉《连线》，对于Meta如何组建这个约6500名工程师和产品经理的团队，以及他们声称被分配去改进AI模型的苦差事，存在广泛的不满。\n\n“这简直就是古拉格，”其中一位员工声称。“你突然失去了生活的目标，几乎不与人互动，每周只有这些任务。”\n\n还有更多：据报道，Meta的首席产品官克里斯·考克斯向员工承认，Meta的高层领导（即他之上的高管，也就是Meta的C级高管）制造了这场混乱。同样来自《连线》：\n\n在本周Instagram全体员工参加的会议上，Meta首席产品官克里斯·考克斯谈到了过去几个月“这家公司的疯狂”所创造的“艰难”和“残酷”的环境，据《连线》听到的录音。考克斯赞扬了Instagram员工在推出功能和服务约20亿用户的同时，他将其比作“在冰雹风暴中跑马拉松，然后，就像，你的队友被替换了，然后我们还在录你。”\n\n“这简直是他妈的怎么回事，”他说道，引来笑声，然后重复了一遍。“这简直是他妈的怎么回事。”\n\n6. 自找的伤害\n那么，正如CPO克里斯·考克斯所说，“这家公司的疯狂”的根本来源是什么？我交谈过的工程师们将矛头指向两个人：马克·扎克伯格和亚历山大·王。扎克伯格完全控制着公司，并做出了将大部分工程人员调去做数据标注、推出跟踪软件，以及在Meta实现创纪录收入和利润时裁员10%的决定。作为CEO，责任显然在他身上。\n\n但很难忽视的是——除了裁员之外——Meta所做的一切都来自Scale AI的剧本，而这肯定来自王：\n- 强制记录键盘和鼠标操作以生成训练数据\n- 强制4500多名工程师进行数据标注，以生成高质量的RLHF，肯定是为了Meta正在构建的编码LLM\n- 从业务核心夺走最优秀的工程师，这肯定得到了马克·扎克伯格的批准，他认为训练编码AI比可靠运营Instagram、Facebook或Messenger等核心业务更重要。哦，我有没有提到周六（6月12日）Facebook和Instagram又发生了一次SEV0，即完全宕机？\n\n在这一切发生之前，Meta 本有望在年底超越谷歌，成为全球第一大广告业务公司。但出于某种原因，马克·扎克伯格决定开发一个编码大语言模型更为重要。\n\nMeta 的领导层现在正试图弥补他们所造成的所有损害。据《连线》杂志报道，Meta 的首席技术官安德鲁·博斯沃思向员工承认，这次人工智能重组是糟糕的，并承诺未来将改善沟通。\n\n在我看来，很明显扎克伯格并不关心工程师们对大规模变革的感受，而博斯沃思很可能忽视了混乱，尽管工程师们深知下一个 AI 模型比他们对业务更重要。博斯沃思还表示，员工将可以使用 AI 辅导工具。考虑到这种情况，真是体贴！\n\n根据我所了解的一切，Meta 的工程文化已经消亡，因为领导层已经明确表示，公司的工程部门是一个成本中心。\n\n不用说，我希望我的评估是错的，但我还没有从马克·扎克伯格和亚历山大·王——这两位制造当前混乱的高管——那里看到任何迹象表明我的评估有误。可能有一段时间，如果像数据标注任务和员工跟踪这样的重大变革被撤销，Meta 的情况可能会恢复正常。当前状况持续的时间越长，资深工程师肯定会离开得越多。\n\n7. “AI 精神病”只是 Meta 的问题吗？\n\n看到 Meta 的技术创始人如此专注于 AI，以至于忽视了他公司核心的工程师，这真是令人痛心。但 Meta 是特例吗？\n\n米切尔·桥本（Ghostty 的创建者，HashiCorp 的创始人）表示，他看到了其他创始人的类似行为（强调为我所加）：\n\n“我坚信目前有整个公司都处于严重的‘AI 精神病’状态，与他们进行理性对话是不可能的。我不能点名具体的人，因为他们包括我深为尊敬的个人朋友，但我担心这会如何发展。\n\n我经历过向云和云自动化过渡期间基础设施的 MTBF 与 MTTR（平均故障间隔时间与平均恢复时间）大清算。所有那些争论又抬头了，但现在……是整个软件开发行业（也许真的是整个世界）。\n\n这很可怕，因为‘精神病患者’几乎在‘MTTR 就是一切’的心态下运作：‘发布 bug 没问题，因为代理会很快修复它们，而且规模是人类无法做到的！’我们在基础设施中学到，MTTR 很好，但你不能完全抛弃弹性系统。\n\n主要问题是，我甚至不知道如何向我认识的人提起这件事，因为提起这个话题会立即被驳回，比如‘不不，它有完整的测试覆盖’，或者‘bug 报告在减少’之类的，这些并不能反映全貌。\n\n我们已经在基础设施领域吸取过一次教训：你可以自动化到一个非常有弹性的灾难机器。系统可能从局部指标看是健康的，而全局上变得难以理解。bug 报告可能减少，而潜在风险却在爆炸。测试覆盖率可能上升，而语义理解却在下降。变化发生得如此之快，以至于没有人注意到底层架构的腐朽。\n\n我担心。”\n\nInstagram 的宕机事件正是如此：工程团队降低了 AI 生成和 AI 审查代码的质量标准，可能期望他们能迅速从故障中恢复。他们确实恢复了……但在损害造成之后，高知名度的 Instagram 账户被黑客入侵，系统被攻破，这一切都非常公开。\n\n米切尔强调了创始人高估 AI 能力的具体担忧，因此在上线代码时放弃了合理的保障措施。\n\n要点\n我们大多数人可能都能从Meta因过度关注AI而排斥作为公司命脉的员工所导致的灾难性事件中学到一些东西。好消息是，我听说在英国，10%的裁员中有一部分突然被取消了：在强制咨询期结束时，一些基础设施和安全团队得知，他们团队中不会有工程师像最初预期的那样被解雇。\nMeta业务蓬勃发展，并且已经通过增加广告收入成为AI的受益者。与此同时，我的Facebook信息流里充斥着AI生成的假视频，下面有数百条来自机器人和似乎没有意识到这是AI的人的评论。这一切看起来都只是Meta在广告旁边展示的更多内容。\n然而，尽管业务蒸蒸日上，Meta的领导层却发起了一场对其工程组织造成尽可能大损害的运动。显然，他们现在意识到大部分损害是毫无意义的。\n如果你处于领导地位，并且因为与AI相关的原因而想要进行剧烈的组织变革，请深呼吸，看看Meta的结局。同时，如果你是一家领导层过度关注AI的公司的工程师，可以考虑转发这篇文章作为额外的背景信息。\n如果你正在招聘那些对AI非常精通、动手能力极强的杰出工程师，那么现在从Meta获取人才比以往任何时候都容易。我认识的这家公司的每一位工程师都是AI的早期采用者，并且知道如何构建产品和AI基础设施。这些人对公司及其领导层已经感到失望。Meta的人才流失将是其他初创公司和大型科技公司的收获；这是AI带来的一个可能有点出乎意料的益处——尤其是对Meta而言！\n看来“快速行动，打破常规”的旧口号现在已延伸到Meta的工程组织本身，公司急于过度投资AI，以避免错过科技行业最新的超级趋势。",
+      "annotations": [
+        {
+          "type": "data",
+          "quote": "Meta大约有25000名工程师，这意味着每五到六名软件工程师中就可能有一人现在全职从事数据标注工作。",
+          "note": "关键数据：显示Meta将大量工程师重新分配至数据标注，影响范围广，是工程文化转变的核心指标。"
+        },
+        {
+          "type": "data",
+          "quote": "Meta员工在30天内使用了总计60.2万亿个AI token（！！）。如果按照Anthropic的API价格收费，这将花费9亿美元。",
+          "note": "关键数据：反映Meta内部AI token使用量巨大，且与绩效挂钩，导致工程师过度使用AI，影响工作质量。"
+        },
+        {
+          "type": "decision",
+          "quote": "产品工程团队收到了上级指令，要求30-50%的工程师离开团队，加入ADO组织（代理数据优化）。",
+          "note": "关键决策：强制重新分配大量工程师至数据标注岗位，是Meta工程文化剧变的核心动作，引发内部不满。"
+        },
+        {
+          "type": "decision",
+          "quote": "Meta以148亿美元收购了Scale AI 49%的股份，以重启其AI工作，并让Scale AI的首席执行官亚历山德·王接管Meta的AI战略。",
+          "note": "关键决策：Meta通过投资和人事任命，将AI战略交由外部专家主导，导致后续一系列激进措施。"
+        },
+        {
+          "type": "insight",
+          "quote": "当生活给你柠檬时，你可以抱怨，也可以像这位开发者一样制作柠檬水。",
+          "note": "关键观点：在困境中保持积极心态的启示，但也反映部分工程师的无奈适应。"
+        }
+      ]
+    },
+    {
+      "pillar": "data",
+      "relevance_score": 85,
+      "tags": [
+        "科技行业",
+        "大型科技公司",
+        "AI实验室",
+        "招聘趋势",
+        "组织扁平化"
+      ],
+      "structured_summary": {
+        "background": "2026年软件工程就业市场深度报告，基于独家数据，揭示AI实验室与大型科技公司在人才吸引力上的对比，以及前端和移动端岗位的衰退趋势。",
+        "decision_action": "报告分析了AI实验室对人才的吸引力超过大型科技公司，以及管理层的'大扁平化'现象，即减少中层管理岗位。",
+        "result": "数据显示原生移动和前端岗位数量下降，AI实验室成为人才首选，管理层级正在缩减。",
+        "lesson": "高管应关注人才流向AI实验室的趋势，考虑组织扁平化以提升效率，并调整技术岗位结构以适应市场变化。"
+      },
+      "executive_takeaway": "AI实验室正吸走顶尖人才，组织需扁平化并调整技术栈。",
+      "signal_strength": "medium",
+      "id": "2dbd0b4b",
+      "feed": "pragmatic-engineer",
+      "tier": "frontier",
+      "title": "State of the software engineering job market in 2026, part 2",
+      "link": "https://newsletter.pragmaticengineer.com/p/the-job-market-in-2026-part-2",
+      "published": "Tue, 09 Jun 2026 16:35:53 GMT",
+      "ingested_at": "2026-08-02T01:59:20.099829+00:00",
+      "content": "2026年软件工程就业市场状况，第二部分\n深入探讨科技就业市场，独家数据显示AI实验室比大型科技公司更具吸引力，原生移动端和前端岗位减少，管理层的“大扁平化”等\n当今就业市场情况如何？在我们对科技就业市场的深入探讨的第二部分中，我们试图回答这个重大问题，继两周前发布的第一部分关于2026年科技就业市场之后。\n首先，非常感谢合作伙伴团队为本次深入探讨分享独家细节：\n- Interviewing.io：对顶级公司工程师进行匿名模拟面试。感谢创始人兼首席执行官Aline Lerner。\n- Workforce.ai，由Live Data Technologies构建，每月监控超过100万次职位变动和3亿次以上就业验证，涵盖公司、职位、级别、职能、行业和地点。特别感谢Alex Hamilton的投入。\n- SignalFire：一家拥有杰出数据分析团队的风险投资公司。通常，他们的数据用于为其投资组合公司提供重大商业优势，但他们破例为本文分享了一些数据。特别感谢Asher Bantock。\n- TrueUp：一个扫描大型科技公司、顶级初创公司和规模化企业所有空缺职位的平台，这些职位通常支付在软件工程薪酬三峰模型中的前两个层级。谢谢Amit Taylor。\n今天，我们涵盖：\n- 顶级AI实验室现在比大型科技公司更具吸引力。Anthropic在求职者中用于面试准备服务的需求最高。与OpenAI一起，这几乎肯定是科技行业职位竞争最激烈的地方。\n- 新毕业生和实习生更难被录用。数据显示，即使软件工程招聘正在复苏，实习生招聘人数也在下降。大型科技公司招收的实习生数量是以前的一半，候选人的工作和教育背景比以往任何时候都更重要。\n- 移动端和前端需求下降，AI和FDE激增。前端工程师职位在整个行业中消失最快，其次是原生iOS和Android职位。\n- AI工程薪酬>软件工程薪酬。AI工程师比软件工程师更受欢迎，并且获得更高的薪酬报价，尤其是在股权方面。在美国第80百分位，高级工程师的30万美元以上基本工资现在已成为常态。\n- 管理层的“大扁平化”仍在继续。整个行业中每位工程师对应的工程经理数量减少，大型科技公司的工程副总裁和工程总监职位也在减少。\n- 大型科技公司的资历和任期持续上升。自2023年零利率结束以来，似乎诱惑大型科技公司员工跳槽的方式更少了，所以他们留在原地。\n- 面试准备报名：它们表明了什么？进行大规模裁员的公司往往看到开发者报名练习面试的人数激增。以下是工程师准备在其他地方面试的前20家公司列表。\n- 离开大型科技公司后工程师的去向。从亚马逊离开的工程师几乎去往任何地方。从谷歌、苹果和Meta离开的工程师大多去往AI实验室。微软是前员工成为自己老板（为自己工作）最多的地方。\n提醒一下，在第一部分中，我们涵盖了：\n- 软件工程招聘：总体呈上升趋势\n- 大型科技公司和上市公司\n- 谁在招聘最多的软件工程师？\n- AI工程：爆炸性需求\n- 谁在招聘最多的AI工程师？\n- AI工程是否正在取代软件工程招聘？\n请参阅第三部分，了解招聘经理和求职者的故事，涵盖：\n- “第二十二条军规”：没有人能找到彼此\n- 缺乏信任。是AI的错吗？\n- 对某些人来说是热门市场，但对大多数人来说很艰难\n- 更高的招聘门槛和更低的薪酬——但并非对所有人\n\n工程领导招聘：对资深IC来说也很奇怪\n美国市场趋势\n英国、欧盟及世界其他地区的趋势\n让我们来看最新数据：\n1. 顶级AI实验室现在比大型科技公司更具吸引力\n在本系列的第一部分，我们报道了AI工程需求的爆炸性增长：\n在过去一年中，顶级公司的AI工程职位空缺增加了60%，而同一地方的软件工程职位空缺增长了7%。我们还发现，大型科技公司正在大幅增加AI工程人员编制：\nAnthropic：需求最高\n新数据表明，两大AI实验室正在吸引最多的候选人申请其AI工程职位，这相当可预测。\nInterviewing.io是一家求职面试准备服务公司，为客户提供针对特定公司面试的辅导。根据客户提及次数，Anthropic是大多数候选人通过付费辅导准备的公司，而且遥遥领先：\n值得注意的是，OpenAI（占候选人16%）的份额与Google（17%）和其他大型科技公司（17%）大致相同。Anthropic和OpenAI合计占interviewing.io辅导请求的51%。作为背景，interviewing.io今年才为前沿实验室增加辅导服务！\n对Anthropic兴趣激增的几个潜在原因：\n- OpenAI取代Anthropic成为美国新设立的“战争部”的AI供应商。3月初，美国政府有争议地宣布Anthropic为“供应链风险”，并在Anthropic对AI未来在大规模监控和全自主武器中的使用提出担忧后，指定OpenAI为其AI供应商。这引发了人们对OpenAI同意跨越“红线”的怀疑。\n- Anthropic的市场主导地位持续。根据我们2月份的AI工具调查，Claude Code是最受欢迎的开发者工具。似乎情况变化不大。\n- Anthropic的估值超过OpenAI。3月，Anthropic以9650亿美元的估值筹集了650亿美元的资金，使其估值首次超过OpenAI。\n- Anthropic率先申请上市。上周，Anthropic申请上市，比OpenAI早一周。\nAnthropic还在5月招募了最受欢迎的AI研究员Andrej Karpathy。我的感觉是，在两家实验室之间，Anthropic目前势头更猛，并且可能因其看似有原则的立场而获得了“光环效应”。它吸引更多候选人并不奇怪。\nAI实验室从哪里招聘？\n我们调查了三个最受欢迎的AI实验室：Anthropic、OpenAI和Google DeepMind的新员工来源。以下是我们发现的情况：\nAnthropic的招聘来源，按受欢迎程度排序：\n- Google（通常是Google DeepMind）\n- Meta\n- Stripe\n- Microsoft\n- Amazon（AWS）\n- Databricks\nOpenAI：\n- Google\n- Meta\n- Apple\n- Stripe\n- Statsig（在OpenAI收购Statsig后）\n- Microsoft\n- Amazon（主要是AWS）\n- Databricks\n- Airbnb\n- NVIDIA\nGoogle DeepMind：\n- 内部调动\n- Meta\n- Microsoft\n- Amazon\n- Windsurf\nAnthropic在所有AI实验室中拥有最高的员工留存率。SignalFire的数据发现，2年留存率（工作满2年的员工百分比）为：\n- OpenAI：67%。这与大型科技公司的其他部分一致\n- Google DeepMind：78%。远高于大型科技公司的其他部分\n- Anthropic：80%。在整个行业中脱颖而出！\n与SignalFire 2025年的发现一致，OpenAI的2年留存率为67%（FAANG水平），而Anthropic为80%，DeepMind为78%。\n2. 毕业生和实习生更难被录用\n众所周知，早期职业工程师越来越难被录用，新数据强调了这一点。\n自2022年以来实习生招聘人数下降\nLive Data Technologies研究了30-80家美国科技公司的软件工程师与工程实习生招聘趋势，以2019年的招聘人数为基准（100%为当年总招聘人数）。范围很广，因为Live Data Technologies在其数据库中选择符合“大型上市科技公司”标准的前几十家公司。\n\n研究发现：\n放大到实习生招聘，这里将其占所有招聘人数的百分比进行了可视化：\nLive Data Technologies的分析师亚历克斯·汉密尔顿表示：\n“我们看到自2023年市场艰难以来，整体软件工程招聘开始回升。然而，实习生招聘却随之持续下降，这并非通常预期的情况。\n从历史上看，一旦公司重新开始招聘，实习生项目往往能较快反弹。但这次并未发生，2024年和2025年是该数据系列中两条线首次朝相反方向移动的年份。\n在那些实习生招聘保持稳定或增长的公司中，这几乎总是反映了它们自身的业务状况，无论是处于早期阶段还是增长较快的公司，而非任何更广泛的市场复苏。”\n毕业生岗位呈下降趋势\n根据传闻，我们听说新毕业生继续难以找到职位。我们针对美国主要科技公司的最新招聘数据证实了这一点：\n该数据中的“新毕业生”是指毕业不到一年便获得软件工程师职位的软件工程师。2025年，大型公司中每10名工程类招聘中只有1名是应届毕业生，而2023年这一比例接近3/10。\n对于新毕业生，名校背景更为重要\n我们仔细研究了新毕业软件工程师加入美国科技公司的来源，发现来自“精英”大学的成功候选人比例正在上升：\n所谓“精英”大学，我们指的是美国计算机科学排名前20的大学，如麻省理工学院、斯坦福大学、卡内基梅隆大学、加州大学伯克利分校、哈佛大学、加州理工学院、佐治亚理工学院和康奈尔大学。\n显然，这些学校声誉的影响力并非新鲜事，毕竟这正是它们成为“精英”大学的原因。但随着科技行业新毕业生招聘的减少，即使是这些大学的毕业生也可能面临比以前更少的机会。\n即便如此，随着就业市场收紧，毕业于知名大学或在知名公司实习所带来的名校背景变得愈发重要。\n3. 移动端和前端需求下降，AI和FDE激增\n以下有趣的数据显示了LinkedIn等网站上职位名称随时间的变化趋势：\n一些要点：\n- AI工程非常火热。这并不令人惊讶，在我们的研究中显而易见。\n- 前向部署工程师（FDE）正在快速增长。我们在2025年报道了对FDE的突然需求，今年我们看到FDE角色再次升温。\n- 销售工程师略有增加：销售工程师帮助完成大型B2B类交易，常见于向企业销售产品的公司。这一职位占比的上升表明更多公司正瞄准企业级客户。此外，我的感觉是FDE可以像销售工程师一样运作。\n- 原生移动工程师减少。在2022年，我观察到对原生iOS和Android工程师的需求下降。如今跨平台框架能力更强，可能导致更少的公司投资于原生应用，以及对该学科的整体需求下降。原生移动开发的“黄金时代”是否已经结束，即单一产品不再需要独立的原生iOS、原生Android和Web团队？\n- 纯前端工程师正在消失。这是数据中最有趣的趋势之一。我观察到全栈工程师在许多地方已成为常态，他们既能做前端也能做后端开发。尤其是在AI的助力下，一个精通前端的工程师没有理由不能同时从事后端工作，因此，我预计“纯”前端工程师将只会在大型公司中被聘用，这些公司存在构建设计系统等需求。我们在深度探讨《软件工程师的设计系统》中对此话题有更多覆盖。\n\n4. AI工程薪酬 > 软件工程薪酬\n科技行业一个公开的秘密是，尽管软件工程薪酬在大型科技公司和顶级初创企业中非常优厚，但在同样的地方，AI工程职位的薪酬更为优厚——在领先的AI实验室中甚至更高：",
+      "annotations": [
+        {
+          "type": "data",
+          "quote": "Anthropic和OpenAI合计占interviewing.io辅导请求的51%。",
+          "note": "这一数据表明顶级AI实验室在求职者中具有极高的吸引力，远超其他科技公司，反映了人才流向的趋势。"
+        },
+        {
+          "type": "data",
+          "quote": "2025年，大型公司中每10名工程类招聘中只有1名是应届毕业生，而2023年这一比例接近3/10。",
+          "note": "该数据量化了新毕业生就业市场的恶化程度，对人才招聘和培养策略有重要影响。"
+        },
+        {
+          "type": "data",
+          "quote": "在美国第80百分位，高级工程师的30万美元以上基本工资现在已成为常态。",
+          "note": "这一薪酬数据显示了高级AI/软件工程师的高薪水平，对薪酬策略和人才竞争有参考价值。"
+        },
+        {
+          "type": "decision",
+          "quote": "3月初，美国政府有争议地宣布Anthropic为“供应链风险”，并在Anthropic对AI未来在大规模监控和全自主武器中的使用提出担忧后，指定OpenAI为其AI供应商。",
+          "note": "这一决策改变了AI领域的竞争格局，影响了人才流向和公司战略，值得高管关注。"
+        },
+        {
+          "type": "decision",
+          "quote": "Anthropic以9650亿美元的估值筹集了650亿美元的资金，使其估值首次超过OpenAI。",
+          "note": "这一融资决策显示了Anthropic的强劲势头，可能影响AI市场的竞争态势和人才吸引力。"
+        },
+        {
+          "type": "insight",
+          "quote": "纯前端工程师正在消失。",
+          "note": "这一观点提示技术团队需要适应全栈趋势，调整招聘和技能培养策略。"
+        },
+        {
+          "type": "insight",
+          "quote": "大型科技公司的资历和任期持续上升。自2023年零利率结束以来，似乎诱惑大型科技公司员工跳槽的方式更少了，所以他们留在原地。",
+          "note": "这一洞察揭示了人才流动性的变化，对人才保留和招聘策略有启示。"
+        }
+      ]
+    },
+    {
+      "pillar": "case",
+      "relevance_score": 85,
+      "tags": [
+        "外卖平台",
+        "大型企业",
+        "AI代码生成",
+        "模型路由",
+        "中美科技竞争"
+      ],
+      "structured_summary": {
+        "background": "美国最大外卖平台DoorDash因使用中国AI模型（月之暗面Kimi K2.6）编写代码，遭到美国众议院两个委员会主席的调查，要求提供相关信息。",
+        "decision_action": "DoorDash创始人透露，内部测试显示Kimi K2.6与Anthropic Fable 5的组合在性能上超越Sonnet 4.6+Opus 4.8，且成本更低，因此通过模型路由服务将底层任务委托给Kimi K2.6。",
+        "result": "待验证：调查结果未公布，DoorDash表示支持美国AI领先并愿配合调查。",
+        "lesson": "高管在采用AI工具时需评估地缘政治风险，尤其是使用非本土模型可能引发的合规与声誉问题。同时，成本与性能优势可能促使企业冒险，但需提前建立应对监管调查的预案。"
+      },
+      "executive_takeaway": "AI选型需兼顾性能与地缘政治风险，合规预案不可少。",
+      "signal_strength": "medium",
+      "id": "9f9f99d5",
+      "feed": "aihot",
+      "tier": "frontier",
+      "title": "因使用月之暗面模型写代码，美国最大外卖平台 DoorDash 被议员调查",
+      "link": "https://www.ithome.com/0/984/647.htm",
+      "published": "2026-08-01",
+      "ingested_at": "2026-08-02T02:00:48.311612+00:00",
+      "content": "IT之家 8 月 2 日消息，据科技媒体 CNBC 前天报道，美国众议院两个委员会的主席正展开联合调查，要求全美最大外卖平台 DoorDash 提供其使用的中国 AI 大模型信息。\nDoorDash 创始人 Andy Fang 曾在 X 平台发文称，据内部测试结果，月之暗面 Kimi K2.6+Anthropic Fable 5 的组合可超越 Sonnet 4.6 + Opus 4.8，并且成本更低。目前公司已经用上模型路由服务，将底层任务委托给 Kimi K2.6。\n而美国众议院的调查函是这么写的：“我们意识到，美国企业可能会部署中国开发的开放权重模型，这些模型拥有更具竞争力的使用成本、定制化特性。但这些现实因素并不能消除安全风险，也不会降低国家安全担忧。”\n人工智能已经成为中美竞争的重要领域，两国都在争夺领先地位。美国众议院国土安全委员会主席 Andrew Garbarino 曾表示：“中国已经不只是追随美国发展脚步，他们正在努力缩小差距。近期有报道称，中国开源模型在网络安全能力能够达到美国先进模型水平，令人担忧。”\nDoorDash 发言人对此回应称：“DoorDash 坚定支持美国 AI 领先，并致力于让 AI 能够普惠美国企业。我们期待与调查委员会合作，讨论我们如何安全使用 AI，包括美国开发的前沿模型以及开放权重模型。”\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。",
+      "annotations": [
+        {
+          "type": "data",
+          "quote": "据内部测试结果，月之暗面 Kimi K2.6+Anthropic Fable 5 的组合可超越 Sonnet 4.6 + Opus 4.8，并且成本更低。",
+          "note": "关键数据：中国AI模型组合在性能上超越美国顶尖模型，且成本更低，这是中国企业技术实力的直接体现。"
+        },
+        {
+          "type": "decision",
+          "quote": "目前公司已经用上模型路由服务，将底层任务委托给 Kimi K2.6。",
+          "note": "关键决策：DoorDash已实际采用中国AI模型，表明中国模型在商业应用中的可行性和竞争力。"
+        },
+        {
+          "type": "insight",
+          "quote": "中国已经不只是追随美国发展脚步，他们正在努力缩小差距。",
+          "note": "关键观点：美国官员承认中国AI发展迅速，已从追随者变为竞争者，对全球AI格局有重要影响。"
         }
       ]
     },
     {
       "pillar": "memo",
-      "relevance_score": 75,
+      "relevance_score": 85,
       "tags": [
-        "科技",
-        "大型企业",
-        "AI CEO",
-        "人性联结",
-        "失业"
+        "AI",
+        "企业",
+        "流程重构"
       ],
       "structured_summary": {
-        "background": "OpenAI CEO 萨姆·奥尔特曼在公开场合分享对 AI 取代人类工作的看法。",
-        "decision_action": "奥尔特曼反思早期判断，认为人们更珍视人与人之间的联结，并不想要 AI CEO，即使 AI 能胜任多种角色。",
-        "result": "奥尔特曼改变了对 AI 造成大规模失业的早期判断，并表示'很高兴判断错了'。",
-        "lesson": "高管在推动 AI 替代人力时，需考虑人性联结的价值，保留关键人际决策环节，避免完全自动化领导角色。"
+        "background": "Claude Code 创始人 Boris Cherny 在社交媒体上引用 1996 年哈佛商业评论研究，讨论企业 AI 集成效果不佳的原因。",
+        "decision_action": "Boris Cherny 提出观点：企业应将 AI 置于业务中心，彻底重构流程，而非仅作为辅助工具。",
+        "result": "待验证",
+        "lesson": "高管应审视现有流程，考虑以 AI 为中心进行彻底重构，而非简单叠加工具。"
       },
-      "executive_takeaway": "AI 替代人力需谨慎，人性联结不可忽视。",
+      "executive_takeaway": "AI 提效需重构流程，而非辅助工具。",
       "signal_strength": "medium",
-      "id": "a094925b",
+      "id": "4bfe14d9",
       "feed": "aihot",
       "tier": "frontier",
-      "title": "OpenAI 奥尔特曼：人们并不想要 AI CEO，且更珍视人性联结",
-      "link": "https://www.ithome.com/0/982/804.htm",
-      "published": "2026-07-28",
-      "ingested_at": "2026-07-29T01:41:02.629027+00:00",
-      "content": "IT之家 7 月 29 日消息，据《商业内幕》今天（29 日）报道，OpenAI CEO 萨姆·奥尔特曼认为，人们并不希望让 AI 取代自己的职位。“以我的工作为例，外界希望知道谁要为一家公司的决策负责；如果决策失误，又该向谁追责。人们其实并不想要 AI CEO。”\n\n相较以往，奥尔特曼对这一问题的看法已经悄然发生了变化。据IT之家了解，去年 11 月，他曾在播客节目《与泰勒对话》中称，如果其他公司抢在 OpenAI 之前用 AI 模型取代 CEO，对 OpenAI 而言无异于一种失败。“如果 OpenAI 不是第一家由 AI CEO 管理的大公司，我就该感到羞愧。”\n\n奥尔特曼指出，人们重视人与人之间的联系，是 AI 尚未像自己最初预计那般“颠覆”经济的原因之一。“人们非常信任与他人共事，也享受这一过程。现在已经可以聘请 AI 顾问、与 AI 销售代表交谈，或雇用 AI 工程师，但不知为何，大多数人好像仍然更愿意和真人打交道。”\n\n对于这样的现状，奥尔特曼坦言自己也能感同身受。“几乎无论做什么，我都更愿意与真人交流，而不是 AI。”\n\n他以艺术创作为例：即使 AI 模型已经能够生成令人惊叹的图像，人们仍然珍视人类创作的艺术品。“有人开玩笑说，到了这个阶段，一件艺术品的大部分价值都在作者签名上。但事实是，人们想了解作品背后的创作者。阅读小说时，人们同样想了解作者。”\n\n奥尔特曼认为，人们坚持保留并珍视人性，也让他改变了 AI 是否会像此前设想的那样造成大规模失业的看法。此前，他曾称 AI 将消灭“整个类别”的工作；而最近却认为 AI 对初级岗位的短期冲击没有达到预期，自己“很高兴判断错了”。\n\n广告声明：文内含有的对外跳转链接（包括不限于超链接、二维码、口令等形式），用于传递更多信息，节省甄选时间，结果仅供参考，IT之家所有文章均包含本声明。",
+      "title": "Claude Code 之父谈 AI 提效关键：以模型为中心重构流程",
+      "link": "https://x.com/rohanpaul_ai/status/2083657147318218756",
+      "published": "2026-08-01",
+      "ingested_at": "2026-08-02T02:01:21.286130+00:00",
+      "content": "为什么许多公司在将人工智能整合到工作流程中后，仍未获得巨大的生产力提升。\nClaude Code的创造者Boris Cherny（@bcherny）引用1996年《哈佛商业评论》的一项研究，解释了在最初计算机化时代的情况。\n“文章提出的论点，我认为与今天有着巨大的相似之处，是有些公司保留了原有的纸笔流程和文件柜。每个人继续用纸工作，而电脑则被放在办公室的某个角落。有一个人被指派将信息输入电脑，而那个人是唯一使用它的人。\n那些公司没有看到生产力的提升。他们只是为某人创造了一个与电脑互动的新工作。\n而那些确实看到效益的公司，将电脑放在办公室的中心，将所有纸质记录数字化，并扔掉了文件柜。然后一切都通过电脑进行。它成为了公司业务流程的中心。\n每当他们发现纸笔流程造成的瓶颈时，他们就将其数字化。然后他们找到下一个瓶颈，也将其数字化。他们继续这样做，直到整个业务流程被重新设计。\n当我观察我们的客户以及Anthropic本身时，看到生产力提升最大的企业，是那些将Claude置于运营中心，并一次解决一个瓶颈的企业。”\n----\n来自“Bloomberg Podcasts”YouTube频道，（完整视频链接在评论中）",
       "annotations": [
         {
           "type": "data",
-          "quote": "去年 11 月，他曾在播客节目《与泰勒对话》中称，如果其他公司抢在 OpenAI 之前用 AI 模型取代 CEO，对 OpenAI 而言无异于一种失败。",
-          "note": "显示奥尔特曼此前对AI取代CEO的激进预期，与当前观点形成对比。"
-        },
-        {
-          "type": "data",
-          "quote": "此前，他曾称 AI 将消灭“整个类别”的工作；而最近却认为 AI 对初级岗位的短期冲击没有达到预期，自己“很高兴判断错了”。",
-          "note": "关键数据点：奥尔特曼修正了对AI导致大规模失业的预测，表明实际影响低于预期。"
+          "quote": "1996年《哈佛商业评论》的一项研究",
+          "note": "这是一个关键的历史研究引用，为当前AI应用提供了类比基础。"
         },
         {
           "type": "decision",
-          "quote": "OpenAI CEO 萨姆·奥尔特曼认为，人们并不希望让 AI 取代自己的职位。",
-          "note": "奥尔特曼公开表态反对AI取代人类职位，影响OpenAI的产品方向和公众沟通策略。"
+          "quote": "将电脑放在办公室的中心，将所有纸质记录数字化，并扔掉了文件柜",
+          "note": "这是成功企业的关键决策，将技术置于核心并彻底数字化，而非边缘化。"
+        },
+        {
+          "type": "decision",
+          "quote": "每当他们发现纸笔流程造成的瓶颈时，他们就将其数字化。然后他们找到下一个瓶颈，也将其数字化。",
+          "note": "持续迭代解决瓶颈的决策，是成功转型的关键动作。"
         },
         {
           "type": "insight",
-          "quote": "人们非常信任与他人共事，也享受这一过程。现在已经可以聘请 AI 顾问、与 AI 销售代表交谈，或雇用 AI 工程师，但不知为何，大多数人好像仍然更愿意和真人打交道。",
-          "note": "核心洞察：人类对人际互动的偏好是AI未能快速颠覆经济的关键原因，企业应重视人性化服务。"
+          "quote": "那些公司没有看到生产力的提升。他们只是为某人创造了一个与电脑互动的新工作。",
+          "note": "警示高管：仅将技术作为辅助而非核心，不会带来生产力提升。"
         },
         {
           "type": "insight",
-          "quote": "人们坚持保留并珍视人性，也让他改变了 AI 是否会像此前设想的那样造成大规模失业的看法。",
-          "note": "启示：人性价值是AI替代的重要缓冲，企业变革需平衡技术效率与人文关怀。"
+          "quote": "看到生产力提升最大的企业，是那些将Claude置于运营中心，并一次解决一个瓶颈的企业。",
+          "note": "核心启示：AI应置于业务中心，并持续解决瓶颈，才能实现生产力提升。"
         }
       ]
     }
